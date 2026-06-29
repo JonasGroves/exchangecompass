@@ -1629,10 +1629,15 @@ function movePriority(p, dir) {
 }
 
 function climateScore(u) {
-  if (u.climate === 'hot') return 8;
-  if (u.climate === 'mild') return 9;
-  if (u.climate === 'varied') return 6;
-  return 3; // cold
+  switch(u.climate) {
+    case 'sunny':    return 9;
+    case 'tropical': return 7;
+    case 'mild':     return 6;
+    case 'varied':   return 5;
+    case 'hot':      return 4;
+    case 'cold':     return 2;
+    default:         return 4;
+  }
 }
 
 // Translates the 0-10 city-wide English proficiency score (based on EF EPI 2025

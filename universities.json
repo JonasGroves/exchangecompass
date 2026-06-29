@@ -581,7 +581,7 @@
       "cityLife": 6
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -807,7 +807,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -1364,7 +1364,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -1687,7 +1687,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -1796,7 +1796,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -4004,7 +4004,7 @@
       "cityLife": 8
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -4551,7 +4551,7 @@
       "beach": 5
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -5606,7 +5606,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -6145,7 +6145,7 @@
       "cityLife": 8
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -7231,7 +7231,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -7340,7 +7340,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "hot",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -9591,7 +9591,7 @@
       "foodScene": 9,
       "cityLife": 9
     },
-    "climate": "mild",
+    "climate": "varied",
     "id": "politecnico-di-milano",
     "qsRank": 139,
     "budgetTier": "med",
@@ -9766,7 +9766,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -10707,7 +10707,7 @@
       "cityLife": 8
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -11572,7 +11572,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -11681,7 +11681,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -11790,7 +11790,7 @@
       "cityLife": 8
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -12121,7 +12121,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -13407,7 +13407,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -14334,7 +14334,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -14462,7 +14462,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -14700,7 +14700,7 @@
       "cityLife": 5
     },
     "citySize": "small",
-    "climate": "hot",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -15131,7 +15131,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -15451,7 +15451,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -15557,7 +15557,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -15887,7 +15887,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -15950,7 +15950,7 @@
       "cityLife": 4
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -17405,7 +17405,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -17636,7 +17636,7 @@
       "cityLife": 5
     },
     "citySize": "small",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -17806,7 +17806,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -18030,7 +18030,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -18744,7 +18744,7 @@
       "cityLife": 4
     },
     "citySize": "small",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -19024,7 +19024,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -19224,7 +19224,7 @@
       "cityLife": 8
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -19505,7 +19505,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -20040,7 +20040,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -20313,7 +20313,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -20422,7 +20422,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -20485,7 +20485,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -20588,7 +20588,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -21008,7 +21008,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -21182,7 +21182,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -21287,7 +21287,7 @@
       "foodScene": 9,
       "cityLife": 9
     },
-    "climate": "mild",
+    "climate": "varied",
     "id": "bocconi-university",
     "qsRank": 281,
     "budgetTier": "high",
@@ -21354,7 +21354,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -21722,7 +21722,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -22034,7 +22034,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -22134,7 +22134,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -22242,7 +22242,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -22368,7 +22368,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -22709,7 +22709,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -22810,7 +22810,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -22873,7 +22873,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -23144,7 +23144,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -23450,7 +23450,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -24041,7 +24041,7 @@
       "cityLife": 6
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -24317,7 +24317,7 @@
       "foodScene": 9,
       "cityLife": 10
     },
-    "climate": "mild",
+    "climate": "sunny",
     "id": "esade-business-school",
     "qsRank": 304,
     "budgetTier": "high",
@@ -24380,7 +24380,7 @@
       "foodScene": 5,
       "cityLife": 4
     },
-    "climate": "Oceanic",
+    "climate": "mild",
     "id": "hec-paris",
     "qsRank": 305,
     "budgetTier": "high",
@@ -24794,7 +24794,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -24857,7 +24857,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -25563,7 +25563,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -25626,7 +25626,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -25689,7 +25689,7 @@
       "cityLife": 8
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -26213,7 +26213,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -26684,7 +26684,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -27014,7 +27014,7 @@
       "foodScene": 6,
       "cityLife": 6
     },
-    "climate": "Continental",
+    "climate": "varied",
     "id": "university-of-mannheim",
     "qsRank": 517,
     "budgetTier": "low",
@@ -27189,7 +27189,7 @@
       "cityLife": 4
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -27305,7 +27305,7 @@
       "cityLife": 7
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -27860,7 +27860,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -27968,7 +27968,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -28244,7 +28244,7 @@
       "cityLife": 10
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -28461,7 +28461,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -28551,7 +28551,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -29085,7 +29085,7 @@
       "cityLife": 6
     },
     "citySize": "small",
-    "climate": "hot",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -29193,7 +29193,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -29256,7 +29256,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -29356,7 +29356,7 @@
       "cityLife": 4
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -29462,7 +29462,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -29670,7 +29670,7 @@
       "cityLife": 8
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -29778,7 +29778,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -29988,7 +29988,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -30374,7 +30374,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -30475,7 +30475,7 @@
       "cityLife": 8
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -30910,7 +30910,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -30969,7 +30969,7 @@
       "foodScene": 6,
       "cityLife": 6
     },
-    "climate": "Oceanic",
+    "climate": "mild",
     "id": "university-of-limerick",
     "qsRank": 424,
     "budgetTier": "low",
@@ -31144,7 +31144,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -31203,7 +31203,7 @@
       "foodScene": 6,
       "cityLife": 6
     },
-    "climate": "Continental",
+    "climate": "varied",
     "id": "boston-college",
     "qsRank": 431,
     "budgetTier": "high",
@@ -31333,7 +31333,7 @@
       "cityLife": 7
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -31509,7 +31509,7 @@
       "foodScene": 9,
       "cityLife": 9
     },
-    "climate": "mild",
+    "climate": "varied",
     "id": "ie-university",
     "qsRank": 435,
     "budgetTier": "high",
@@ -31781,7 +31781,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -31844,7 +31844,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -31944,7 +31944,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -32060,7 +32060,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -32167,7 +32167,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -32383,7 +32383,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -32446,7 +32446,7 @@
       "cityLife": 7
     },
     "citySize": "small",
-    "climate": "Temperate",
+    "climate": "cold",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -32568,7 +32568,7 @@
       "foodScene": 5,
       "cityLife": 5
     },
-    "climate": "Continental",
+    "climate": "varied",
     "id": "babson-college",
     "qsRank": 505,
     "budgetTier": "high",
@@ -32757,7 +32757,7 @@
       "foodScene": 6,
       "cityLife": 6
     },
-    "climate": "mild",
+    "climate": "sunny",
     "id": "pepperdine-university",
     "qsRank": 508,
     "budgetTier": "high",
@@ -32820,7 +32820,7 @@
       "foodScene": 5,
       "cityLife": 5
     },
-    "climate": "Continental",
+    "climate": "varied",
     "id": "rochester-institute-of-technology",
     "qsRank": 509,
     "budgetTier": "high",
@@ -32883,7 +32883,7 @@
       "foodScene": 5,
       "cityLife": 5
     },
-    "climate": "Continental",
+    "climate": "varied",
     "id": "syracuse-university",
     "qsRank": 510,
     "budgetTier": "high",
@@ -32946,7 +32946,7 @@
       "foodScene": 5,
       "cityLife": 4
     },
-    "climate": "Humid subtropical",
+    "climate": "varied",
     "id": "villanova-university",
     "qsRank": 511,
     "budgetTier": "high",
@@ -33009,7 +33009,7 @@
       "foodScene": 5,
       "cityLife": 5
     },
-    "climate": "Humid subtropical",
+    "climate": "varied",
     "id": "wake-forest-university",
     "qsRank": 512,
     "budgetTier": "high",
@@ -33202,7 +33202,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -33503,7 +33503,7 @@
       "cityLife": 6
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -33714,7 +33714,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -34005,7 +34005,7 @@
       "cityLife": 8
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -34102,7 +34102,7 @@
       "cityLife": 9
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -34396,7 +34396,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -34910,7 +34910,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "varied",
+    "climate": "cold",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -35104,7 +35104,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -35211,7 +35211,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -35308,7 +35308,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "hot",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -35502,7 +35502,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -35890,7 +35890,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -36181,7 +36181,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "hot",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -36472,7 +36472,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -36787,7 +36787,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -36850,7 +36850,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -36947,7 +36947,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -37238,7 +37238,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -37529,7 +37529,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -38305,7 +38305,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -38402,7 +38402,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -38499,7 +38499,7 @@
       "cityLife": 3
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -38984,7 +38984,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -39178,7 +39178,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -39275,7 +39275,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "hot",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -39663,7 +39663,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
@@ -40439,7 +40439,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -40536,7 +40536,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -40637,7 +40637,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -40980,7 +40980,7 @@
       "cityLife": 10
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
@@ -41423,7 +41423,7 @@
       "cityLife": 5
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -41625,7 +41625,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "hot",
     "budgetTier": "med",
     "engOnly": true,
     "costs": {
@@ -41946,7 +41946,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "mild",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -42209,7 +42209,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -42509,7 +42509,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -42709,7 +42709,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43009,7 +43009,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43109,7 +43109,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43209,7 +43209,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43309,7 +43309,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43609,7 +43609,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "cold",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43709,7 +43709,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -43809,7 +43809,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -44009,7 +44009,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -44312,7 +44312,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -44412,7 +44412,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -44512,7 +44512,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -44712,7 +44712,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -44812,7 +44812,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -45015,7 +45015,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -45115,7 +45115,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -45515,7 +45515,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "cold",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -45712,7 +45712,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -46315,7 +46315,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -46415,7 +46415,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -46721,7 +46721,7 @@
       "cityLife": 5
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -46821,7 +46821,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -47121,7 +47121,7 @@
       "cityLife": 4
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -47321,7 +47321,7 @@
       "cityLife": 7
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -47528,7 +47528,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "Temperate",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -47591,7 +47591,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -47959,7 +47959,7 @@
       "cityLife": 6
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "varied",
     "budgetTier": "med",
     "engOnly": false,
     "costs": {
@@ -49758,7 +49758,7 @@
       "cityLife": 7
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -50482,7 +50482,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -50584,7 +50584,7 @@
       "cityLife": 8
     },
     "citySize": "large",
-    "climate": "mild",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -51014,7 +51014,7 @@
       "cityLife": 4
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -51217,7 +51217,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -51541,7 +51541,7 @@
       "cityLife": 9
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -52161,7 +52161,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -52370,7 +52370,7 @@
       "cityLife": 6
     },
     "citySize": "small",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -52582,7 +52582,7 @@
       "cityLife": 4
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -53112,7 +53112,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -53214,7 +53214,7 @@
       "cityLife": 4
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
@@ -53315,7 +53315,7 @@
       "cityLife": 7
     },
     "citySize": "medium",
-    "climate": "mild",
+    "climate": "sunny",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -53638,7 +53638,7 @@
       "cityLife": 6
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": false,
     "costs": {
@@ -53852,7 +53852,7 @@
       "cityLife": 5
     },
     "citySize": "large",
-    "climate": "hot",
+    "climate": "tropical",
     "budgetTier": "low",
     "engOnly": true,
     "costs": {
