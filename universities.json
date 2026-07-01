@@ -4568,8 +4568,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 30,
-      "heavy": 80
+      "some": 30,
+      "lots": 80
     },
     "costSource": "University data + Numbeo",
     "tags": [
@@ -4738,7 +4738,7 @@
       "nature": 5,
       "beach": 2
     },
-    "citySize": "mega",
+    "citySize": "large",
     "climate": "varied",
     "budgetTier": "high",
     "engOnly": false,
@@ -9627,8 +9627,16 @@
     "englishProficiency": 5,
     "lat": 45.4654,
     "lng": 9.1859,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 700,
@@ -9776,8 +9784,16 @@
       "food": 224,
       "localCurrency": "CAD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "#1 Tech Canada",
@@ -14281,8 +14297,16 @@
       "food": 179,
       "localCurrency": "KRW"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Engineering Korea",
@@ -15897,8 +15921,16 @@
       "food": 213,
       "localCurrency": "AUD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Beach City Australia",
@@ -16926,8 +16958,16 @@
       "food": 106,
       "localCurrency": "CNY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Architecture China",
@@ -17646,8 +17686,16 @@
       "food": 174,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Catholic Europe",
@@ -18586,8 +18634,16 @@
       "food": 218,
       "localCurrency": "AUD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Melbourne University",
@@ -18754,8 +18810,16 @@
       "food": 224,
       "localCurrency": "USD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "#1 Language Programs US",
@@ -19234,8 +19298,16 @@
       "food": 375,
       "localCurrency": "CHF"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Lake Geneva Views",
@@ -20050,8 +20122,16 @@
       "food": 174,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Entrepreneurial University NL",
@@ -20432,8 +20512,16 @@
       "food": 202,
       "localCurrency": "NZD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "NZ Agriculture & Vet Leader",
@@ -21129,8 +21217,16 @@
       "food": 280,
       "localCurrency": "GBP"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "#2 Arts & Design World",
@@ -21323,8 +21419,16 @@
     "englishProficiency": 5,
     "lat": 45.4497,
     "lng": 9.1901,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 700,
@@ -21472,8 +21576,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 190
+      "some": 80,
+      "lots": 190
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -21562,8 +21666,16 @@
       "food": 109,
       "localCurrency": "CNY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Social Sciences China",
@@ -22252,8 +22364,16 @@
       "food": 213,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Business France",
@@ -22315,8 +22435,16 @@
       "food": 112,
       "localCurrency": "CNY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Beijing University",
@@ -22378,8 +22506,16 @@
       "food": 179,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Oldest Dutch City",
@@ -22463,8 +22599,16 @@
     "englishProficiency": 10,
     "lat": 53.2797,
     "lng": -9.059,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 700,
@@ -22820,8 +22964,16 @@
       "food": 185,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "EU Capital Brussels",
@@ -22883,8 +23035,16 @@
       "food": 213,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Finance School Europe",
@@ -23778,8 +23938,16 @@
       "food": 196,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "#1 Business Austria",
@@ -24290,8 +24458,16 @@
     "englishProficiency": 9,
     "lat": 55.6857,
     "lng": 12.5316,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -24353,8 +24529,16 @@
     "englishProficiency": 5,
     "lat": 41.4033,
     "lng": 2.1406,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 500,
@@ -24416,8 +24600,16 @@
     "englishProficiency": 5,
     "lat": 48.7562,
     "lng": 2.1685,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 800,
@@ -24479,8 +24671,16 @@
     "englishProficiency": 7,
     "lat": 47.4323,
     "lng": 9.3763,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 1200,
@@ -24628,8 +24828,16 @@
       "food": 151,
       "localCurrency": "KRW"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Busan Beach City",
@@ -24804,8 +25012,16 @@
       "food": 84,
       "localCurrency": "BRL"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Rio de Janeiro",
@@ -24867,8 +25083,16 @@
       "food": 190,
       "localCurrency": "SEK"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Sweden Tech University",
@@ -25573,8 +25797,16 @@
       "food": 202,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Fully English Business",
@@ -25636,8 +25868,16 @@
       "food": 241,
       "localCurrency": "DKK"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Hans Christian Andersen City",
@@ -26427,8 +26667,16 @@
       "food": 213,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Tokyo Exchange Destination",
@@ -26497,8 +26745,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 110,
-      "heavy": 270
+      "some": 110,
+      "lots": 270
     },
     "costSource": "Brunel accommodation office 2024; Numbeo Uxbridge 2024",
     "tags": [
@@ -27050,8 +27298,16 @@
     "englishProficiency": 7,
     "lat": 49.4836,
     "lng": 8.4669,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 500,
@@ -27744,8 +28000,16 @@
       "food": 218,
       "localCurrency": "CAD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Toronto Location",
@@ -27807,8 +28071,16 @@
       "food": 104,
       "localCurrency": "CNY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Shanghai Exchange Hub",
@@ -28079,8 +28351,16 @@
       "food": 190,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Sauna Capital Finland",
@@ -28561,8 +28841,16 @@
       "food": 104,
       "localCurrency": "CNY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Historic 1919",
@@ -29032,8 +29320,16 @@
       "food": 260,
       "localCurrency": "CHF"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Bilingual French-German",
@@ -29203,8 +29499,16 @@
       "food": 168,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Founded 1404",
@@ -29884,7 +30188,7 @@
       "foodScene": 9,
       "cityLife": 9
     },
-    "citySize": "mega",
+    "citySize": "large",
     "climate": "varied",
     "budgetTier": "high",
     "engOnly": true,
@@ -30212,8 +30516,16 @@
       "food": 207,
       "localCurrency": "NZD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Modern Auckland Campus",
@@ -30794,8 +31106,16 @@
       "food": 207,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Fully Bilingual Japan",
@@ -30879,8 +31199,16 @@
     "englishProficiency": 10,
     "lat": 53.3859,
     "lng": -6.2574,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 925,
@@ -30920,8 +31248,16 @@
       "food": 185,
       "localCurrency": "SEK"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Arctic Sweden",
@@ -31005,8 +31341,16 @@
     "englishProficiency": 10,
     "lat": 52.676,
     "lng": -8.5717,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 700,
@@ -31154,8 +31498,16 @@
       "food": 179,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Fashion & Diamond City",
@@ -31239,8 +31591,16 @@
     "englishProficiency": 10,
     "lat": 42.3355,
     "lng": -71.1685,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -31280,8 +31640,16 @@
       "food": 174,
       "localCurrency": "KRW"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Worlds Largest Womens Uni",
@@ -31460,8 +31828,16 @@
       "food": 202,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Historic Kyoto",
@@ -31545,8 +31921,16 @@
     "englishProficiency": 4,
     "lat": 40.4379,
     "lng": -3.6954,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 500,
@@ -31791,8 +32175,16 @@
       "food": 196,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Largest Private Italy",
@@ -32393,8 +32785,16 @@
       "food": 224,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top 10 Business Global",
@@ -32456,8 +32856,16 @@
       "food": 162,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Dolomites Location",
@@ -32541,8 +32949,16 @@
     "englishProficiency": 10,
     "lat": 38.9369,
     "lng": -77.0862,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32604,8 +33020,16 @@
     "englishProficiency": 10,
     "lat": 42.2968,
     "lng": -71.2654,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32667,8 +33091,16 @@
     "englishProficiency": 10,
     "lat": 39.9566,
     "lng": -75.1895,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32730,8 +33162,16 @@
     "englishProficiency": 10,
     "lat": 41.9997,
     "lng": -87.6582,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32793,8 +33233,16 @@
     "englishProficiency": 10,
     "lat": 34.0381,
     "lng": -118.7068,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32856,8 +33304,16 @@
     "englishProficiency": 10,
     "lat": 43.0845,
     "lng": -77.6743,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32919,8 +33375,16 @@
     "englishProficiency": 10,
     "lat": 43.0377,
     "lng": -76.1358,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -32982,8 +33446,16 @@
     "englishProficiency": 10,
     "lat": 40.0368,
     "lng": -75.3432,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -33045,8 +33517,16 @@
     "englishProficiency": 10,
     "lat": 36.134,
     "lng": -80.2776,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -33086,8 +33566,16 @@
       "food": 168,
       "localCurrency": "KRW"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Arts & Film Korea",
@@ -33149,8 +33637,16 @@
       "food": 199,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Imperial Palace Campus",
@@ -33212,8 +33708,16 @@
       "food": 308,
       "localCurrency": "USD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "NYC Jesuit University",
@@ -33275,8 +33779,16 @@
       "food": 202,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Ikebukuro Tokyo",
@@ -33338,8 +33850,16 @@
       "food": 174,
       "localCurrency": "KRW"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Near Hongdae Seoul",
@@ -33731,8 +34251,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 200
+      "some": 80,
+      "lots": 200
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -34316,8 +34836,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -34503,8 +35023,16 @@
       "food": 274,
       "localCurrency": "GBP"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Asia Africa Middle East",
@@ -34566,8 +35094,16 @@
       "food": 171,
       "localCurrency": "KRW"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "45+ Languages Korea",
@@ -34733,8 +35269,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 220
+      "some": 90,
+      "lots": 220
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -34830,8 +35366,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 220
+      "some": 90,
+      "lots": 220
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -35422,8 +35958,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -35519,8 +36055,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 220
+      "some": 90,
+      "lots": 220
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -35616,8 +36152,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 200
+      "some": 80,
+      "lots": 200
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -36392,8 +36928,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 210
+      "some": 90,
+      "lots": 210
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -36482,8 +37018,16 @@
       "food": 106,
       "localCurrency": "PHP"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Private Philippines",
@@ -36545,8 +37089,16 @@
       "food": 196,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Kansai Region Japan",
@@ -36608,8 +37160,16 @@
       "food": 199,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Central Tokyo",
@@ -36671,8 +37231,16 @@
       "food": 168,
       "localCurrency": "JPY"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "50% International Students",
@@ -36734,8 +37302,16 @@
       "food": 252,
       "localCurrency": "USD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Rocky Mountain Access",
@@ -36797,8 +37373,16 @@
       "food": 118,
       "localCurrency": "PLN"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "City of 100 Bridges",
@@ -37061,8 +37645,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 100,
-      "heavy": 250
+      "some": 100,
+      "lots": 250
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -37255,8 +37839,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 170
+      "some": 70,
+      "lots": 170
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -37837,8 +38421,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 190
+      "some": 80,
+      "lots": 190
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38031,8 +38615,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38128,8 +38712,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 170
+      "some": 70,
+      "lots": 170
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38322,8 +38906,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 170
+      "some": 70,
+      "lots": 170
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38419,8 +39003,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 180
+      "some": 80,
+      "lots": 180
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38613,8 +39197,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 190
+      "some": 80,
+      "lots": 190
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38710,8 +39294,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 180
+      "some": 80,
+      "lots": 180
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -38807,8 +39391,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 150
+      "some": 70,
+      "lots": 150
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -39001,8 +39585,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -39098,8 +39682,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 60,
-      "heavy": 150
+      "some": 60,
+      "lots": 150
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -39389,8 +39973,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 210
+      "some": 90,
+      "lots": 210
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -39486,8 +40070,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 110,
-      "heavy": 260
+      "some": 110,
+      "lots": 260
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -39777,8 +40361,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 190
+      "some": 80,
+      "lots": 190
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -40165,8 +40749,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 40,
-      "heavy": 90
+      "some": 40,
+      "lots": 90
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -40262,8 +40846,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 60,
-      "heavy": 140
+      "some": 60,
+      "lots": 140
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -40359,8 +40943,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 220
+      "some": 90,
+      "lots": 220
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -40456,8 +41040,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -40777,8 +41361,16 @@
     "englishProficiency": 9,
     "lat": 59.9295,
     "lng": 10.7705,
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 900,
@@ -40818,8 +41410,16 @@
       "food": 263,
       "localCurrency": "USD"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Chicago Lincoln Park",
@@ -40990,8 +41590,16 @@
       "food": 213,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Private Rome",
@@ -41150,8 +41758,16 @@
       "food": 140,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Digital Estonia",
@@ -41956,8 +42572,16 @@
       "food": 115,
       "localCurrency": "PLN"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "Top Tech Poland",
@@ -44208,7 +44832,7 @@
       "foodScene": 9,
       "cityLife": 9
     },
-    "citySize": "mega",
+    "citySize": "large",
     "climate": "varied",
     "budgetTier": "high",
     "engOnly": true,
@@ -47538,8 +48162,16 @@
       "food": 151,
       "localCurrency": "EUR"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "#1 Erasmus Beach Destination",
@@ -47709,8 +48341,16 @@
       "food": 263,
       "localCurrency": "GBP"
     },
-    "travelAdj": 0,
-    "partyAdj": 0,
+    "travelAdj": {
+      "low": 0,
+      "med": 0,
+      "high": 0
+    },
+    "partyAdj": {
+      "none": 0,
+      "some": 0,
+      "lots": 0
+    },
     "costSource": "University data + Numbeo",
     "tags": [
       "West End London",
