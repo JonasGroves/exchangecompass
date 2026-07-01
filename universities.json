@@ -94,7 +94,7 @@
       {
         "month": "Jan",
         "events": [
-          "IAP (Independent Activities Period) ”” unique short Jan term",
+          "IAP (Independent Activities Period) — unique short Jan term",
           "Spring semester begins early February"
         ]
       },
@@ -309,7 +309,7 @@
         "month": "Sep",
         "events": [
           "Fall semester begins (early September)",
-          "Freshmen Week ”” entire Cambridge transforms"
+          "Freshmen Week — entire Cambridge transforms"
         ]
       },
       {
@@ -442,7 +442,7 @@
       {
         "month": "Apr",
         "events": [
-          "Easter term begins late April (8 weeks) ”” main exam term"
+          "Easter term begins late April (8 weeks) — main exam term"
         ]
       },
       {
@@ -870,7 +870,7 @@
         "month": "Aug",
         "events": [
           "Semester 1 begins (early August)",
-          "National Day (August 9) ”” spectacular fireworks"
+          "National Day (August 9) — spectacular fireworks"
         ]
       },
       {
@@ -1331,14 +1331,14 @@
       {
         "month": "Oct",
         "events": [
-          "AFL Grand Final ”” Melbourne's defining sporting event"
+          "AFL Grand Final — Melbourne's defining sporting event"
         ]
       },
       {
         "month": "Nov",
         "events": [
           "Semester 2 exams",
-          "Melbourne Cup ”” 'the race that stops a nation' (November)"
+          "Melbourne Cup — 'the race that stops a nation' (November)"
         ]
       }
     ],
@@ -1648,7 +1648,7 @@
         "month": "Jan",
         "events": [
           "Winter exams",
-          "Chinese New Year (January/February) ”” campus largely empties"
+          "Chinese New Year (January/February) — campus largely empties"
         ]
       },
       {
@@ -2083,7 +2083,7 @@
         "month": "Jan",
         "events": [
           "Fall semester exams mid-January",
-          "Winter break ”” coincides with Chinese New Year period"
+          "Winter break — coincides with Chinese New Year period"
         ]
       },
       {
@@ -2533,14 +2533,14 @@
       {
         "month": "Aug",
         "events": [
-          "Edinburgh Festival Fringe ”” world's largest arts festival (before term begins)"
+          "Edinburgh Festival Fringe — world's largest arts festival (before term begins)"
         ]
       },
       {
         "month": "Dec",
         "events": [
           "Christmas break",
-          "Hogmanay (December 31) ”” Edinburgh's legendary New Year's celebration"
+          "Hogmanay (December 31) — Edinburgh's legendary New Year's celebration"
         ]
       },
       {
@@ -2641,8 +2641,8 @@
       {
         "month": "Apr",
         "events": [
-          "Academic year begins (April 1 ”” Japan uses April-March academic year)",
-          "Cherry blossom season (late March/early April) ”” Ueno Park and Yoyogi Park"
+          "Academic year begins (April 1 — Japan uses April-March academic year)",
+          "Cherry blossom season (late March/early April) — Ueno Park and Yoyogi Park"
         ]
       },
       {
@@ -3971,7 +3971,7 @@
         "month": "Sep",
         "events": [
           "Fall semester begins (September 2)",
-          "Chuseok ”” Korean harvest festival (September)"
+          "Chuseok — Korean harvest festival (September)"
         ]
       },
       {
@@ -4067,14 +4067,14 @@
         "month": "Feb",
         "events": [
           "Semester 1 begins (late February)",
-          "Brisbane summer ending ”” beautiful weather"
+          "Brisbane summer ending — beautiful weather"
         ]
       },
       {
         "month": "Jun",
         "events": [
           "Semester 1 exams",
-          "Brisbane winter (mild ”” 20°C)"
+          "Brisbane winter (mild — 20°C)"
         ]
       },
       {
@@ -4177,13 +4177,13 @@
         "month": "Apr",
         "events": [
           "Academic year begins",
-          "Cherry blossoms at Maruyama Park and Philosopher's Path ”” extraordinary"
+          "Cherry blossoms at Maruyama Park and Philosopher's Path — extraordinary"
         ]
       },
       {
         "month": "Jul",
         "events": [
-          "Gion Matsuri festival (July 17) ”” Japan's most spectacular festival",
+          "Gion Matsuri festival (July 17) — Japan's most spectacular festival",
           "Summer vacation"
         ]
       },
@@ -4191,7 +4191,7 @@
         "month": "Sep",
         "events": [
           "Second semester begins",
-          "Autumn foliage (November) ”” Arashiyama bamboo grove"
+          "Autumn foliage (November) — Arashiyama bamboo grove"
         ]
       },
       {
@@ -5119,7 +5119,7 @@
         "events": [
           "Semester 1 begins (late September)",
           "Freshers' Week",
-          "Balloon Fiesta (August) ”” Europe's biggest hot air balloon festival"
+          "Balloon Fiesta (August) — Europe's biggest hot air balloon festival"
         ]
       },
       {
@@ -5342,13 +5342,13 @@
         "month": "Sep",
         "events": [
           "Semester begins early September",
-          "Housing stress peaks ”” secure before arriving"
+          "Housing stress peaks — secure before arriving"
         ]
       },
       {
         "month": "Oct",
         "events": [
-          "Travel season ”” Paris, Berlin, Copenhagen all weekend-doable"
+          "Travel season — Paris, Berlin, Copenhagen all weekend-doable"
         ]
       },
       {
@@ -6215,14 +6215,14 @@
         "month": "Jan",
         "events": [
           "Semester 1 exams",
-          "Chinese New Year (January/February) ”” extraordinary in Taiwan"
+          "Chinese New Year (January/February) — extraordinary in Taiwan"
         ]
       },
       {
         "month": "Feb",
         "events": [
           "Semester 2 begins",
-          "Lantern Festival (Pingxi sky lanterns ”” February)"
+          "Lantern Festival (Pingxi sky lanterns — February)"
         ]
       },
       {
@@ -6534,7 +6534,7 @@
       {
         "month": "Jul",
         "events": [
-          "Tenjin Matsuri (July 25) ”” one of Japan's three greatest festivals",
+          "Tenjin Matsuri (July 25) — one of Japan's three greatest festivals",
           "Summer vacation"
         ]
       },
@@ -6871,7 +6871,7 @@
         "month": "Sep",
         "events": [
           "Fall semester begins",
-          "Yon-Ko Games ”” KU vs Yonsei sporting competition"
+          "Yon-Ko Games — KU vs Yonsei sporting competition"
         ]
       },
       {
@@ -7185,7 +7185,7 @@
         "events": [
           "Semester 1 begins (mid-September)",
           "Freshers' Week",
-          "Celtic Connections preview (folk music festival ”” January)"
+          "Celtic Connections preview (folk music festival — January)"
         ]
       },
       {
@@ -7294,7 +7294,7 @@
         "month": "Feb",
         "events": [
           "Semester 1 begins",
-          "Adelaide Fringe (February/March) ”” world's largest fringe festival"
+          "Adelaide Fringe (February/March) — world's largest fringe festival"
         ]
       },
       {
@@ -7637,7 +7637,7 @@
         "month": "Jul",
         "events": [
           "First semester ends",
-          "Winter break (July ”” ski season)"
+          "Winter break (July — ski season)"
         ]
       },
       {
@@ -7845,7 +7845,7 @@
         "month": "Aug",
         "events": [
           "Autumn semester begins (late August)",
-          "Introduction Days ”” KTH's welcome programme"
+          "Introduction Days — KTH's welcome programme"
         ]
       },
       {
@@ -7858,7 +7858,7 @@
         "month": "Jun",
         "events": [
           "Exams",
-          "Midsommar celebration (late June) ”” quintessential Swedish tradition"
+          "Midsommar celebration (late June) — quintessential Swedish tradition"
         ]
       }
     ],
@@ -8053,7 +8053,7 @@
         "month": "Aug",
         "events": [
           "Autumn semester begins (late August)",
-          "Walpurgis Night at Lund ”” April 30"
+          "Walpurgis Night at Lund — April 30"
         ]
       },
       {
@@ -8065,7 +8065,7 @@
       {
         "month": "Apr",
         "events": [
-          "Valborg (April 30) ”” Lund's greatest student celebration"
+          "Valborg (April 30) — Lund's greatest student celebration"
         ]
       },
       {
@@ -8466,7 +8466,7 @@
         "month": "Aug",
         "events": [
           "Autumn semester begins (late August)",
-          "Valborg (April 30) ”” Sweden's biggest student celebration"
+          "Valborg (April 30) — Sweden's biggest student celebration"
         ]
       },
       {
@@ -8478,7 +8478,7 @@
       {
         "month": "Apr",
         "events": [
-          "Valborg ”” Walpurgis Night celebration, the most important student event in Sweden"
+          "Valborg — Walpurgis Night celebration, the most important student event in Sweden"
         ]
       },
       {
@@ -9012,7 +9012,7 @@
       {
         "month": "Aug",
         "events": [
-          "Tanabata Festival (August 6-8) ”” Japan's most spectacular summer festival"
+          "Tanabata Festival (August 6-8) — Japan's most spectacular summer festival"
         ]
       },
       {
@@ -9548,7 +9548,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins (mid-September)",
-          "Street Parade (August) ”” world's largest techno rave"
+          "Street Parade (August) — world's largest techno rave"
         ]
       },
       {
@@ -9735,7 +9735,7 @@
       {
         "month": "Nov",
         "events": [
-          "Slush startup conference ”” world's largest"
+          "Slush startup conference — world's largest"
         ]
       },
       {
@@ -9747,7 +9747,7 @@
       {
         "month": "May",
         "events": [
-          "Vappu (May Day) ”” Finland's most important student festival",
+          "Vappu (May Day) — Finland's most important student festival",
           "Spring semester ends"
         ]
       }
@@ -10023,7 +10023,7 @@
       {
         "month": "Nov",
         "events": [
-          "Slush ”” world's largest startup conference in Helsinki"
+          "Slush — world's largest startup conference in Helsinki"
         ]
       },
       {
@@ -10035,7 +10035,7 @@
       {
         "month": "May",
         "events": [
-          "Vappu (May 1) ”” Finland's biggest student celebration",
+          "Vappu (May 1) — Finland's biggest student celebration",
           "Spring semester ends"
         ]
       }
@@ -10125,13 +10125,13 @@
         "month": "Jul",
         "events": [
           "Odd semester begins",
-          "Mumbai Monsoon (July”“September) ”” dramatic but flooding likely"
+          "Mumbai Monsoon (July”“September) — dramatic but flooding likely"
         ]
       },
       {
         "month": "Oct",
         "events": [
-          "Diwali festival (October/November) ”” Mumbai celebration is spectacular",
+          "Diwali festival (October/November) — Mumbai celebration is spectacular",
           "Odd semester mid-term"
         ]
       },
@@ -10145,7 +10145,7 @@
         "month": "Jan",
         "events": [
           "Even semester begins",
-          "Ganesh Chaturthi preparation (August/September ”” world's biggest religious festival)"
+          "Ganesh Chaturthi preparation (August/September — world's biggest religious festival)"
         ]
       },
       {
@@ -10159,7 +10159,7 @@
         "month": "May",
         "events": [
           "Even semester ends",
-          "Mumbai summer begins ”” extreme heat"
+          "Mumbai summer begins — extreme heat"
         ]
       }
     ],
@@ -11011,7 +11011,7 @@
       {
         "month": "Mar",
         "events": [
-          "St Patrick's Day (March 17) ”” Dublin's biggest festival"
+          "St Patrick's Day (March 17) — Dublin's biggest festival"
         ]
       },
       {
@@ -11342,14 +11342,14 @@
       {
         "month": "Feb",
         "events": [
-          "Basel Fasnacht ”” Switzerland's largest carnival (3 days, starts at 4am)",
+          "Basel Fasnacht — Switzerland's largest carnival (3 days, starts at 4am)",
           "Semester 2 begins"
         ]
       },
       {
         "month": "Jun",
         "events": [
-          "Art Basel ”” world's leading contemporary art fair",
+          "Art Basel — world's leading contemporary art fair",
           "Final exams",
           "Year ends"
         ]
@@ -11453,7 +11453,7 @@
         "month": "Nov",
         "events": [
           "Exams",
-          "Day of the Dead (Nov 1-2) ”” Mexico's most celebrated annual event"
+          "Day of the Dead (Nov 1-2) — Mexico's most celebrated annual event"
         ]
       }
     ],
@@ -11548,7 +11548,7 @@
       {
         "month": "Feb",
         "events": [
-          "Berlinale Film Festival ”” one of world's top three",
+          "Berlinale Film Festival — one of world's top three",
           "Winter semester exams"
         ]
       },
@@ -11882,7 +11882,7 @@
       {
         "month": "Jan",
         "events": [
-          "Winter exam session ”” many Italian unis exam after break, not before"
+          "Winter exam session — many Italian unis exam after break, not before"
         ]
       },
       {
@@ -11990,7 +11990,7 @@
       {
         "month": "Oct",
         "events": [
-          "Dutch Design Week ”” world's largest design event"
+          "Dutch Design Week — world's largest design event"
         ]
       },
       {
@@ -12520,7 +12520,7 @@
         "month": "Jun",
         "events": [
           "Semester 2 exams",
-          "Leiden Ontzet (October 3 ”” the city's liberation festival)"
+          "Leiden Ontzet (October 3 — the city's liberation festival)"
         ]
       }
     ],
@@ -12716,7 +12716,7 @@
         "month": "Aug",
         "events": [
           "Autumn semester begins (late August)",
-          "Aarhus Festuge ”” the city's major cultural festival (September)"
+          "Aarhus Festuge — the city's major cultural festival (September)"
         ]
       },
       {
@@ -12823,7 +12823,7 @@
       {
         "month": "Feb",
         "events": [
-          "Semester 2 begins (after Chinese New Year ”” late Jan/early Feb)"
+          "Semester 2 begins (after Chinese New Year — late Jan/early Feb)"
         ]
       },
       {
@@ -13289,7 +13289,7 @@
         "month": "May",
         "events": [
           "Even semester exams",
-          "Delhi summer ”” extremely hot"
+          "Delhi summer — extremely hot"
         ]
       }
     ],
@@ -13600,7 +13600,7 @@
         "month": "Dec",
         "events": [
           "Christmas break",
-          "Escalade festival ”” Geneva's unique December celebration"
+          "Escalade festival — Geneva's unique December celebration"
         ]
       },
       {
@@ -13613,7 +13613,7 @@
         "month": "Jun",
         "events": [
           "Final exams",
-          "Geneva Fêtes de Genève ”” the city's major summer festival",
+          "Geneva Fêtes de Genève — the city's major summer festival",
           "Year ends"
         ]
       }
@@ -14428,7 +14428,7 @@
       {
         "month": "Nov",
         "events": [
-          "Midterms ”” workload picks up"
+          "Midterms — workload picks up"
         ]
       },
       {
@@ -14453,7 +14453,7 @@
       {
         "month": "May",
         "events": [
-          "San Isidro festival (May 15) ”” Madrid's patron saint celebration"
+          "San Isidro festival (May 15) — Madrid's patron saint celebration"
         ]
       },
       {
@@ -14552,14 +14552,14 @@
         "events": [
           "Fall semester begins mid-September",
           "Orientation week for international students",
-          "La Mercè festival (Sep 24) ”” Barcelona's biggest street festival"
+          "La Mercè festival (Sep 24) — Barcelona's biggest street festival"
         ]
       },
       {
         "month": "Oct",
         "events": [
           "Classes settle into rhythm",
-          "Castanyada (Oct 31) ”” Catalan chestnut festival"
+          "Castanyada (Oct 31) — Catalan chestnut festival"
         ]
       },
       {
@@ -14574,7 +14574,7 @@
         "month": "Jan",
         "events": [
           "Spring semester applications/arrivals for new exchange students",
-          "Three Kings Day (Jan 6) ”” major Spanish holiday"
+          "Three Kings Day (Jan 6) — major Spanish holiday"
         ]
       },
       {
@@ -14587,14 +14587,14 @@
       {
         "month": "Apr",
         "events": [
-          "Sant Jordi Day (Apr 23) ”” Barcelona's day of books and roses"
+          "Sant Jordi Day (Apr 23) — Barcelona's day of books and roses"
         ]
       },
       {
         "month": "Jun",
         "events": [
           "Spring semester exams",
-          "Sant Joan festival (Jun 23) ”” beach bonfires citywide",
+          "Sant Joan festival (Jun 23) — beach bonfires citywide",
           "Semester ends late June"
         ]
       }
@@ -15449,7 +15449,7 @@
       {
         "month": "Feb",
         "events": [
-          "Sapporo Snow Festival ”” largest winter event in Japan"
+          "Sapporo Snow Festival — largest winter event in Japan"
         ]
       }
     ],
@@ -15664,7 +15664,7 @@
       {
         "month": "Apr",
         "events": [
-          "Easter week (Setmana Santa) ”” university holiday"
+          "Easter week (Setmana Santa) — university holiday"
         ]
       },
       {
@@ -15866,7 +15866,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins (late September)",
-          "Freshers' Week ”” Newcastle's nightlife initiation"
+          "Freshers' Week — Newcastle's nightlife initiation"
         ]
       },
       {
@@ -16150,7 +16150,7 @@
       {
         "month": "May",
         "events": [
-          "Golden Week holidays (~Apr 29-May 6) ”” prime travel window, no classes"
+          "Golden Week holidays (~Apr 29-May 6) — prime travel window, no classes"
         ]
       },
       {
@@ -16176,7 +16176,7 @@
       {
         "month": "Oct",
         "events": [
-          "Founding Day (Oct 21) ”” Waseda anniversary"
+          "Founding Day (Oct 21) — Waseda anniversary"
         ]
       },
       {
@@ -16489,7 +16489,7 @@
         "events": [
           "Semester 1 begins (late September)",
           "Freshers' Week",
-          "Six Nations Rugby (February/March) ”” Cardiff becomes rugby's global capital"
+          "Six Nations Rugby (February/March) — Cardiff becomes rugby's global capital"
         ]
       },
       {
@@ -16904,7 +16904,7 @@
         "month": "Oct",
         "events": [
           "Winter semester begins (mid-October)",
-          "Hamburg Harbour Birthday (May) ”” biggest harbour festival in the world"
+          "Hamburg Harbour Birthday (May) — biggest harbour festival in the world"
         ]
       },
       {
@@ -17527,8 +17527,8 @@
       {
         "month": "Apr",
         "events": [
-          "Semana Santa ”” Holy Week holiday",
-          "San Isidro (May 15) ”” Madrid's patron festival"
+          "Semana Santa — Holy Week holiday",
+          "San Isidro (May 15) — Madrid's patron festival"
         ]
       },
       {
@@ -17650,7 +17650,7 @@
       {
         "month": "Jul",
         "events": [
-          "Calgary Stampede ”” 10 days of rodeo and Western culture (July)"
+          "Calgary Stampede — 10 days of rodeo and Western culture (July)"
         ]
       }
     ],
@@ -17916,7 +17916,7 @@
         "month": "Aug",
         "events": [
           "Semester 1 begins",
-          "Indonesian Independence Day (August 17) ”” major national celebration"
+          "Indonesian Independence Day (August 17) — major national celebration"
         ]
       },
       {
@@ -17930,7 +17930,7 @@
         "month": "Jan",
         "events": [
           "Semester 2 begins",
-          "Idul Fitri (Eid) ”” date varies by Islamic calendar"
+          "Idul Fitri (Eid) — date varies by Islamic calendar"
         ]
       },
       {
@@ -18934,7 +18934,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins",
-          "Amsterdam Dance Event (ADE) ”” October, world's largest electronic music festival"
+          "Amsterdam Dance Event (ADE) — October, world's largest electronic music festival"
         ]
       },
       {
@@ -18947,7 +18947,7 @@
       {
         "month": "Apr",
         "events": [
-          "King's Day (April 27) ”” Amsterdam turns entirely orange"
+          "King's Day (April 27) — Amsterdam turns entirely orange"
         ]
       },
       {
@@ -19041,7 +19041,7 @@
       {
         "month": "Jul",
         "events": [
-          "Semester 1 begins (July ”” Indian academic year)",
+          "Semester 1 begins (July — Indian academic year)",
           "Monsoon season"
         ]
       },
@@ -19049,7 +19049,7 @@
         "month": "Nov",
         "events": [
           "Semester 1 ends",
-          "Durga Puja (October) ”” Kolkata's greatest festival"
+          "Durga Puja (October) — Kolkata's greatest festival"
         ]
       },
       {
@@ -19539,7 +19539,7 @@
         "month": "Feb",
         "events": [
           "Winter semester exams",
-          "Cologne Carnival ”” one of Europe's biggest (February/March)"
+          "Cologne Carnival — one of Europe's biggest (February/March)"
         ]
       },
       {
@@ -19640,13 +19640,13 @@
         "month": "Aug",
         "events": [
           "Semester 1 begins (mid-August)",
-          "Loy Krathong festival (November) ”” lanterns on rivers"
+          "Loy Krathong festival (November) — lanterns on rivers"
         ]
       },
       {
         "month": "Nov",
         "events": [
-          "Loy Krathong ”” floating lantern festival",
+          "Loy Krathong — floating lantern festival",
           "Semester 1 exams"
         ]
       },
@@ -19661,7 +19661,7 @@
         "month": "May",
         "events": [
           "Semester 2 exams",
-          "Songkran ”” Thai New Year water festival (April 13-15)",
+          "Songkran — Thai New Year water festival (April 13-15)",
           "Year ends"
         ]
       }
@@ -20469,7 +20469,7 @@
         "month": "Feb",
         "events": [
           "Semester 2 begins",
-          "Venice Carnival (February) ”” spectacular proximity"
+          "Venice Carnival (February) — spectacular proximity"
         ]
       },
       {
@@ -21068,7 +21068,7 @@
       {
         "month": "May",
         "events": [
-          "Brighton Festival (May) ”” one of UK's largest arts festivals",
+          "Brighton Festival (May) — one of UK's largest arts festivals",
           "Exams",
           "Year ends"
         ]
@@ -21527,7 +21527,7 @@
         "month": "Jun",
         "events": [
           "Trimester 2 begins",
-          "Gold Coast winter ”” perfect beach weather"
+          "Gold Coast winter — perfect beach weather"
         ]
       },
       {
@@ -21897,7 +21897,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins (mid-September)",
-          "Queima das Fitas ”” end of year student festival in May"
+          "Queima das Fitas — end of year student festival in May"
         ]
       },
       {
@@ -21910,7 +21910,7 @@
         "month": "Jun",
         "events": [
           "Exams June",
-          "Arraial (Lisbon's summer street festivals ”” June)"
+          "Arraial (Lisbon's summer street festivals — June)"
         ]
       }
     ],
@@ -22120,7 +22120,7 @@
         "month": "Jun",
         "events": [
           "Spring semester ends",
-          "Midnight sun ”” June/July"
+          "Midnight sun — June/July"
         ]
       }
     ],
@@ -22928,7 +22928,7 @@
         "month": "Jun",
         "events": [
           "Exams June",
-          "Festas de São João (June 23) ”” Porto's greatest festival, epic street party"
+          "Festas de São João (June 23) — Porto's greatest festival, epic street party"
         ]
       }
     ],
@@ -24075,7 +24075,7 @@
         "events": [
           "Exams",
           "Year ends",
-          "Norwegian summer ”” midnight sun in June"
+          "Norwegian summer — midnight sun in June"
         ]
       }
     ],
@@ -24779,14 +24779,14 @@
         "month": "Dec",
         "events": [
           "Fall finals",
-          "Christmas in DC ”” monuments and Mall are magical"
+          "Christmas in DC — monuments and Mall are magical"
         ]
       },
       {
         "month": "Jan",
         "events": [
           "Spring semester begins",
-          "Presidential Inauguration every 4 years ”” January 20"
+          "Presidential Inauguration every 4 years — January 20"
         ]
       },
       {
@@ -24957,7 +24957,7 @@
       {
         "month": "Nov",
         "events": [
-          "Marché de NoÀ«l opens (late November ”” Europe's most famous Christmas Market)"
+          "Marché de NoÀ«l opens (late November — Europe's most famous Christmas Market)"
         ]
       },
       {
@@ -25524,7 +25524,7 @@
         "month": "Oct",
         "events": [
           "Winter semester begins (mid-October)",
-          "Stuttgart Beer Festival (October) ”” Cannstatter Volksfest, Germany's second-largest"
+          "Stuttgart Beer Festival (October) — Cannstatter Volksfest, Germany's second-largest"
         ]
       },
       {
@@ -26523,7 +26523,7 @@
         "month": "Dec",
         "events": [
           "Semester 1 exams",
-          "Christmas ”” Philippines' most important celebration"
+          "Christmas — Philippines' most important celebration"
         ]
       },
       {
@@ -27116,7 +27116,7 @@
         "events": [
           "Fall exams",
           "Christmas break",
-          "Victoria's mild winter ”” often snow-free"
+          "Victoria's mild winter — often snow-free"
         ]
       },
       {
@@ -27528,7 +27528,7 @@
       {
         "month": "Oct",
         "events": [
-          "Jacaranda flowering ”” Pretoria most beautiful in October"
+          "Jacaranda flowering — Pretoria most beautiful in October"
         ]
       },
       {
@@ -27642,7 +27642,7 @@
       {
         "month": "May",
         "events": [
-          "Queima das Fitas (early May) ”” Coimbra's famous student ribbon-burning festival, week-long celebration"
+          "Queima das Fitas (early May) — Coimbra's famous student ribbon-burning festival, week-long celebration"
         ]
       },
       {
@@ -28201,7 +28201,7 @@
         "month": "Dec",
         "events": [
           "Semester 1 ends",
-          "Christmas/New Year ”” Bangkok festivities"
+          "Christmas/New Year — Bangkok festivities"
         ]
       },
       {
@@ -28214,7 +28214,7 @@
         "month": "May",
         "events": [
           "Semester 2 ends",
-          "Songkran (April 13-15) ”” Thai New Year water festival"
+          "Songkran (April 13-15) — Thai New Year water festival"
         ]
       }
     ],
@@ -28607,7 +28607,7 @@
         "month": "Jun",
         "events": [
           "Final exams",
-          "Calcio Storico ”” historic football tournament in June"
+          "Calcio Storico — historic football tournament in June"
         ]
       },
       {
@@ -28715,7 +28715,7 @@
         "events": [
           "Exams",
           "Year ends",
-          "Vappu (May 1) ”” Finland's most exuberant celebration"
+          "Vappu (May 1) — Finland's most exuberant celebration"
         ]
       }
     ],
@@ -29835,7 +29835,7 @@
         "month": "Jan",
         "events": [
           "Exams January-February",
-          "Apokries (Greek Carnival) ”” February/March"
+          "Apokries (Greek Carnival) — February/March"
         ]
       },
       {
@@ -29848,7 +29848,7 @@
         "month": "Jun",
         "events": [
           "Exams June",
-          "Summer begins ”” islands accessible"
+          "Summer begins — islands accessible"
         ]
       }
     ],
@@ -30042,7 +30042,7 @@
       {
         "month": "Feb",
         "events": [
-          "Nice Carnival ”” one of the world's great February festivals"
+          "Nice Carnival — one of the world's great February festivals"
         ]
       },
       {
@@ -30640,7 +30640,7 @@
         "month": "Sep",
         "events": [
           "Fall semester begins (early September)",
-          "Frosh Week ”” Montreal's nightlife initiation"
+          "Frosh Week — Montreal's nightlife initiation"
         ]
       },
       {
@@ -30748,7 +30748,7 @@
       {
         "month": "Oct",
         "events": [
-          "Semester 1 begins (after Jewish New Year ”” Rosh Hashana)"
+          "Semester 1 begins (after Jewish New Year — Rosh Hashana)"
         ]
       },
       {
@@ -30761,7 +30761,7 @@
         "month": "Jul",
         "events": [
           "Exams",
-          "Israeli summer ”” Mediterranean beaches at their best"
+          "Israeli summer — Mediterranean beaches at their best"
         ]
       }
     ],
@@ -31765,7 +31765,7 @@
         "month": "Sep",
         "events": [
           "Fall semester begins mid-September",
-          "Orientation ”” Granada has Spain's largest Erasmus population by volume"
+          "Orientation — Granada has Spain's largest Erasmus population by volume"
         ]
       },
       {
@@ -31784,14 +31784,14 @@
       {
         "month": "Apr",
         "events": [
-          "Semana Santa (Holy Week) processions ”” major if Easter falls in April"
+          "Semana Santa (Holy Week) processions — major if Easter falls in April"
         ]
       },
       {
         "month": "Jun",
         "events": [
           "Spring exams",
-          "Corpus Christi festival (early June) ”” week-long Granada celebration",
+          "Corpus Christi festival (early June) — week-long Granada celebration",
           "Semester ends late June"
         ]
       }
@@ -32419,7 +32419,7 @@
       {
         "month": "Mar",
         "events": [
-          "Las Fallas festival (Mar 15-19) ”” Valencia's iconic fire festival, do not miss"
+          "Las Fallas festival (Mar 15-19) — Valencia's iconic fire festival, do not miss"
         ]
       },
       {
@@ -33974,7 +33974,7 @@
         "month": "Aug",
         "events": [
           "Fall semester begins (mid-August)",
-          "Hurricane season (August-October) ”” occasional disruptions"
+          "Hurricane season (August-October) — occasional disruptions"
         ]
       },
       {
@@ -34092,7 +34092,7 @@
       {
         "month": "Jul",
         "events": [
-          "San Fermín festival ”” Running of the Bulls (July 7-14)"
+          "San Fermín festival — Running of the Bulls (July 7-14)"
         ]
       },
       {
@@ -41290,7 +41290,7 @@
         "month": "Dec",
         "events": [
           "Semester 1 ends",
-          "Christmas in Philippines ”” extremely festive"
+          "Christmas in Philippines — extremely festive"
         ]
       },
       {
@@ -41303,7 +41303,7 @@
         "month": "May",
         "events": [
           "Semester 2 ends",
-          "Summer (April-May) ”” best time for islands"
+          "Summer (April-May) — best time for islands"
         ]
       }
     ],
@@ -41903,7 +41903,7 @@
       {
         "month": "Feb",
         "events": [
-          "Mardi Gras ”” parades, balls, Bourbon Street celebrations"
+          "Mardi Gras — parades, balls, Bourbon Street celebrations"
         ]
       },
       {
@@ -42000,7 +42000,7 @@
         "month": "Mar",
         "events": [
           "Semester 1 begins (March)",
-          "Carnaval (February) ”” longest Carnaval in the world"
+          "Carnaval (February) — longest Carnaval in the world"
         ]
       },
       {
@@ -42119,7 +42119,7 @@
       {
         "month": "Jun",
         "events": [
-          "Summer begins ”” beach season at peak"
+          "Summer begins — beach season at peak"
         ]
       }
     ],
@@ -42304,7 +42304,7 @@
         "month": "Aug",
         "events": [
           "Fall semester begins (mid-August)",
-          "Georgia Bulldogs football ”” autumn Saturdays are huge"
+          "Georgia Bulldogs football — autumn Saturdays are huge"
         ]
       },
       {
@@ -48021,7 +48021,7 @@
         "month": "Feb",
         "events": [
           "Semester 2 begins",
-          "Venice Carnival ”” one of Europe's most spectacular festivals"
+          "Venice Carnival — one of Europe's most spectacular festivals"
         ]
       },
       {
@@ -50474,7 +50474,7 @@
         "events": [
           "Exams",
           "Year ends",
-          "Thai New Year - Songkran (April) ”” extraordinary water festival"
+          "Thai New Year - Songkran (April) — extraordinary water festival"
         ]
       }
     ],
@@ -50668,7 +50668,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins",
-          "Aste Nagusia (Bilbao's Big Week festival ”” late August)"
+          "Aste Nagusia (Bilbao's Big Week festival — late August)"
         ]
       },
       {
@@ -50982,13 +50982,13 @@
         "month": "Jan",
         "events": [
           "Spring semester begins",
-          "Winterlude festival (February) ”” Rideau Canal skating at its best"
+          "Winterlude festival (February) — Rideau Canal skating at its best"
         ]
       },
       {
         "month": "Feb",
         "events": [
-          "Winterlude ”” Canada's winter festival",
+          "Winterlude — Canada's winter festival",
           "Canal skating peak season"
         ]
       },
@@ -51301,7 +51301,7 @@
         "month": "Feb",
         "events": [
           "Semester 2 begins",
-          "Lantern Festival (Pingxi sky lanterns ”” February)"
+          "Lantern Festival (Pingxi sky lanterns — February)"
         ]
       },
       {
@@ -51397,7 +51397,7 @@
         "month": "Jan",
         "events": [
           "Semester 1 begins (mid-January)",
-          "Carnaval de Barranquilla (February ”” Colombia's Mardi Gras)"
+          "Carnaval de Barranquilla (February — Colombia's Mardi Gras)"
         ]
       },
       {
@@ -51523,7 +51523,7 @@
         "month": "Jun",
         "events": [
           "Exams June",
-          "EXIT Festival (July) ”” immediately after term ends"
+          "EXIT Festival (July) — immediately after term ends"
         ]
       }
     ],
@@ -51817,7 +51817,7 @@
         "month": "Aug",
         "events": [
           "Autumn semester begins (late August)",
-          "August midnight sun ”” sun barely sets"
+          "August midnight sun — sun barely sets"
         ]
       },
       {
@@ -51828,10 +51828,10 @@
         ]
       },
       {
-        "month": "May",
+        "month": "Jun",
         "events": [
           "Spring semester ends",
-          "Memorial Day weekend (May 17 ”” Constitution Day-style)"
+          "National Day (June 17) — Iceland's independence celebration"
         ]
       }
     ],
@@ -51939,7 +51939,7 @@
       {
         "month": "Aug",
         "events": [
-          "Feria de Málaga (mid-August) ”” major summer fair, falls after semester ends"
+          "Feria de Málaga (mid-August) — major summer fair, falls after semester ends"
         ]
       },
       {
@@ -52264,14 +52264,14 @@
         "month": "Apr",
         "events": [
           "Semana Santa processions (major in Seville)",
-          "Feria de Abril ”” week-long flamenco/fair celebration following Semana Santa"
+          "Feria de Abril — week-long flamenco/fair celebration following Semana Santa"
         ]
       },
       {
         "month": "Jun",
         "events": [
           "Spring exams",
-          "Semester ends late June ”” summer heat already intense"
+          "Semester ends late June — summer heat already intense"
         ]
       }
     ],
@@ -52465,7 +52465,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins mid-September",
-          "Fiestas del Pilar (Oct 12) ”” Zaragoza's biggest annual festival"
+          "Fiestas del Pilar (Oct 12) — Zaragoza's biggest annual festival"
         ]
       },
       {
@@ -52971,7 +52971,7 @@
       {
         "month": "Sep",
         "events": [
-          "Semester 1 begins (Ethiopian calendar ”” Ethiopian New Year is September 11)"
+          "Semester 1 begins (Ethiopian calendar — Ethiopian New Year is September 11)"
         ]
       },
       {
@@ -53085,7 +53085,7 @@
         "month": "Jun",
         "events": [
           "Exams",
-          "Greek island summer begins ”” extraordinary"
+          "Greek island summer begins — extraordinary"
         ]
       }
     ],
@@ -53187,15 +53187,15 @@
       {
         "month": "Aug",
         "events": [
-          "Monsoon ”” most trails closed",
-          "Dashain festival (October) ”” Nepal's greatest festival"
+          "Monsoon — most trails closed",
+          "Dashain festival (October) — Nepal's greatest festival"
         ]
       },
       {
         "month": "Oct",
         "events": [
           "Fall semester begins",
-          "Tihar festival (Diwali in Nepal ”” October/November)",
+          "Tihar festival (Diwali in Nepal — October/November)",
           "Peak autumn trekking season"
         ]
       }
@@ -53406,7 +53406,7 @@
         "month": "Jun",
         "events": [
           "Year ends",
-          "Inti Raymi (June 24) ”” Andean winter solstice festival"
+          "Inti Raymi (June 24) — Andean winter solstice festival"
         ]
       }
     ],
@@ -53712,7 +53712,7 @@
         "month": "Jul",
         "events": [
           "Semester 1 ends",
-          "Dry season ”” best beach weather"
+          "Dry season — best beach weather"
         ]
       },
       {
@@ -53822,7 +53822,7 @@
         "month": "Aug",
         "events": [
           "Second semester",
-          "Kandy Perahera ”” most spectacular Buddhist festival in Asia"
+          "Kandy Perahera — most spectacular Buddhist festival in Asia"
         ]
       },
       {
@@ -54018,7 +54018,7 @@
         "month": "Sep",
         "events": [
           "Semester 1 begins",
-          "Las Palmas Carnival (February) ”” one of the world's largest"
+          "Las Palmas Carnival (February) — one of the world's largest"
         ]
       },
       {
@@ -54030,7 +54030,7 @@
       {
         "month": "Feb",
         "events": [
-          "Las Palmas Carnival ”” spectacular pre-Lent festival",
+          "Las Palmas Carnival — spectacular pre-Lent festival",
           "Semester 2 begins"
         ]
       },
@@ -54239,7 +54239,7 @@
         "month": "Jan",
         "events": [
           "Semester 1 exams",
-          "Tet ”” Vietnamese New Year (January/February) ”” most important celebration"
+          "Tet — Vietnamese New Year (January/February) — most important celebration"
         ]
       },
       {
@@ -54346,7 +54346,7 @@
       {
         "month": "Jan",
         "events": [
-          "Tet (Vietnamese New Year) ”” most important celebration",
+          "Tet (Vietnamese New Year) — most important celebration",
           "Semester 1 exams"
         ]
       },
