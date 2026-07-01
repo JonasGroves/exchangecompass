@@ -2885,7 +2885,7 @@ async function openModal(id) {
         <div class="modal-section-title">Verified cost data</div>
         <div class="budget-row"><span class="budget-label">Student residence</span><span class="budget-val">${fmt(u.costs?.res_base)}/mo</span></div>
         <div class="budget-row"><span class="budget-label">Shared apt/house</span><span class="budget-val">${fmt(u.costs?.shared_base)}/mo</span></div>
-        <div class="budget-row"><span class="budget-label">Food</span><span class="budget-val">${fmt(u.costs.food)}/mo</span></div>
+        <div class="budget-row"><span class="budget-label">Food</span><span class="budget-val">${fmt(u.costs?.food)}/mo</span></div>
         <div class="budget-row"><span class="budget-label">Typical monthly range</span><span class="budget-val">${fmt(low)}–${fmt(high)}/mo</span></div>
       </div>
       <div class="lock-overlay">
@@ -2901,8 +2901,8 @@ async function openModal(id) {
       <div class="modal-section-title">Verified cost data (${getCurrencyLabel()}, from ${u.costs?.localCurrency ?? ''})</div>
       <div class="budget-row"><span class="budget-label">Student residence / dorm</span><span class="budget-val">~${fmt(u.costs?.res_base)}/mo</span></div>
       <div class="budget-row"><span class="budget-label">Shared apt/house</span><span class="budget-val">~${fmt(u.costs?.shared_base)}/mo</span></div>
-      <div class="budget-row"><span class="budget-label">Solo apartment</span><span class="budget-val">~${fmt(u.costs.solo_base)}/mo</span></div>
-      <div class="budget-row"><span class="budget-label">Food (groceries + occasional eating out)</span><span class="budget-val">~${fmt(u.costs.food)}/mo</span></div>
+      <div class="budget-row"><span class="budget-label">Solo apartment</span><span class="budget-val">~${fmt(u.costs?.solo_base)}/mo</span></div>
+      <div class="budget-row"><span class="budget-label">Food (groceries + occasional eating out)</span><span class="budget-val">~${fmt(u.costs?.food)}/mo</span></div>
       <div class="budget-row"><span class="budget-label">Typical total range</span><span class="budget-val">${fmt(low)}–${fmt(high)}/mo</span></div>
       ${flightInfo}
       <p class="source-note" style="margin-top:8px;">Source: ${u.costSource}</p>
