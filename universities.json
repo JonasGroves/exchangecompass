@@ -8017,7 +8017,7 @@
       "Copenhagen Gateway"
     ],
     "overview": "Founded in 1666, Lund University (QS 2025: #100) is one of Scandinavia's most prestigious universities and arguably Sweden's most internationally-oriented, consistently attracting the largest number of exchange students in Sweden. Like Uppsala, it has a 'Nations' student club system.",
-    "cityDesc": "Lund is a compact, charming Swedish university city in the Skåne region – very flat and very bikeable. Copenhagen is just 35 minutes by train across the À˜resund Bridge, making it effectively a two-city experience. Malmö is 15 minutes. The university dominates the small city's character completely.",
+    "cityDesc": "Lund is a compact, charming Swedish university city in the Skåne region – very flat and very bikeable. Copenhagen is just 35 minutes by train across the Øresund Bridge, making it effectively a two-city experience. Malmö is 15 minutes. The university dominates the small city's character completely.",
     "perceptions": [
       {
         "label": "Sweden's most internationally active university – massive exchange community",
@@ -9301,7 +9301,7 @@
       "Copenhagen 20min"
     ],
     "overview": "Founded in 1829, DTU (QS 2025: #133) is Scandinavia's top engineering and technology university, with world-leading groups in photonics, fuel cells, wind energy, and food science. All master's programmes are taught in English. Its Lyngby campus is 20 minutes from Copenhagen centre.",
-    "cityDesc": "DTU's campus in Lyngby is 20 minutes by S-tog train from Copenhagen – one of Europe's most design-forward, cycling-centric, and culinarily extraordinary cities. The Louisiana Museum of Modern Art (world-class) is 30 minutes north. Sweden's Malmö is 40 minutes via the À˜resund Bridge.",
+    "cityDesc": "DTU's campus in Lyngby is 20 minutes by S-tog train from Copenhagen – one of Europe's most design-forward, cycling-centric, and culinarily extraordinary cities. The Louisiana Museum of Modern Art (world-class) is 30 minutes north. Sweden's Malmö is 40 minutes via the Øresund Bridge.",
     "perceptions": [
       {
         "label": "Scandinavia's top engineering university – world top-135",
@@ -24916,7 +24916,7 @@
       "Christmas Market Capital"
     ],
     "overview": "Founded in 1538, the University of Strasbourg (QS 2025: #301 band) is one of France's largest and most international universities. It is unique as the seat of both the European Parliament and the Council of Europe, making it the de facto capital of European institutions. Its alumni include 18 Nobel Prize laureates.",
-    "cityDesc": "Strasbourg is a uniquely Franco-German city where French and Alsatian cultures blend over exceptional food and wine. It hosts Europe's most famous Christmas Market (Marché de NoÀ«l), is the headquarters of the European Parliament, and is cycling distance from Germany's Black Forest.",
+    "cityDesc": "Strasbourg is a uniquely Franco-German city where French and Alsatian cultures blend over exceptional food and wine. It hosts Europe's most famous Christmas Market (Marché de Noël), is the headquarters of the European Parliament, and is cycling distance from Germany's Black Forest.",
     "perceptions": [
       {
         "label": "Unique Franco-German culture – French sophistication meets German craft",
@@ -27895,7 +27895,7 @@
     "costs": {
       "res_base": 100,
       "shared_base": 135,
-      "solo_base": 0,
+      "solo_base": 450,
       "food": 73,
       "localCurrency": "OMR"
     },
@@ -31987,7 +31987,7 @@
       "Cappadocia Access"
     ],
     "overview": "Founded in 1956 and entirely English-medium since its founding, METU (Middle East Technical University, QS 2025: #435) is Turkey's most prestigious STEM university, with exceptional programmes in engineering, architecture, and natural sciences. It draws students from across the Middle East and Central Asia.",
-    "cityDesc": "Ankara is Turkey's administrative capital – less tourist-heavy than Istanbul, with a genuine working-city character. Atatürk's mausoleum (AnÀ„Â±tkabir), the Hittite Museum, and the Citadel old quarter are highlights. Cappadocia (the extraordinary volcanic landscape with cave hotels and hot air balloons) is 3 hours south-east.",
+    "cityDesc": "Ankara is Turkey's administrative capital – less tourist-heavy than Istanbul, with a genuine working-city character. Atatürk's mausoleum (Anıtkabir), the Hittite Museum, and the Citadel old quarter are highlights. Cappadocia (the extraordinary volcanic landscape with cave hotels and hot air balloons) is 3 hours south-east.",
     "perceptions": [
       {
         "label": "Entirely English-taught since 1956 – exceptional for international engineers",
@@ -32087,7 +32087,7 @@
       "UNESCO Old Town"
     ],
     "overview": "Founded in 1579 by Jesuits, Vilnius University (QS 2025: #701 band) is Lithuania's oldest and most prestigious university with particular strengths in humanities, law, and social sciences.",
-    "cityDesc": "Vilnius has one of Europe's best-preserved baroque old towns (UNESCO), an emerging startup scene, and is arguably the EU's most affordable capital city. The bohemian UÅ¾upis district has declared itself an independent republic – Vilnius's answer to Montmartre – with a vibrant arts scene.",
+    "cityDesc": "Vilnius has one of Europe's best-preserved baroque old towns (UNESCO), an emerging startup scene, and is arguably the EU's most affordable capital city. The bohemian Užupis district has declared itself an independent republic – Vilnius's answer to Montmartre – with a vibrant arts scene.",
     "perceptions": [
       {
         "label": "Most affordable EU capital for student living",
@@ -37389,8 +37389,8 @@
       "#1 Erasmus Poland",
       "Founded 1702"
     ],
-    "overview": "The University of WrocÅ‚aw is one of Poland's oldest and most respected universities, founded in 1702. WrocÅ‚aw itself is a revelation – a city of 12 islands, 130 bridges, and a magnificent market square, with a vibrant student culture and booming creative scene. One of Central Europe's most popular Erasmus destinations and excellent value for money.",
-    "cityDesc": "WrocÅ‚aw is a large city known for its Central European atmosphere.",
+    "overview": "The University of Wrocław is one of Poland's oldest and most respected universities, founded in 1702. Wrocław itself is a revelation – a city of 12 islands, 130 bridges, and a magnificent market square, with a vibrant student culture and booming creative scene. One of Central Europe's most popular Erasmus destinations and excellent value for money.",
+    "cityDesc": "Wrocław is a large city known for its Central European atmosphere.",
     "perceptions": {
       "pros": [
         "Active exchange community",
@@ -39477,7 +39477,7 @@
     "costs": {
       "res_base": 1050,
       "shared_base": 1200,
-      "solo_base": 375,
+      "solo_base": 1375,
       "food": 280,
       "localCurrency": "USD"
     },
@@ -40641,7 +40641,7 @@
     "costs": {
       "res_base": 900,
       "shared_base": 1000,
-      "solo_base": 375,
+      "solo_base": 1375,
       "food": 250,
       "localCurrency": "USD"
     },
@@ -41678,7 +41678,7 @@
       "Nobel-Adjacent"
     ],
     "overview": "Founded in 1909, the Stockholm School of Economics is Scandinavia's most prestigious business school, with world-ranked programmes in finance, accounting, and marketing. Many Scandinavian CEOs and finance leaders are alumni. The Nobel Economics Prize ceremony takes place each December in Stockholm – SSE alumni and faculty attend.",
-    "cityDesc": "SSE's campus in À–stermalm – Stockholm's most elegant neighbourhood – puts students in the heart of Sweden's capital. The Nobel Prize ceremonies (December) are held at Stockholm City Hall a short walk away. The archipelago's summer islands and Djurgården's museums are immediately accessible.",
+    "cityDesc": "SSE's campus in Östermalm – Stockholm's most elegant neighbourhood – puts students in the heart of Sweden's capital. The Nobel Prize ceremonies (December) are held at Stockholm City Hall a short walk away. The archipelago's summer islands and Djurgården's museums are immediately accessible.",
     "perceptions": [
       {
         "label": "Scandinavia's most prestigious business school – exceptional for finance careers",
@@ -42588,8 +42588,8 @@
       "City of 100 Bridges",
       "Engineering & Architecture"
     ],
-    "overview": "WrocÅ‚aw University of Science and Technology is one of Poland's leading technical universities. Located in the stunning city of WrocÅ‚aw – a city of 12 islands and 130 bridges with a magnificent Gothic market square – it offers excellent engineering, IT and architecture programs at some of Europe's most affordable costs. WrocÅ‚aw is widely considered Central Europe's most beautiful and underrated city.",
-    "cityDesc": "WrocÅ‚aw is a large city known for its technical atmosphere.",
+    "overview": "Wrocław University of Science and Technology is one of Poland's leading technical universities. Located in the stunning city of Wrocław – a city of 12 islands and 130 bridges with a magnificent Gothic market square – it offers excellent engineering, IT and architecture programs at some of Europe's most affordable costs. Wrocław is widely considered Central Europe's most beautiful and underrated city.",
+    "cityDesc": "Wrocław is a large city known for its technical atmosphere.",
     "perceptions": {
       "pros": [
         "Active exchange community",
@@ -43259,7 +43259,7 @@
       "Vibrant Nightlife",
       "Rich Cultural Heritage"
     ],
-    "overview": "The Technical University of Munich (TUM or TU Munich; German: Technische Universität München) is a public research university in Munich, Bavaria, Germany. It specializes in engineering, technology, medicine, and applied and natural sciences.",
+    "overview": "The Technical University of Berlin (Technische Universität Berlin, TU Berlin) is one of Germany's largest and most prestigious technical universities, founded in 1879. Located in the heart of Berlin, it ranks among Europe's top engineering institutions and is part of the TU9 alliance of leading German technical universities. TU Berlin excels in engineering, natural sciences, and architecture, and its central Berlin location gives students access to one of Europe's most vibrant startup and creative scenes.",
     "cityDesc": "Munich offers an affordable and culturally rich exchange experience. German universities charge minimal tuition fees, and the cost of living is reasonable compared to other Western European cities. English-taught programmes are increasingly common.",
     "perceptions": [
       {
@@ -45856,8 +45856,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -46256,8 +46256,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 70,
-      "heavy": 160
+      "some": 70,
+      "lots": 160
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -46859,8 +46859,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 60,
-      "heavy": 140
+      "some": 60,
+      "lots": 140
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -47665,8 +47665,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 85,
-      "heavy": 200
+      "some": 85,
+      "lots": 200
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -48072,8 +48072,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 75,
-      "heavy": 175
+      "some": 75,
+      "lots": 175
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -48519,8 +48519,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 65,
-      "heavy": 150
+      "some": 65,
+      "lots": 150
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -48919,8 +48919,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 190
+      "some": 80,
+      "lots": 190
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49016,8 +49016,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 185
+      "some": 80,
+      "lots": 185
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49113,8 +49113,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 185
+      "some": 80,
+      "lots": 185
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49210,8 +49210,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 85,
-      "heavy": 200
+      "some": 85,
+      "lots": 200
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49410,8 +49410,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 60,
-      "heavy": 140
+      "some": 60,
+      "lots": 140
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49507,8 +49507,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 80,
-      "heavy": 185
+      "some": 80,
+      "lots": 185
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49707,8 +49707,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 75,
-      "heavy": 175
+      "some": 75,
+      "lots": 175
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -49907,8 +49907,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 90,
-      "heavy": 215
+      "some": 90,
+      "lots": 215
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -50004,8 +50004,8 @@
     },
     "partyAdj": {
       "none": 0,
-      "light": 75,
-      "heavy": 175
+      "some": 75,
+      "lots": 175
     },
     "costSource": "Estimated from national averages for Unknown 2025",
     "tags": [
@@ -52532,7 +52532,7 @@
       "EU Gateway"
     ],
     "overview": "Vilnius Gediminas Technical University (VGTU) is Lithuania's leading technical university, strong in civil engineering, architecture, transport engineering, and information technologies. Its central Vilnius location provides access to one of Europe's most beautiful baroque old towns.",
-    "cityDesc": "Vilnius's UNESCO baroque old town, the bohemian UÅ¾upis Republic district, and growing tech startup scene make it one of Europe's most charming and surprising capitals. The city is extremely affordable, safe, and welcoming to international students.",
+    "cityDesc": "Vilnius's UNESCO baroque old town, the bohemian Užupis Republic district, and growing tech startup scene make it one of Europe's most charming and surprising capitals. The city is extremely affordable, safe, and welcoming to international students.",
     "perceptions": [
       {
         "label": "Vilnius baroque old town is one of Europe's most beautiful and least-touristy",
