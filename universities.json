@@ -1576,7 +1576,7 @@
       "culture": 9,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 7
+      "cityLife": 9
     },
     "citySize": "large",
     "climate": "varied",
@@ -2010,7 +2010,7 @@
       "culture": 9,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 7
+      "cityLife": 9
     },
     "citySize": "large",
     "climate": "varied",
@@ -3230,7 +3230,7 @@
       "culture": 7,
       "safety": 8,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -3673,7 +3673,7 @@
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -4221,7 +4221,7 @@
       "culture": 7,
       "safety": 8,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -4439,7 +4439,7 @@
       "culture": 7,
       "safety": 8,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -4627,7 +4627,7 @@
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -5385,7 +5385,7 @@
       "culture": 7,
       "safety": 8,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -5709,7 +5709,7 @@
       "nature": 4,
       "culture": 10,
       "safety": 7,
-      "foodScene": 10,
+      "foodScene": 4,
       "cityLife": 4
     },
     "citySize": "large",
@@ -8094,7 +8094,7 @@
       "culture": 8,
       "safety": 9,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -9270,8 +9270,8 @@
       "nature": 5,
       "culture": 8,
       "safety": 9,
-      "foodScene": 8,
-      "cityLife": 5
+      "foodScene": 5,
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -9482,7 +9482,7 @@
       "culture": 8,
       "safety": 10,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -11162,7 +11162,7 @@
       "culture": 8,
       "safety": 8,
       "foodScene": 7,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -12027,7 +12027,7 @@
       "culture": 10,
       "safety": 9,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "varied",
@@ -12650,7 +12650,7 @@
       "culture": 6,
       "safety": 9,
       "foodScene": 6,
-      "cityLife": 7
+      "cityLife": 8
     },
     "citySize": "medium",
     "climate": "cold",
@@ -16742,7 +16742,7 @@
       "culture": 10,
       "safety": 9,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "varied",
@@ -16945,7 +16945,7 @@
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -20876,7 +20876,7 @@
       "culture": 9,
       "safety": 8,
       "foodScene": 7,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -21556,7 +21556,7 @@
       "culture": 10,
       "safety": 8,
       "foodScene": 7,
-      "cityLife": 10
+      "cityLife": 7
     },
     "citySize": "medium",
     "climate": "cold",
@@ -21653,7 +21653,7 @@
       "culture": 9,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 7
+      "cityLife": 9
     },
     "citySize": "large",
     "climate": "varied",
@@ -21831,7 +21831,7 @@
       "culture": 9,
       "safety": 8,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "sunny",
@@ -22422,7 +22422,7 @@
       "culture": 9,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 7
+      "cityLife": 9
     },
     "citySize": "large",
     "climate": "varied",
@@ -23925,7 +23925,7 @@
       "culture": 10,
       "safety": 9,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "varied",
@@ -24420,7 +24420,7 @@
       "culture": 8,
       "safety": 9,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "climate": "cold",
     "id": "copenhagen-business-school",
@@ -25674,7 +25674,7 @@
       "culture": 7,
       "safety": 8,
       "foodScene": 6,
-      "cityLife": 5
+      "cityLife": 7
     },
     "citySize": "large",
     "climate": "mild",
@@ -25855,7 +25855,7 @@
       "culture": 5,
       "safety": 9,
       "foodScene": 5,
-      "cityLife": 5
+      "cityLife": 8
     },
     "citySize": "medium",
     "climate": "mild",
@@ -25926,7 +25926,7 @@
       "culture": 10,
       "safety": 6,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -26725,7 +26725,7 @@
       "culture": 8,
       "safety": 7,
       "foodScene": 7,
-      "cityLife": 7
+      "cityLife": 8
     },
     "citySize": "medium",
     "climate": "varied",
@@ -28058,7 +28058,7 @@
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -28521,7 +28521,7 @@
       "culture": 10,
       "safety": 8,
       "foodScene": 9,
-      "cityLife": 10
+      "cityLife": 7
     },
     "citySize": "medium",
     "climate": "varied",
@@ -29557,7 +29557,7 @@
       "culture": 9,
       "safety": 8,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "sunny",
@@ -30784,7 +30784,7 @@
       "culture": 10,
       "safety": 6,
       "foodScene": 9,
-      "cityLife": 8
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "varied",
@@ -30988,7 +30988,7 @@
       "culture": 9,
       "safety": 8,
       "foodScene": 7,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -31957,7 +31957,7 @@
       "culture": 7,
       "safety": 6,
       "foodScene": 7,
-      "cityLife": 5
+      "cityLife": 10
     },
     "citySize": "large",
     "climate": "cold",
@@ -32665,7 +32665,7 @@
       "culture": 8,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "varied",
@@ -41648,7 +41648,7 @@
       "culture": 8,
       "safety": 8,
       "foodScene": 7,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "cold",
@@ -50081,7 +50081,7 @@
       "culture": 9,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 8
+      "cityLife": 9
     },
     "citySize": "medium",
     "climate": "varied",
@@ -50805,7 +50805,7 @@
       "culture": 8,
       "safety": 7,
       "foodScene": 8,
-      "cityLife": 10
+      "cityLife": 8
     },
     "citySize": "large",
     "climate": "varied",
