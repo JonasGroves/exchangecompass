@@ -128,7 +128,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 850,
@@ -247,7 +247,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -356,7 +356,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 800,
@@ -475,7 +475,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -704,10 +704,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 700,
-      "shared_base": 945,
-      "solo_base": 1260,
-      "food": 410,
+      "res_base": 1400,
+      "shared_base": 1800,
+      "solo_base": 2500,
+      "food": 600,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -811,10 +811,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 700,
-      "shared_base": 805,
-      "solo_base": 875,
-      "food": 280,
+      "res_base": 1300,
+      "shared_base": 1600,
+      "solo_base": 2200,
+      "food": 450,
       "localCurrency": "SGD"
     },
     "travelAdj": {
@@ -920,7 +920,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1000,
@@ -1038,7 +1038,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -1250,7 +1250,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 900,
@@ -1368,10 +1368,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 680,
-      "shared_base": 782,
-      "solo_base": 850,
-      "food": 275,
+      "res_base": 1250,
+      "shared_base": 1550,
+      "solo_base": 2100,
+      "food": 430,
       "localCurrency": "SGD"
     },
     "travelAdj": {
@@ -1474,7 +1474,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -1586,7 +1586,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 90,
+      "food": 250,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -1688,7 +1688,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 950,
@@ -1797,7 +1797,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 950,
@@ -1907,7 +1907,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1020,
@@ -2014,7 +2014,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 250,
@@ -2122,7 +2122,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -2241,7 +2241,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -2366,10 +2366,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 850,
-      "shared_base": 1148,
-      "solo_base": 1530,
-      "food": 400,
+      "res_base": 1200,
+      "shared_base": 1550,
+      "solo_base": 2100,
+      "food": 550,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -2465,7 +2465,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 780,
@@ -2580,7 +2580,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -2689,7 +2689,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 720,
@@ -2899,7 +2899,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 980,
@@ -3126,7 +3126,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 720,
@@ -3237,10 +3237,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 700,
-      "shared_base": 805,
-      "solo_base": 875,
-      "food": 280,
+      "res_base": 1250,
+      "shared_base": 1600,
+      "solo_base": 2200,
+      "food": 500,
       "localCurrency": "HKD"
     },
     "travelAdj": {
@@ -3344,7 +3344,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 880,
@@ -3683,7 +3683,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 87,
+      "food": 250,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -3787,7 +3787,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -4005,7 +4005,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 870,
@@ -4115,7 +4115,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -4228,10 +4228,10 @@
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
-      "res_base": 660,
-      "shared_base": 759,
-      "solo_base": 825,
-      "food": 275,
+      "res_base": 1200,
+      "shared_base": 1550,
+      "solo_base": 2100,
+      "food": 480,
       "localCurrency": "HKD"
     },
     "travelAdj": {
@@ -4341,7 +4341,7 @@
       "res_base": 185,
       "shared_base": 250,
       "solo_base": 333,
-      "food": 84,
+      "food": 220,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -4446,10 +4446,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 680,
-      "shared_base": 782,
-      "solo_base": 850,
-      "food": 280,
+      "res_base": 1250,
+      "shared_base": 1600,
+      "solo_base": 2200,
+      "food": 490,
       "localCurrency": "HKD"
     },
     "travelAdj": {
@@ -4637,7 +4637,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 90,
+      "food": 250,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -4740,7 +4740,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1100,
@@ -4837,7 +4837,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1020,
@@ -5056,7 +5056,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -5278,7 +5278,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 543,
@@ -5392,10 +5392,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 660,
-      "shared_base": 759,
-      "solo_base": 825,
-      "food": 275,
+      "res_base": 1200,
+      "shared_base": 1550,
+      "solo_base": 2100,
+      "food": 480,
       "localCurrency": "HKD"
     },
     "travelAdj": {
@@ -5499,7 +5499,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 600,
@@ -5613,7 +5613,7 @@
       "res_base": 280,
       "shared_base": 378,
       "solo_base": 504,
-      "food": 123,
+      "food": 180,
       "localCurrency": "MYR"
     },
     "travelAdj": {
@@ -5714,7 +5714,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 550,
@@ -5813,7 +5813,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -5922,7 +5922,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 600,
@@ -6152,7 +6152,7 @@
       "res_base": 150,
       "shared_base": 202,
       "solo_base": 270,
-      "food": 78,
+      "food": 200,
       "localCurrency": "TWD"
     },
     "travelAdj": {
@@ -6365,7 +6365,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -6466,7 +6466,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 420,
@@ -6575,7 +6575,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 700,
@@ -7341,7 +7341,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 513,
@@ -7472,7 +7472,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 750,
@@ -7569,13 +7569,13 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
       "shared_base": 608,
       "solo_base": 810,
-      "food": 157,
+      "food": 230,
       "localCurrency": "CLP"
     },
     "travelAdj": {
@@ -7991,7 +7991,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 460,
@@ -8098,7 +8098,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 700,
@@ -8304,7 +8304,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -8404,7 +8404,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 480,
@@ -8624,7 +8624,7 @@
       "res_base": 300,
       "shared_base": 405,
       "solo_base": 540,
-      "food": 123,
+      "food": 230,
       "localCurrency": "BRL"
     },
     "travelAdj": {
@@ -8835,7 +8835,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 500,
@@ -9275,7 +9275,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -9489,10 +9489,10 @@
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
-      "res_base": 900,
-      "shared_base": 1215,
-      "solo_base": 1620,
-      "food": 410,
+      "res_base": 1350,
+      "shared_base": 1750,
+      "solo_base": 2400,
+      "food": 600,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -9667,7 +9667,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 500,
@@ -9775,7 +9775,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 800,
@@ -9956,7 +9956,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 500,
@@ -10186,13 +10186,13 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
-      "res_base": 600,
-      "shared_base": 1000,
-      "solo_base": 1080,
-      "food": 350,
+      "res_base": 950,
+      "shared_base": 1200,
+      "solo_base": 1700,
+      "food": 500,
       "localCurrency": "NOK"
     },
     "travelAdj": {
@@ -10398,7 +10398,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 900,
@@ -10506,7 +10506,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 890,
@@ -10821,7 +10821,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -10930,7 +10930,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -11051,7 +11051,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 980,
@@ -11166,7 +11166,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -11275,13 +11275,13 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
-      "res_base": 850,
-      "shared_base": 1148,
-      "solo_base": 1530,
-      "food": 241,
+      "res_base": 1100,
+      "shared_base": 1400,
+      "solo_base": 1950,
+      "food": 550,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -11480,7 +11480,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -11589,7 +11589,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 920,
@@ -11698,7 +11698,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 900,
@@ -11807,7 +11807,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -11922,7 +11922,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -12031,7 +12031,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -12138,7 +12138,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -12245,7 +12245,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 580,
@@ -12348,7 +12348,7 @@
       "res_base": 300,
       "shared_base": 405,
       "solo_base": 540,
-      "food": 92,
+      "food": 230,
       "localCurrency": "CLP"
     },
     "travelAdj": {
@@ -12444,7 +12444,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 600,
@@ -12547,7 +12547,7 @@
     },
     "citySize": "large",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1000,
@@ -12654,7 +12654,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 520,
@@ -12762,7 +12762,7 @@
       "res_base": 150,
       "shared_base": 202,
       "solo_base": 270,
-      "food": 67,
+      "food": 200,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -13316,7 +13316,7 @@
     },
     "citySize": "small",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 760,
@@ -13535,10 +13535,10 @@
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
-      "res_base": 880,
-      "shared_base": 1188,
-      "solo_base": 1584,
-      "food": 400,
+      "res_base": 1300,
+      "shared_base": 1650,
+      "solo_base": 2300,
+      "food": 580,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -13641,7 +13641,7 @@
     },
     "citySize": "small",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 880,
@@ -13755,7 +13755,7 @@
     },
     "citySize": "small",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -13867,7 +13867,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 480,
@@ -14085,7 +14085,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 520,
@@ -14188,13 +14188,13 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
-      "res_base": 700,
-      "shared_base": 945,
-      "solo_base": 1260,
-      "food": 315,
+      "res_base": 1100,
+      "shared_base": 1400,
+      "solo_base": 1950,
+      "food": 550,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -14288,7 +14288,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 550,
@@ -14487,7 +14487,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 550,
@@ -14622,7 +14622,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -14834,7 +14834,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 430,
@@ -15266,7 +15266,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -15582,7 +15582,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -15989,7 +15989,7 @@
       "res_base": 150,
       "shared_base": 202,
       "solo_base": 270,
-      "food": 60,
+      "food": 180,
       "localCurrency": "MYR"
     },
     "travelAdj": {
@@ -16535,7 +16535,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 470,
@@ -16746,7 +16746,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -16842,7 +16842,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -16955,7 +16955,7 @@
       "res_base": 280,
       "shared_base": 378,
       "solo_base": 504,
-      "food": 106,
+      "food": 230,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -17129,7 +17129,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 480,
@@ -17237,7 +17237,7 @@
       "res_base": 130,
       "shared_base": 176,
       "solo_base": 234,
-      "food": 62,
+      "food": 200,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -17337,7 +17337,7 @@
     },
     "citySize": "large",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1000,
@@ -17446,7 +17446,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -17677,7 +17677,7 @@
     },
     "citySize": "small",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 520,
@@ -17861,7 +17861,7 @@
       "res_base": 120,
       "shared_base": 162,
       "solo_base": 216,
-      "food": 60,
+      "food": 200,
       "localCurrency": "IDR"
     },
     "travelAdj": {
@@ -18301,7 +18301,7 @@
       "res_base": 100,
       "shared_base": 135,
       "solo_base": 0,
-      "food": 60,
+      "food": 200,
       "localCurrency": "USD"
     },
     "travelAdj": {
@@ -18403,7 +18403,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 600,
@@ -18702,7 +18702,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 90,
+      "food": 220,
       "localCurrency": "COP"
     },
     "travelAdj": {
@@ -18801,7 +18801,7 @@
     },
     "citySize": "small",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 800,
@@ -18872,7 +18872,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 700,
@@ -19292,10 +19292,10 @@
     "budgetTier": "high",
     "engOnly": false,
     "costs": {
-      "res_base": 750,
-      "shared_base": 1485,
-      "solo_base": 1980,
-      "food": 375,
+      "res_base": 1200,
+      "shared_base": 1550,
+      "solo_base": 2100,
+      "food": 560,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -19584,7 +19584,7 @@
       "res_base": 180,
       "shared_base": 243,
       "solo_base": 324,
-      "food": 73,
+      "food": 220,
       "localCurrency": "THB"
     },
     "travelAdj": {
@@ -19689,7 +19689,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 480,
@@ -19789,7 +19789,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 480,
@@ -20013,7 +20013,7 @@
       "res_base": 260,
       "shared_base": 351,
       "solo_base": 468,
-      "food": 112,
+      "food": 220,
       "localCurrency": "BRL"
     },
     "travelAdj": {
@@ -20291,7 +20291,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -21097,7 +21097,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -21208,7 +21208,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -21285,7 +21285,7 @@
       "res_base": 500,
       "shared_base": 675,
       "solo_base": 900,
-      "food": 140,
+      "food": 250,
       "localCurrency": "USD"
     },
     "travelAdj": {
@@ -21386,7 +21386,7 @@
     "climate": "varied",
     "id": "bocconi-university",
     "qsRank": 281,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "#1 Business Italy",
       "Milan Fashion",
@@ -21560,7 +21560,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 840,
@@ -21663,7 +21663,7 @@
       "res_base": 290,
       "shared_base": 392,
       "solo_base": 522,
-      "food": 109,
+      "food": 240,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -21835,7 +21835,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -22045,13 +22045,13 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
-      "res_base": 500,
-      "shared_base": 837,
-      "solo_base": 1116,
-      "food": 270,
+      "res_base": 850,
+      "shared_base": 1100,
+      "solo_base": 1500,
+      "food": 470,
       "localCurrency": "NOK"
     },
     "travelAdj": {
@@ -22147,7 +22147,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 580,
@@ -22355,7 +22355,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -22432,7 +22432,7 @@
       "res_base": 300,
       "shared_base": 405,
       "solo_base": 540,
-      "food": 112,
+      "food": 240,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -22566,7 +22566,7 @@
     "climate": "varied",
     "id": "university-of-galway",
     "qsRank": 273,
-    "budgetTier": "low",
+    "budgetTier": "med",
     "tags": [
       "West of Ireland",
       "Cultural City",
@@ -22639,7 +22639,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -22754,7 +22754,7 @@
       "res_base": 300,
       "shared_base": 405,
       "solo_base": 540,
-      "food": 112,
+      "food": 230,
       "localCurrency": "COP"
     },
     "travelAdj": {
@@ -22955,7 +22955,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 550,
@@ -23026,7 +23026,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -23305,7 +23305,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -23401,7 +23401,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -23508,7 +23508,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -23611,7 +23611,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -23718,7 +23718,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -24000,13 +24000,13 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
-      "res_base": 600,
-      "shared_base": 810,
-      "solo_base": 1080,
-      "food": 300,
+      "res_base": 900,
+      "shared_base": 1150,
+      "solo_base": 1600,
+      "food": 480,
       "localCurrency": "NOK"
     },
     "travelAdj": {
@@ -24102,7 +24102,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -24425,7 +24425,7 @@
     "climate": "cold",
     "id": "copenhagen-business-school",
     "qsRank": 300,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Scandinavia Business",
       "Copenhagen Life",
@@ -24496,7 +24496,7 @@
     "climate": "sunny",
     "id": "esade-business-school",
     "qsRank": 304,
-    "budgetTier": "high",
+    "budgetTier": "low",
     "tags": [
       "Top MBA School",
       "Barcelona Beach",
@@ -24567,7 +24567,7 @@
     "climate": "mild",
     "id": "hec-paris",
     "qsRank": 305,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Top Business School",
       "Near Versailles",
@@ -24684,9 +24684,9 @@
     "costSource": "University + Numbeo data",
     "costs": {
       "res_base": 1200,
-      "shared_base": 1620,
-      "solo_base": 2160,
-      "food": 336,
+      "shared_base": 1550,
+      "solo_base": 2100,
+      "food": 550,
       "localCurrency": "CHF"
     },
     "website": "https://www.unisg.ch"
@@ -24711,7 +24711,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -25009,7 +25009,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 84,
+      "food": 230,
       "localCurrency": "BRL"
     },
     "travelAdj": {
@@ -25074,7 +25074,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 550,
@@ -25245,7 +25245,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 440,
@@ -25462,7 +25462,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -25569,7 +25569,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 950,
@@ -25678,7 +25678,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 850,
@@ -25788,7 +25788,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 620,
@@ -25859,13 +25859,13 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
-      "res_base": 490,
-      "shared_base": 1148,
-      "solo_base": 1530,
-      "food": 241,
+      "res_base": 750,
+      "shared_base": 950,
+      "solo_base": 1350,
+      "food": 420,
       "localCurrency": "DKK"
     },
     "travelAdj": {
@@ -25936,7 +25936,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 90,
+      "food": 220,
       "localCurrency": "TRY"
     },
     "travelAdj": {
@@ -26256,7 +26256,7 @@
       "res_base": 140,
       "shared_base": 189,
       "solo_base": 252,
-      "food": 64,
+      "food": 220,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -26351,7 +26351,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -26460,7 +26460,7 @@
       "res_base": 120,
       "shared_base": 162,
       "solo_base": 216,
-      "food": 60,
+      "food": 180,
       "localCurrency": "PHP"
     },
     "travelAdj": {
@@ -26729,7 +26729,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "high",
     "engOnly": false,
     "costs": {
       "res_base": 1200,
@@ -26826,7 +26826,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 530,
@@ -27157,7 +27157,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 850,
@@ -27788,7 +27788,7 @@
       "res_base": 300,
       "shared_base": 405,
       "solo_base": 540,
-      "food": 112,
+      "food": 220,
       "localCurrency": "PEN"
     },
     "travelAdj": {
@@ -27896,7 +27896,7 @@
       "res_base": 100,
       "shared_base": 135,
       "solo_base": 450,
-      "food": 73,
+      "food": 200,
       "localCurrency": "OMR"
     },
     "travelAdj": {
@@ -28068,7 +28068,7 @@
       "res_base": 270,
       "shared_base": 364,
       "solo_base": 486,
-      "food": 104,
+      "food": 230,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -28139,7 +28139,7 @@
       "res_base": 175,
       "shared_base": 236,
       "solo_base": 315,
-      "food": 71,
+      "food": 210,
       "localCurrency": "THB"
     },
     "travelAdj": {
@@ -28247,7 +28247,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 73,
+      "food": 180,
       "localCurrency": "JOD"
     },
     "travelAdj": {
@@ -28342,7 +28342,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 530,
@@ -28525,7 +28525,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -28640,7 +28640,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -28838,7 +28838,7 @@
       "res_base": 270,
       "shared_base": 364,
       "solo_base": 486,
-      "food": 104,
+      "food": 200,
       "localCurrency": "CNY"
     },
     "travelAdj": {
@@ -28909,7 +28909,7 @@
       "res_base": 280,
       "shared_base": 378,
       "solo_base": 504,
-      "food": 106,
+      "food": 220,
       "localCurrency": "COP"
     },
     "travelAdj": {
@@ -29008,7 +29008,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -29108,7 +29108,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -29211,7 +29211,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -29311,13 +29311,13 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
-      "res_base": 650,
-      "shared_base": 1282,
-      "solo_base": 1710,
-      "food": 260,
+      "res_base": 1000,
+      "shared_base": 1300,
+      "solo_base": 1800,
+      "food": 520,
       "localCurrency": "CHF"
     },
     "travelAdj": {
@@ -29561,7 +29561,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 480,
@@ -29975,7 +29975,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 580,
@@ -30190,7 +30190,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 700,
@@ -30687,7 +30687,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 500,
@@ -30794,7 +30794,7 @@
       "res_base": 210,
       "shared_base": 284,
       "solo_base": 378,
-      "food": 92,
+      "food": 220,
       "localCurrency": "TRY"
     },
     "travelAdj": {
@@ -30889,7 +30889,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -31166,7 +31166,7 @@
     "climate": "varied",
     "id": "dublin-city-university",
     "qsRank": 422,
-    "budgetTier": "low",
+    "budgetTier": "med",
     "tags": [
       "Dublin City",
       "Tech & Business",
@@ -31239,7 +31239,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 520,
@@ -31308,7 +31308,7 @@
     "climate": "mild",
     "id": "university-of-limerick",
     "qsRank": 424,
-    "budgetTier": "low",
+    "budgetTier": "med",
     "tags": [
       "River Campus",
       "Co-op Model",
@@ -31489,7 +31489,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 530,
@@ -31558,7 +31558,7 @@
     "climate": "varied",
     "id": "boston-college",
     "qsRank": 431,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Jesuit Research Uni",
       "Boston City",
@@ -31631,7 +31631,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 530,
@@ -31888,7 +31888,7 @@
     "climate": "varied",
     "id": "ie-university",
     "qsRank": 435,
-    "budgetTier": "high",
+    "budgetTier": "low",
     "tags": [
       "Entrepreneurship",
       "Madrid Life",
@@ -31967,7 +31967,7 @@
       "res_base": 120,
       "shared_base": 162,
       "solo_base": 216,
-      "food": 110,
+      "food": 200,
       "localCurrency": "TRY"
     },
     "travelAdj": {
@@ -32166,7 +32166,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -32237,7 +32237,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -32776,7 +32776,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -32916,7 +32916,7 @@
     "climate": "varied",
     "id": "american-university",
     "qsRank": 500,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "DC Location",
       "Policy School",
@@ -32987,7 +32987,7 @@
     "climate": "varied",
     "id": "babson-college",
     "qsRank": 505,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "#1 Entrepreneurship",
       "Boston Area",
@@ -33058,7 +33058,7 @@
     "climate": "varied",
     "id": "drexel-university",
     "qsRank": 506,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Co-op Programs",
       "Philadelphia",
@@ -33129,7 +33129,7 @@
     "climate": "cold",
     "id": "loyola-university-chicago",
     "qsRank": 507,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Lakefront Campus",
       "Chicago City",
@@ -33200,7 +33200,7 @@
     "climate": "sunny",
     "id": "pepperdine-university",
     "qsRank": 508,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Ocean Views",
       "Malibu Campus",
@@ -33271,7 +33271,7 @@
     "climate": "varied",
     "id": "rochester-institute-of-technology",
     "qsRank": 509,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Engineering & Design",
       "Co-op Programs",
@@ -33342,7 +33342,7 @@
     "climate": "varied",
     "id": "syracuse-university",
     "qsRank": 510,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Communications School",
       "Snow City",
@@ -33413,7 +33413,7 @@
     "climate": "varied",
     "id": "villanova-university",
     "qsRank": 511,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Jesuit University",
       "Near Philadelphia",
@@ -33484,7 +33484,7 @@
     "climate": "varied",
     "id": "wake-forest-university",
     "qsRank": 512,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Top Liberal Arts",
       "Small Classes",
@@ -33557,7 +33557,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 510,
@@ -33841,7 +33841,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 530,
@@ -33912,7 +33912,7 @@
     },
     "citySize": "large",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -34024,7 +34024,7 @@
     },
     "citySize": "small",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -34138,7 +34138,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -34235,7 +34235,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 950,
@@ -34332,7 +34332,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -34526,7 +34526,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -34626,10 +34626,10 @@
     "budgetTier": "high",
     "engOnly": true,
     "costs": {
-      "res_base": 900,
-      "shared_base": 980,
-      "solo_base": 1125,
-      "food": 241,
+      "res_base": 1300,
+      "shared_base": 1600,
+      "solo_base": 2200,
+      "food": 450,
       "localCurrency": "SGD"
     },
     "travelAdj": {
@@ -34723,7 +34723,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -34820,7 +34820,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 780,
@@ -34917,7 +34917,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -35014,7 +35014,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1050,
@@ -35085,7 +35085,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 520,
@@ -35156,7 +35156,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -35253,7 +35253,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 950,
@@ -35350,7 +35350,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1000,
@@ -35447,7 +35447,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -35544,7 +35544,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -35748,7 +35748,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -35845,7 +35845,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -35942,7 +35942,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -36039,7 +36039,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1000,
@@ -36136,7 +36136,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 950,
@@ -36233,7 +36233,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -36330,7 +36330,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -36427,7 +36427,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -36524,7 +36524,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -36621,7 +36621,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -36718,7 +36718,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 950,
@@ -36815,7 +36815,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -36912,7 +36912,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1100,
@@ -37015,7 +37015,7 @@
       "res_base": 300,
       "shared_base": 405,
       "solo_base": 540,
-      "food": 106,
+      "food": 190,
       "localCurrency": "PHP"
     },
     "travelAdj": {
@@ -37293,7 +37293,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 900,
@@ -37435,7 +37435,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -37532,7 +37532,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -37629,7 +37629,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "high",
     "engOnly": false,
     "costs": {
       "res_base": 1300,
@@ -37726,7 +37726,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -37823,7 +37823,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 900,
@@ -37920,7 +37920,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38017,7 +38017,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38114,7 +38114,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38211,7 +38211,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38308,7 +38308,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38405,7 +38405,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 900,
@@ -38502,7 +38502,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38599,7 +38599,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -38696,7 +38696,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 850,
@@ -38793,7 +38793,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -38890,7 +38890,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "high",
     "engOnly": false,
     "costs": {
       "res_base": 1200,
@@ -38987,7 +38987,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 800,
@@ -39084,7 +39084,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -39181,7 +39181,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 800,
@@ -39278,7 +39278,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 800,
@@ -39375,7 +39375,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -39472,7 +39472,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1050,
@@ -39569,7 +39569,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 750,
@@ -39666,7 +39666,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -39763,7 +39763,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -39860,7 +39860,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -39957,7 +39957,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1100,
@@ -40054,7 +40054,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "high",
     "engOnly": false,
     "costs": {
       "res_base": 1400,
@@ -40151,7 +40151,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -40248,7 +40248,7 @@
     },
     "citySize": "medium",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -40345,7 +40345,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 850,
@@ -40442,7 +40442,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -40539,7 +40539,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 750,
@@ -40636,7 +40636,7 @@
     },
     "citySize": "large",
     "climate": "hot",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 900,
@@ -40830,7 +40830,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -40927,7 +40927,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 1000,
@@ -41024,7 +41024,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 750,
@@ -41228,7 +41228,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 73,
+      "food": 190,
       "localCurrency": "PHP"
     },
     "travelAdj": {
@@ -41328,7 +41328,7 @@
     "climate": "cold",
     "id": "bi-norwegian-business-school",
     "qsRank": 609,
-    "budgetTier": "high",
+    "budgetTier": "med",
     "tags": [
       "Norway Business",
       "Oslo City",
@@ -41373,10 +41373,10 @@
     },
     "costSource": "University + Numbeo data",
     "costs": {
-      "res_base": 900,
-      "shared_base": 1215,
-      "solo_base": 1620,
-      "food": 280,
+      "res_base": 950,
+      "shared_base": 1200,
+      "solo_base": 1700,
+      "food": 500,
       "localCurrency": "NOK"
     },
     "website": "https://www.bi.no"
@@ -41401,7 +41401,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 950,
@@ -41581,7 +41581,7 @@
     },
     "citySize": "large",
     "climate": "sunny",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -41652,7 +41652,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 650,
@@ -42349,7 +42349,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1100,
@@ -42634,7 +42634,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -42734,7 +42734,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -42834,7 +42834,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -42934,7 +42934,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43034,7 +43034,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43134,7 +43134,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43234,7 +43234,7 @@
     },
     "citySize": "large",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -43334,7 +43334,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43434,7 +43434,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43534,7 +43534,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43634,7 +43634,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43734,7 +43734,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43834,7 +43834,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -43934,7 +43934,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44034,7 +44034,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44234,7 +44234,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44334,7 +44334,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44434,7 +44434,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44534,7 +44534,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44634,7 +44634,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44734,7 +44734,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -44834,7 +44834,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 700,
@@ -44937,7 +44937,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45037,7 +45037,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45137,7 +45137,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45237,7 +45237,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45337,7 +45337,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45437,7 +45437,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45537,7 +45537,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -45640,7 +45640,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45740,7 +45740,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -45840,7 +45840,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 750,
@@ -46037,7 +46037,7 @@
     },
     "citySize": "mega",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 700,
@@ -46140,7 +46140,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -46240,7 +46240,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 720,
@@ -46337,7 +46337,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -46437,7 +46437,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -46540,7 +46540,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -46640,7 +46640,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -46743,7 +46743,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -46843,7 +46843,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -46940,7 +46940,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -47040,7 +47040,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -47140,7 +47140,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -47243,7 +47243,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -47346,7 +47346,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -47446,7 +47446,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -47546,7 +47546,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -47649,7 +47649,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 860,
@@ -47746,7 +47746,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -47846,7 +47846,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -47946,7 +47946,7 @@
     },
     "citySize": "small",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 520,
@@ -48056,7 +48056,7 @@
     },
     "citySize": "medium",
     "climate": "cold",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 790,
@@ -48332,7 +48332,7 @@
     },
     "citySize": "large",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1000,
@@ -48503,7 +48503,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 750,
@@ -48600,7 +48600,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 400,
@@ -48800,7 +48800,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -48903,7 +48903,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 820,
@@ -49000,7 +49000,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 810,
@@ -49097,7 +49097,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 800,
@@ -49194,7 +49194,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 870,
@@ -49291,7 +49291,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -49394,7 +49394,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 700,
@@ -49491,7 +49491,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 820,
@@ -49691,7 +49691,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 790,
@@ -49788,7 +49788,7 @@
     },
     "citySize": "medium",
     "climate": "varied",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -49891,7 +49891,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 980,
@@ -49988,7 +49988,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "low",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 780,
@@ -50188,7 +50188,7 @@
     },
     "citySize": "medium",
     "climate": "mild",
-    "budgetTier": "high",
+    "budgetTier": "low",
     "engOnly": true,
     "costs": {
       "res_base": 550,
@@ -50291,7 +50291,7 @@
     },
     "citySize": "medium",
     "climate": "hot",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": true,
     "costs": {
       "res_base": 1000,
@@ -50405,7 +50405,7 @@
       "res_base": 160,
       "shared_base": 216,
       "solo_base": 288,
-      "food": 60,
+      "food": 210,
       "localCurrency": "THB"
     },
     "travelAdj": {
@@ -50606,7 +50606,7 @@
     },
     "citySize": "large",
     "climate": "mild",
-    "budgetTier": "med",
+    "budgetTier": "low",
     "engOnly": false,
     "costs": {
       "res_base": 450,
@@ -51231,7 +51231,7 @@
       "res_base": 140,
       "shared_base": 189,
       "solo_base": 252,
-      "food": 76,
+      "food": 200,
       "localCurrency": "TWD"
     },
     "travelAdj": {
@@ -51341,7 +51341,7 @@
       "res_base": 250,
       "shared_base": 338,
       "solo_base": 450,
-      "food": 78,
+      "food": 220,
       "localCurrency": "COP"
     },
     "travelAdj": {
@@ -51755,7 +51755,7 @@
     },
     "citySize": "small",
     "climate": "cold",
-    "budgetTier": "high",
+    "budgetTier": "med",
     "engOnly": false,
     "costs": {
       "res_base": 650,
@@ -52808,7 +52808,7 @@
       "res_base": 200,
       "shared_base": 270,
       "solo_base": 360,
-      "food": 101,
+      "food": 200,
       "localCurrency": "IDR"
     },
     "travelAdj": {
@@ -53229,7 +53229,7 @@
       "res_base": 100,
       "shared_base": 135,
       "solo_base": 180,
-      "food": 60,
+      "food": 120,
       "localCurrency": "UGX"
     },
     "travelAdj": {
@@ -53861,7 +53861,7 @@
       "res_base": 100,
       "shared_base": 135,
       "solo_base": 180,
-      "food": 60,
+      "food": 130,
       "localCurrency": "TZS"
     },
     "travelAdj": {
@@ -54176,7 +54176,7 @@
       "res_base": 100,
       "shared_base": 135,
       "solo_base": 180,
-      "food": 60,
+      "food": 170,
       "localCurrency": "VND"
     },
     "travelAdj": {
@@ -54285,7 +54285,7 @@
       "res_base": 100,
       "shared_base": 135,
       "solo_base": 180,
-      "food": 60,
+      "food": 180,
       "localCurrency": "VND"
     },
     "travelAdj": {
@@ -54499,7 +54499,7 @@
       "res_base": 120,
       "shared_base": 162,
       "solo_base": 216,
-      "food": 62,
+      "food": 150,
       "localCurrency": "GHS"
     },
     "travelAdj": {
