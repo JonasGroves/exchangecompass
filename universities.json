@@ -1138,7 +1138,7 @@
       "beach": 5,
       "nature": 3,
       "culture": 10,
-      "safety": 5,
+      "safety": 6,
       "foodScene": 10,
       "cityLife": 9
     },
@@ -2893,7 +2893,7 @@
       "beach": 3,
       "nature": 4,
       "culture": 6,
-      "safety": 4,
+      "safety": 5,
       "foodScene": 7,
       "cityLife": 5
     },
@@ -3563,7 +3563,7 @@
       "beach": 5,
       "nature": 3,
       "culture": 10,
-      "safety": 5,
+      "safety": 6,
       "foodScene": 10,
       "cityLife": 9
     },
@@ -3669,7 +3669,7 @@
     "scores": {
       "nightlife": 8,
       "beach": 6,
-      "nature": 3,
+      "nature": 4,
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
@@ -4105,7 +4105,7 @@
     "lng": 135.7806,
     "qsRank": 46,
     "scores": {
-      "nightlife": 4,
+      "nightlife": 6,
       "beach": 2,
       "nature": 7,
       "culture": 10,
@@ -4623,7 +4623,7 @@
     "scores": {
       "nightlife": 8,
       "beach": 6,
-      "nature": 3,
+      "nature": 4,
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
@@ -6456,7 +6456,7 @@
     "lng": 135.5239,
     "qsRank": 71,
     "scores": {
-      "nightlife": 7,
+      "nightlife": 8,
       "beach": 5,
       "nature": 4,
       "culture": 8,
@@ -8503,7 +8503,7 @@
     "scores": {
       "nightlife": 4,
       "beach": 7,
-      "nature": 6,
+      "nature": 8,
       "culture": 7,
       "safety": 9,
       "foodScene": 5,
@@ -10388,7 +10388,7 @@
     "lng": 51.4913,
     "qsRank": 441,
     "scores": {
-      "nightlife": 3,
+      "nightlife": 2,
       "beach": 6,
       "nature": 3,
       "culture": 5,
@@ -13859,7 +13859,7 @@
     "scores": {
       "nightlife": 7,
       "beach": 5,
-      "nature": 3,
+      "nature": 5,
       "culture": 7,
       "safety": 7,
       "foodScene": 7,
@@ -15150,7 +15150,7 @@
       "beach": 9,
       "nature": 8,
       "culture": 7,
-      "safety": 5,
+      "safety": 4,
       "foodScene": 6,
       "cityLife": 6
     },
@@ -16941,7 +16941,7 @@
     "scores": {
       "nightlife": 8,
       "beach": 6,
-      "nature": 3,
+      "nature": 4,
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
@@ -19568,7 +19568,7 @@
     "lng": 100.5281,
     "qsRank": 201,
     "scores": {
-      "nightlife": 8,
+      "nightlife": 9,
       "beach": 4,
       "nature": 4,
       "culture": 7,
@@ -19781,7 +19781,7 @@
     "scores": {
       "nightlife": 8,
       "beach": 2,
-      "nature": 3,
+      "nature": 5,
       "culture": 8,
       "safety": 6,
       "foodScene": 8,
@@ -20283,7 +20283,7 @@
     "scores": {
       "nightlife": 5,
       "beach": 6,
-      "nature": 6,
+      "nature": 7,
       "culture": 5,
       "safety": 7,
       "foodScene": 5,
@@ -20495,7 +20495,7 @@
     "scores": {
       "nightlife": 4,
       "beach": 3,
-      "nature": 6,
+      "nature": 8,
       "culture": 4,
       "safety": 8,
       "foodScene": 5,
@@ -21825,7 +21825,7 @@
     "lng": -9.1591,
     "qsRank": 303,
     "scores": {
-      "nightlife": 10,
+      "nightlife": 8,
       "beach": 7,
       "nature": 5,
       "culture": 9,
@@ -22037,7 +22037,7 @@
     "scores": {
       "nightlife": 5,
       "beach": 3,
-      "nature": 8,
+      "nature": 9,
       "culture": 5,
       "safety": 9,
       "foodScene": 6,
@@ -22947,7 +22947,7 @@
     "scores": {
       "nightlife": 8,
       "beach": 2,
-      "nature": 3,
+      "nature": 5,
       "culture": 8,
       "safety": 6,
       "foodScene": 8,
@@ -23018,7 +23018,7 @@
     "scores": {
       "nightlife": 7,
       "beach": 3,
-      "nature": 3,
+      "nature": 5,
       "culture": 6,
       "safety": 6,
       "foodScene": 7,
@@ -24993,7 +24993,7 @@
     "lng": -43.1724,
     "qsRank": 311,
     "scores": {
-      "nightlife": 8,
+      "nightlife": 9,
       "beach": 10,
       "nature": 8,
       "culture": 7,
@@ -25345,7 +25345,7 @@
     "lng": 19.937,
     "qsRank": 274,
     "scores": {
-      "nightlife": 8,
+      "nightlife": 9,
       "beach": 0,
       "nature": 5,
       "culture": 8,
@@ -25780,7 +25780,7 @@
     "scores": {
       "nightlife": 7,
       "beach": 3,
-      "nature": 3,
+      "nature": 5,
       "culture": 6,
       "safety": 6,
       "foodScene": 7,
@@ -27039,7 +27039,7 @@
     "scores": {
       "nightlife": 5,
       "beach": 8,
-      "nature": 7,
+      "nature": 8,
       "culture": 6,
       "safety": 8,
       "foodScene": 6,
@@ -28054,7 +28054,7 @@
     "scores": {
       "nightlife": 8,
       "beach": 6,
-      "nature": 3,
+      "nature": 4,
       "culture": 7,
       "safety": 7,
       "foodScene": 9,
@@ -28123,7 +28123,7 @@
     "lng": 100.3268,
     "qsRank": 401,
     "scores": {
-      "nightlife": 8,
+      "nightlife": 9,
       "beach": 4,
       "nature": 4,
       "culture": 7,
@@ -29551,7 +29551,7 @@
     "lng": -9.156,
     "qsRank": 388,
     "scores": {
-      "nightlife": 10,
+      "nightlife": 8,
       "beach": 7,
       "nature": 5,
       "culture": 9,
@@ -30881,7 +30881,7 @@
     "scores": {
       "nightlife": 5,
       "beach": 4,
-      "nature": 6,
+      "nature": 7,
       "culture": 6,
       "safety": 8,
       "foodScene": 5,
@@ -31481,7 +31481,7 @@
     "scores": {
       "nightlife": 7,
       "beach": 2,
-      "nature": 3,
+      "nature": 5,
       "culture": 7,
       "safety": 7,
       "foodScene": 7,
@@ -31809,7 +31809,7 @@
     "lng": 135.7284,
     "qsRank": 434,
     "scores": {
-      "nightlife": 4,
+      "nightlife": 6,
       "beach": 2,
       "nature": 7,
       "culture": 10,
@@ -32768,7 +32768,7 @@
     "scores": {
       "nightlife": 4,
       "beach": 0,
-      "nature": 3,
+      "nature": 5,
       "culture": 4,
       "safety": 7,
       "foodScene": 5,
@@ -33618,7 +33618,7 @@
     "lng": 135.7537,
     "qsRank": 514,
     "scores": {
-      "nightlife": 4,
+      "nightlife": 6,
       "beach": 2,
       "nature": 7,
       "culture": 10,
@@ -33693,7 +33693,7 @@
       "beach": 5,
       "nature": 3,
       "culture": 10,
-      "safety": 5,
+      "safety": 6,
       "foodScene": 10,
       "cityLife": 9
     },
@@ -40436,7 +40436,7 @@
       "beach": 5,
       "nature": 4,
       "culture": 6,
-      "safety": 4,
+      "safety": 5,
       "foodScene": 6,
       "cityLife": 5
     },
@@ -40723,7 +40723,7 @@
     "lng": -111.6493,
     "qsRank": 594,
     "scores": {
-      "nightlife": 4,
+      "nightlife": 2,
       "beach": 0,
       "nature": 8,
       "culture": 4,
@@ -42341,7 +42341,7 @@
     "scores": {
       "nightlife": 6,
       "beach": 10,
-      "nature": 8,
+      "nature": 9,
       "culture": 6,
       "safety": 8,
       "foodScene": 8,
@@ -43224,7 +43224,7 @@
     "lng": 13.3267,
     "qsRank": 628,
     "scores": {
-      "nightlife": 7,
+      "nightlife": 9,
       "beach": 4,
       "nature": 7,
       "culture": 8,
@@ -47938,7 +47938,7 @@
     "scores": {
       "nightlife": 4,
       "beach": 5,
-      "nature": 3,
+      "nature": 5,
       "culture": 10,
       "safety": 8,
       "foodScene": 8,
@@ -50389,7 +50389,7 @@
     "lng": 100.4992,
     "qsRank": 704,
     "scores": {
-      "nightlife": 8,
+      "nightlife": 9,
       "beach": 4,
       "nature": 4,
       "culture": 7,
@@ -52699,7 +52699,7 @@
       "beach": 0,
       "nature": 5,
       "culture": 7,
-      "safety": 5,
+      "safety": 3,
       "foodScene": 6,
       "cityLife": 6
     },
