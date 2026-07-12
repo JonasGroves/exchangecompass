@@ -463,7 +463,7 @@
     "region": "uk",
     "lat": 51.499,
     "lng": -0.175,
-    "qsRank": 6,
+    "qsRank": 2,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -570,7 +570,7 @@
     "region": "na",
     "lat": 37.427,
     "lng": -122.17,
-    "qsRank": 7,
+    "qsRank": 6,
     "scores": {
       "nightlife": 5,
       "beach": 7,
@@ -689,7 +689,7 @@
     "region": "weu",
     "lat": 47.376,
     "lng": 8.548,
-    "qsRank": 8,
+    "qsRank": 7,
     "scores": {
       "nightlife": 7,
       "beach": 1,
@@ -796,7 +796,7 @@
     "region": "eastasia",
     "lat": 1.2966,
     "lng": 103.7764,
-    "qsRank": 9,
+    "qsRank": 8,
     "scores": {
       "nightlife": 7,
       "beach": 7,
@@ -908,7 +908,7 @@
     "region": "uk",
     "lat": 51.524,
     "lng": -0.134,
-    "qsRank": 10,
+    "qsRank": 9,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -12845,7 +12845,7 @@
     "region": "na",
     "lat": 30.2849,
     "lng": -97.7341,
-    "qsRank": 146,
+    "qsRank": 65,
     "scores": {
       "nightlife": 8,
       "beach": 2,
@@ -17952,7 +17952,7 @@
     "region": "na",
     "lat": 40.0067,
     "lng": -83.0305,
-    "qsRank": 174,
+    "qsRank": 171,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -24699,7 +24699,7 @@
     "region": "na",
     "lat": 38.9076,
     "lng": -77.0723,
-    "qsRank": 308,
+    "qsRank": 229,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -28401,7 +28401,7 @@
     "region": "na",
     "lat": 38.8996,
     "lng": -77.0482,
-    "qsRank": 503,
+    "qsRank": 501,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -30178,7 +30178,7 @@
     "region": "gb",
     "lat": 51.522,
     "lng": -0.1303,
-    "qsRank": 408,
+    "qsRank": 651,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -30566,7 +30566,7 @@
     "region": "na",
     "lat": 45.4949,
     "lng": -73.5779,
-    "qsRank": 522,
+    "qsRank": 601,
     "scores": {
       "nightlife": 9,
       "beach": 2,
@@ -31557,7 +31557,7 @@
     },
     "climate": "varied",
     "id": "boston-college",
-    "qsRank": 431,
+    "qsRank": 451,
     "budgetTier": "med",
     "tags": [
       "Jesuit Research Uni",
@@ -32225,7 +32225,7 @@
     "region": "de",
     "lat": 50.5841,
     "lng": 8.6784,
-    "qsRank": 445,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -32915,7 +32915,7 @@
     },
     "climate": "varied",
     "id": "american-university",
-    "qsRank": 500,
+    "qsRank": 801,
     "budgetTier": "med",
     "tags": [
       "DC Location",
@@ -32986,7 +32986,7 @@
     },
     "climate": "varied",
     "id": "babson-college",
-    "qsRank": 505,
+    "qsRank": 1001,
     "budgetTier": "med",
     "tags": [
       "#1 Entrepreneurship",
@@ -33057,7 +33057,7 @@
     },
     "climate": "varied",
     "id": "drexel-university",
-    "qsRank": 506,
+    "qsRank": 651,
     "budgetTier": "med",
     "tags": [
       "Co-op Programs",
@@ -33128,7 +33128,7 @@
     },
     "climate": "cold",
     "id": "loyola-university-chicago",
-    "qsRank": 507,
+    "qsRank": 801,
     "budgetTier": "med",
     "tags": [
       "Lakefront Campus",
@@ -33199,7 +33199,7 @@
     },
     "climate": "sunny",
     "id": "pepperdine-university",
-    "qsRank": 508,
+    "qsRank": 801,
     "budgetTier": "med",
     "tags": [
       "Ocean Views",
@@ -33270,7 +33270,7 @@
     },
     "climate": "varied",
     "id": "rochester-institute-of-technology",
-    "qsRank": 509,
+    "qsRank": 651,
     "budgetTier": "med",
     "tags": [
       "Engineering & Design",
@@ -33341,7 +33341,7 @@
     },
     "climate": "varied",
     "id": "syracuse-university",
-    "qsRank": 510,
+    "qsRank": 651,
     "budgetTier": "med",
     "tags": [
       "Communications School",
@@ -33412,7 +33412,7 @@
     },
     "climate": "varied",
     "id": "villanova-university",
-    "qsRank": 511,
+    "qsRank": 801,
     "budgetTier": "med",
     "tags": [
       "Jesuit University",
@@ -33483,7 +33483,7 @@
     },
     "climate": "varied",
     "id": "wake-forest-university",
-    "qsRank": 512,
+    "qsRank": 801,
     "budgetTier": "med",
     "tags": [
       "Top Liberal Arts",
@@ -33687,7 +33687,7 @@
     "region": "North America",
     "lat": 40.8609,
     "lng": -73.8851,
-    "qsRank": 515,
+    "qsRank": 801,
     "scores": {
       "nightlife": 10,
       "beach": 5,
@@ -33900,7 +33900,7 @@
     "region": "na",
     "lat": 25.7217,
     "lng": -80.2792,
-    "qsRank": 519,
+    "qsRank": 501,
     "scores": {
       "nightlife": 9,
       "beach": 10,
@@ -34711,7 +34711,7 @@
     "region": "us",
     "lat": 44.974,
     "lng": -93.2277,
-    "qsRank": 523,
+    "qsRank": 171,
     "scores": {
       "nightlife": 6,
       "beach": 2,
@@ -34808,7 +34808,7 @@
     "region": "pe",
     "lat": 40.7982,
     "lng": -77.8599,
-    "qsRank": 524,
+    "qsRank": 207,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -34905,7 +34905,7 @@
     "region": "us",
     "lat": 32.8801,
     "lng": -117.234,
-    "qsRank": 525,
+    "qsRank": 169,
     "scores": {
       "nightlife": 7,
       "beach": 9,
@@ -35144,7 +35144,7 @@
     "region": "us",
     "lat": 38.5382,
     "lng": -121.7617,
-    "qsRank": 528,
+    "qsRank": 237,
     "scores": {
       "nightlife": 5,
       "beach": 3,
@@ -35241,7 +35241,7 @@
     "region": "ru",
     "lat": 40.5008,
     "lng": -74.4474,
-    "qsRank": 529,
+    "qsRank": 551,
     "scores": {
       "nightlife": 5,
       "beach": 5,
@@ -35338,7 +35338,7 @@
     "region": "un",
     "lat": 38.9869,
     "lng": -76.9426,
-    "qsRank": 530,
+    "qsRank": 290,
     "scores": {
       "nightlife": 5,
       "beach": 3,
@@ -35435,7 +35435,7 @@
     "region": "us",
     "lat": 42.7018,
     "lng": -84.4822,
-    "qsRank": 531,
+    "qsRank": 301,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -35532,7 +35532,7 @@
     "region": "us",
     "lat": 37.7632,
     "lng": -122.458,
-    "qsRank": 532,
+    "qsRank": 701,
     "scores": {
       "nightlife": 7,
       "beach": 5,
@@ -35629,7 +35629,7 @@
     "region": "na",
     "lat": 32.771,
     "lng": -117.19,
-    "qsRank": 533,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 7,
       "beach": 9,
@@ -35736,7 +35736,7 @@
     "region": "us",
     "lat": 40.4444,
     "lng": -79.9608,
-    "qsRank": 534,
+    "qsRank": 348,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -35833,7 +35833,7 @@
     "region": "us",
     "lat": 32.2317,
     "lng": -110.9501,
-    "qsRank": 535,
+    "qsRank": 434,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -35930,7 +35930,7 @@
     "region": "te",
     "lat": 30.6187,
     "lng": -96.3365,
-    "qsRank": 536,
+    "qsRank": 351,
     "scores": {
       "nightlife": 4,
       "beach": 2,
@@ -36124,7 +36124,7 @@
     "region": "wa",
     "lat": 38.6488,
     "lng": -90.3108,
-    "qsRank": 538,
+    "qsRank": 195,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -36221,7 +36221,7 @@
     "region": "us",
     "lat": 40.7649,
     "lng": -111.8421,
-    "qsRank": 540,
+    "qsRank": 601,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -36318,7 +36318,7 @@
     "region": "us",
     "lat": 33.4255,
     "lng": -111.94,
-    "qsRank": 541,
+    "qsRank": 290,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -36415,7 +36415,7 @@
     "region": "us",
     "lat": 33.6405,
     "lng": -117.8443,
-    "qsRank": 542,
+    "qsRank": 384,
     "scores": {
       "nightlife": 5,
       "beach": 6,
@@ -36512,7 +36512,7 @@
     "region": "us",
     "lat": 35.7847,
     "lng": -78.6821,
-    "qsRank": 543,
+    "qsRank": 467,
     "scores": {
       "nightlife": 6,
       "beach": 3,
@@ -36609,7 +36609,7 @@
     "region": "us",
     "lat": 34.1377,
     "lng": -118.1253,
-    "qsRank": 11,
+    "qsRank": 10,
     "scores": {
       "nightlife": 5,
       "beach": 6,
@@ -36706,7 +36706,7 @@
     "region": "us",
     "lat": 33.7756,
     "lng": -84.3963,
-    "qsRank": 546,
+    "qsRank": 97,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -36803,7 +36803,7 @@
     "region": "us",
     "lat": 41.6611,
     "lng": -91.5302,
-    "qsRank": 548,
+    "qsRank": 651,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -36900,7 +36900,7 @@
     "region": "br",
     "lat": 41.8268,
     "lng": -71.4025,
-    "qsRank": 549,
+    "qsRank": 224,
     "scores": {
       "nightlife": 6,
       "beach": 6,
@@ -37281,7 +37281,7 @@
     "region": "North America",
     "lat": 39.6767,
     "lng": -104.9614,
-    "qsRank": 556,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 7,
       "beach": 0,
@@ -37352,7 +37352,7 @@
     "region": "Europe",
     "lat": 51.1089,
     "lng": 17.0386,
-    "qsRank": 557,
+    "qsRank": 601,
     "scores": {
       "nightlife": 7,
       "beach": 0,
@@ -37423,7 +37423,7 @@
     "region": "us",
     "lat": 42.0267,
     "lng": -93.6465,
-    "qsRank": 558,
+    "qsRank": 751,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -37520,7 +37520,7 @@
     "region": "us",
     "lat": 34.414,
     "lng": -119.8489,
-    "qsRank": 559,
+    "qsRank": 167,
     "scores": {
       "nightlife": 7,
       "beach": 9,
@@ -37617,7 +37617,7 @@
     "region": "tu",
     "lat": 42.4079,
     "lng": -71.1192,
-    "qsRank": 560,
+    "qsRank": 369,
     "scores": {
       "nightlife": 5,
       "beach": 5,
@@ -37714,7 +37714,7 @@
     "region": "us",
     "lat": 38.0336,
     "lng": -84.5037,
-    "qsRank": 562,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -37811,7 +37811,7 @@
     "region": "un",
     "lat": 42.3868,
     "lng": -72.5301,
-    "qsRank": 563,
+    "qsRank": 481,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -37908,7 +37908,7 @@
     "region": "us",
     "lat": 44.5638,
     "lng": -123.2794,
-    "qsRank": 564,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 2,
@@ -38005,7 +38005,7 @@
     "region": "us",
     "lat": 41.8709,
     "lng": -87.65,
-    "qsRank": 565,
+    "qsRank": 601,
     "scores": {
       "nightlife": 8,
       "beach": 6,
@@ -38102,7 +38102,7 @@
     "region": "us",
     "lat": 40.8202,
     "lng": -96.7005,
-    "qsRank": 566,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -38199,7 +38199,7 @@
     "region": "us",
     "lat": 40.5734,
     "lng": -105.0865,
-    "qsRank": 567,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -38296,7 +38296,7 @@
     "region": "us",
     "lat": 38.9517,
     "lng": -92.3341,
-    "qsRank": 568,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -38393,7 +38393,7 @@
     "region": "ca",
     "lat": 41.5042,
     "lng": -81.6088,
-    "qsRank": 569,
+    "qsRank": 319,
     "scores": {
       "nightlife": 6,
       "beach": 6,
@@ -38490,7 +38490,7 @@
     "region": "us",
     "lat": 35.9544,
     "lng": -83.9285,
-    "qsRank": 570,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 2,
@@ -38587,7 +38587,7 @@
     "region": "fl",
     "lat": 30.442,
     "lng": -84.2985,
-    "qsRank": 572,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 6,
@@ -38684,7 +38684,7 @@
     "region": "un",
     "lat": 41.8076,
     "lng": -72.2535,
-    "qsRank": 573,
+    "qsRank": 601,
     "scores": {
       "nightlife": 4,
       "beach": 4,
@@ -38781,7 +38781,7 @@
     "region": "us",
     "lat": 38.9543,
     "lng": -95.2558,
-    "qsRank": 574,
+    "qsRank": 751,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -38878,7 +38878,7 @@
     "region": "da",
     "lat": 43.7044,
     "lng": -72.2887,
-    "qsRank": 575,
+    "qsRank": 254,
     "scores": {
       "nightlife": 3,
       "beach": 1,
@@ -38975,7 +38975,7 @@
     "region": "un",
     "lat": 43.0023,
     "lng": -78.789,
-    "qsRank": 576,
+    "qsRank": 551,
     "scores": {
       "nightlife": 5,
       "beach": 6,
@@ -39072,7 +39072,7 @@
     "region": "us",
     "lat": 46.7298,
     "lng": -117.1817,
-    "qsRank": 577,
+    "qsRank": 751,
     "scores": {
       "nightlife": 3,
       "beach": 0,
@@ -39169,7 +39169,7 @@
     "region": "un",
     "lat": 28.0587,
     "lng": -82.4139,
-    "qsRank": 578,
+    "qsRank": 651,
     "scores": {
       "nightlife": 6,
       "beach": 7,
@@ -39266,7 +39266,7 @@
     "region": "un",
     "lat": 39.1329,
     "lng": -84.515,
-    "qsRank": 579,
+    "qsRank": 651,
     "scores": {
       "nightlife": 6,
       "beach": 2,
@@ -39363,7 +39363,7 @@
     "region": "lo",
     "lat": 30.4133,
     "lng": -91.18,
-    "qsRank": 580,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 3,
@@ -39460,7 +39460,7 @@
     "region": "te",
     "lat": 39.9812,
     "lng": -75.1554,
-    "qsRank": 581,
+    "qsRank": 801,
     "scores": {
       "nightlife": 7,
       "beach": 3,
@@ -39557,7 +39557,7 @@
     "region": "in",
     "lat": 39.1731,
     "lng": -86.5264,
-    "qsRank": 582,
+    "qsRank": 651,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -39654,7 +39654,7 @@
     "region": "un",
     "lat": 35.0844,
     "lng": -106.6199,
-    "qsRank": 583,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -39751,7 +39751,7 @@
     "region": "us",
     "lat": 36.9999,
     "lng": -122.0579,
-    "qsRank": 584,
+    "qsRank": 621,
     "scores": {
       "nightlife": 6,
       "beach": 8,
@@ -39848,7 +39848,7 @@
     "region": "us",
     "lat": 33.5022,
     "lng": -86.8087,
-    "qsRank": 585,
+    "qsRank": 801,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -39945,7 +39945,7 @@
     "region": "st",
     "lat": 40.9148,
     "lng": -73.122,
-    "qsRank": 586,
+    "qsRank": 434,
     "scores": {
       "nightlife": 4,
       "beach": 7,
@@ -40042,7 +40042,7 @@
     "region": "no",
     "lat": 42.3398,
     "lng": -71.0892,
-    "qsRank": 587,
+    "qsRank": 344,
     "scores": {
       "nightlife": 7,
       "beach": 5,
@@ -40139,7 +40139,7 @@
     "region": "us",
     "lat": 33.9963,
     "lng": -81.0276,
-    "qsRank": 588,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -40236,7 +40236,7 @@
     "region": "us",
     "lat": 33.9737,
     "lng": -117.3281,
-    "qsRank": 589,
+    "qsRank": 751,
     "scores": {
       "nightlife": 4,
       "beach": 4,
@@ -40333,7 +40333,7 @@
     "region": "un",
     "lat": 39.6784,
     "lng": -75.7514,
-    "qsRank": 590,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 3,
@@ -40430,7 +40430,7 @@
     "region": "us",
     "lat": 42.3574,
     "lng": -83.0693,
-    "qsRank": 591,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 5,
@@ -40527,7 +40527,7 @@
     "region": "us",
     "lat": 44.0451,
     "lng": -123.0712,
-    "qsRank": 592,
+    "qsRank": 701,
     "scores": {
       "nightlife": 6,
       "beach": 2,
@@ -40624,7 +40624,7 @@
     "region": "un",
     "lat": 29.7199,
     "lng": -95.3422,
-    "qsRank": 593,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 5,
@@ -40721,7 +40721,7 @@
     "region": "br",
     "lat": 40.2518,
     "lng": -111.6493,
-    "qsRank": 594,
+    "qsRank": 801,
     "scores": {
       "nightlife": 2,
       "beach": 0,
@@ -40818,7 +40818,7 @@
     "region": "un",
     "lat": 35.2058,
     "lng": -97.4453,
-    "qsRank": 596,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -40915,7 +40915,7 @@
     "region": "ge",
     "lat": 38.8316,
     "lng": -77.3072,
-    "qsRank": 597,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 2,
@@ -41012,7 +41012,7 @@
     "region": "in",
     "lat": 39.7767,
     "lng": -86.174,
-    "qsRank": 598,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -41389,7 +41389,7 @@
     "region": "North America",
     "lat": 41.9258,
     "lng": -87.6542,
-    "qsRank": 610,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 8,
       "beach": 6,
@@ -41808,7 +41808,7 @@
     "region": "na",
     "lat": 29.94,
     "lng": -90.1181,
-    "qsRank": 615,
+    "qsRank": 701,
     "scores": {
       "nightlife": 9,
       "beach": 6,
@@ -42230,7 +42230,7 @@
     "region": "na",
     "lat": 33.948,
     "lng": -83.3771,
-    "qsRank": 618,
+    "qsRank": 601,
     "scores": {
       "nightlife": 8,
       "beach": 3,
@@ -42337,7 +42337,7 @@
     "region": "na",
     "lat": 21.297,
     "lng": -157.817,
-    "qsRank": 619,
+    "qsRank": 651,
     "scores": {
       "nightlife": 6,
       "beach": 10,
@@ -42622,7 +42622,7 @@
     "region": "de",
     "lat": 51.561,
     "lng": 9.9354,
-    "qsRank": 621,
+    "qsRank": 551,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -42722,7 +42722,7 @@
     "region": "de",
     "lat": 49.5987,
     "lng": 11.0039,
-    "qsRank": 622,
+    "qsRank": 551,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -42822,7 +42822,7 @@
     "region": "de",
     "lat": 49.0135,
     "lng": 8.4169,
-    "qsRank": 623,
+    "qsRank": 119,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -42922,7 +42922,7 @@
     "region": "de",
     "lat": 51.9649,
     "lng": 7.6254,
-    "qsRank": 624,
+    "qsRank": 551,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -43022,7 +43022,7 @@
     "region": "de",
     "lat": 51.3388,
     "lng": 12.3799,
-    "qsRank": 626,
+    "qsRank": 651,
     "scores": {
       "nightlife": 7,
       "beach": 0,
@@ -43122,7 +43122,7 @@
     "region": "de",
     "lat": 49.9929,
     "lng": 8.2473,
-    "qsRank": 627,
+    "qsRank": 601,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -43222,7 +43222,7 @@
     "region": "de",
     "lat": 52.5121,
     "lng": 13.3267,
-    "qsRank": 628,
+    "qsRank": 154,
     "scores": {
       "nightlife": 9,
       "beach": 4,
@@ -43322,7 +43322,7 @@
     "region": "de",
     "lat": 49.7817,
     "lng": 9.9699,
-    "qsRank": 629,
+    "qsRank": 601,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -43422,7 +43422,7 @@
     "region": "de",
     "lat": 51.4452,
     "lng": 7.2617,
-    "qsRank": 630,
+    "qsRank": 551,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -43522,7 +43522,7 @@
     "region": "de",
     "lat": 54.3485,
     "lng": 10.1158,
-    "qsRank": 631,
+    "qsRank": 701,
     "scores": {
       "nightlife": 5,
       "beach": 6,
@@ -43622,7 +43622,7 @@
     "region": "de",
     "lat": 50.8035,
     "lng": 8.7634,
-    "qsRank": 632,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -43722,7 +43722,7 @@
     "region": "de",
     "lat": 50.928,
     "lng": 11.5897,
-    "qsRank": 633,
+    "qsRank": 701,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -43822,7 +43822,7 @@
     "region": "de",
     "lat": 49.254,
     "lng": 7.0411,
-    "qsRank": 634,
+    "qsRank": 701,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -43922,7 +43922,7 @@
     "region": "de",
     "lat": 52.3813,
     "lng": 9.7184,
-    "qsRank": 635,
+    "qsRank": 601,
     "scores": {
       "nightlife": 3,
       "beach": 1,
@@ -44022,7 +44022,7 @@
     "region": "de",
     "lat": 51.435,
     "lng": 6.7627,
-    "qsRank": 636,
+    "qsRank": 651,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -44122,7 +44122,7 @@
     "region": "de",
     "lat": 51.1882,
     "lng": 6.7939,
-    "qsRank": 637,
+    "qsRank": 651,
     "scores": {
       "nightlife": 7,
       "beach": 0,
@@ -44222,7 +44222,7 @@
     "region": "de",
     "lat": 51.483,
     "lng": 11.9706,
-    "qsRank": 638,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -44322,7 +44322,7 @@
     "region": "de",
     "lat": 52.0369,
     "lng": 8.4966,
-    "qsRank": 639,
+    "qsRank": 651,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -44422,7 +44422,7 @@
     "region": "de",
     "lat": 53.1061,
     "lng": 8.8563,
-    "qsRank": 640,
+    "qsRank": 701,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -44522,7 +44522,7 @@
     "region": "de",
     "lat": 49,
     "lng": 12.0975,
-    "qsRank": 641,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -44622,7 +44622,7 @@
     "region": "de",
     "lat": 48.4226,
     "lng": 9.9509,
-    "qsRank": 642,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -44722,7 +44722,7 @@
     "region": "de",
     "lat": 47.6953,
     "lng": 9.1869,
-    "qsRank": 643,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 3,
@@ -44822,7 +44822,7 @@
     "region": "gb",
     "lat": 51.5219,
     "lng": -0.131,
-    "qsRank": 644,
+    "qsRank": 801,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -44925,7 +44925,7 @@
     "region": "de",
     "lat": 54.0916,
     "lng": 12.0991,
-    "qsRank": 645,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 6,
@@ -45025,7 +45025,7 @@
     "region": "de",
     "lat": 51.4933,
     "lng": 7.4125,
-    "qsRank": 646,
+    "qsRank": 601,
     "scores": {
       "nightlife": 6,
       "beach": 0,
@@ -45125,7 +45125,7 @@
     "region": "de",
     "lat": 52.3988,
     "lng": 13.0662,
-    "qsRank": 647,
+    "qsRank": 701,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -45225,7 +45225,7 @@
     "region": "de",
     "lat": 52.2738,
     "lng": 10.5296,
-    "qsRank": 648,
+    "qsRank": 701,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -45325,7 +45325,7 @@
     "region": "de",
     "lat": 49.9289,
     "lng": 11.5843,
-    "qsRank": 649,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -45425,7 +45425,7 @@
     "region": "de",
     "lat": 49.4241,
     "lng": 7.7536,
-    "qsRank": 650,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -45628,7 +45628,7 @@
     "region": "de",
     "lat": 54.0936,
     "lng": 13.3869,
-    "qsRank": 655,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 6,
@@ -45728,7 +45728,7 @@
     "region": "de",
     "lat": 52.139,
     "lng": 11.64,
-    "qsRank": 656,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -45828,7 +45828,7 @@
     "region": "sw",
     "lat": 51.6214,
     "lng": -3.9254,
-    "qsRank": 657,
+    "qsRank": 601,
     "scores": {
       "nightlife": 6,
       "beach": 6,
@@ -45925,7 +45925,7 @@
     "region": "de",
     "lat": 48.7128,
     "lng": 9.2044,
-    "qsRank": 658,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -46025,7 +46025,7 @@
     "region": "gb",
     "lat": 51.5274,
     "lng": -0.102,
-    "qsRank": 659,
+    "qsRank": 451,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -46128,7 +46128,7 @@
     "region": "de",
     "lat": 53.842,
     "lng": 10.7048,
-    "qsRank": 660,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 6,
@@ -46228,7 +46228,7 @@
     "region": "ul",
     "lat": 54.597,
     "lng": -5.93,
-    "qsRank": 661,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 4,
@@ -46325,7 +46325,7 @@
     "region": "de",
     "lat": 51.3169,
     "lng": 9.4969,
-    "qsRank": 662,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -46425,7 +46425,7 @@
     "region": "gb",
     "lat": 51.4259,
     "lng": -0.5614,
-    "qsRank": 663,
+    "qsRank": 651,
     "scores": {
       "nightlife": 5,
       "beach": 2,
@@ -46528,7 +46528,7 @@
     "region": "de",
     "lat": 48.3705,
     "lng": 10.8978,
-    "qsRank": 664,
+    "qsRank": 751,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -46628,7 +46628,7 @@
     "region": "gb",
     "lat": 53.7707,
     "lng": -0.3654,
-    "qsRank": 665,
+    "qsRank": 751,
     "scores": {
       "nightlife": 6,
       "beach": 4,
@@ -46731,7 +46731,7 @@
     "region": "de",
     "lat": 51.2527,
     "lng": 7.1486,
-    "qsRank": 666,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -46831,7 +46831,7 @@
     "region": "ba",
     "lat": 53.2271,
     "lng": -4.1293,
-    "qsRank": 667,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 5,
@@ -46928,7 +46928,7 @@
     "region": "de",
     "lat": 50.8376,
     "lng": 12.9241,
-    "qsRank": 668,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -47028,7 +47028,7 @@
     "region": "de",
     "lat": 53.1435,
     "lng": 8.2146,
-    "qsRank": 669,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 2,
@@ -47128,7 +47128,7 @@
     "region": "gb",
     "lat": 50.3755,
     "lng": -4.1427,
-    "qsRank": 670,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 6,
@@ -47231,7 +47231,7 @@
     "region": "gb",
     "lat": 56.1462,
     "lng": -3.9185,
-    "qsRank": 671,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 4,
@@ -47334,7 +47334,7 @@
     "region": "de",
     "lat": 49.7603,
     "lng": 6.6981,
-    "qsRank": 672,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -47434,7 +47434,7 @@
     "region": "de",
     "lat": 51.7144,
     "lng": 8.7406,
-    "qsRank": 673,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -47534,7 +47534,7 @@
     "region": "gb",
     "lat": 50.7984,
     "lng": -1.0997,
-    "qsRank": 674,
+    "qsRank": 801,
     "scores": {
       "nightlife": 6,
       "beach": 5,
@@ -47637,7 +47637,7 @@
     "region": "ma",
     "lat": 53.468,
     "lng": -2.2374,
-    "qsRank": 675,
+    "qsRank": 801,
     "scores": {
       "nightlife": 8,
       "beach": 2,
@@ -47734,7 +47734,7 @@
     "region": "de",
     "lat": 50.9185,
     "lng": 8.0038,
-    "qsRank": 676,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 0,
@@ -47834,7 +47834,7 @@
     "region": "de",
     "lat": 52.2716,
     "lng": 8.0474,
-    "qsRank": 677,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -48044,7 +48044,7 @@
     "region": "no",
     "lat": 54.9769,
     "lng": -1.6082,
-    "qsRank": 679,
+    "qsRank": 651,
     "scores": {
       "nightlife": 8,
       "beach": 5,
@@ -48320,7 +48320,7 @@
     "region": "Europe",
     "lat": 51.5188,
     "lng": -0.1436,
-    "qsRank": 682,
+    "qsRank": 801,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -48391,7 +48391,7 @@
     "region": "de",
     "lat": 53.4631,
     "lng": 9.9697,
-    "qsRank": 683,
+    "qsRank": 551,
     "scores": {
       "nightlife": 8,
       "beach": 5,
@@ -48491,7 +48491,7 @@
     "region": "ke",
     "lat": 52.9977,
     "lng": -2.2764,
-    "qsRank": 684,
+    "qsRank": 801,
     "scores": {
       "nightlife": 3,
       "beach": 1,
@@ -48588,7 +48588,7 @@
     "region": "de",
     "lat": 49.8988,
     "lng": 10.9028,
-    "qsRank": 685,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -48688,7 +48688,7 @@
     "region": "de",
     "lat": 48.1536,
     "lng": 11.5537,
-    "qsRank": 686,
+    "qsRank": 801,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -48788,7 +48788,7 @@
     "region": "gb",
     "lat": 53.4875,
     "lng": -2.2901,
-    "qsRank": 687,
+    "qsRank": 801,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -48891,7 +48891,7 @@
     "region": "as",
     "lat": 52.4862,
     "lng": -1.8904,
-    "qsRank": 688,
+    "qsRank": 601,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -48988,7 +48988,7 @@
     "region": "no",
     "lat": 52.9541,
     "lng": -1.1513,
-    "qsRank": 689,
+    "qsRank": 801,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -49085,7 +49085,7 @@
     "region": "li",
     "lat": 53.4084,
     "lng": -2.9784,
-    "qsRank": 690,
+    "qsRank": 801,
     "scores": {
       "nightlife": 8,
       "beach": 4,
@@ -49182,7 +49182,7 @@
     "region": "un",
     "lat": 51.4994,
     "lng": -2.5489,
-    "qsRank": 691,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 8,
       "beach": 4,
@@ -49279,7 +49279,7 @@
     "region": "gb",
     "lat": 51.7584,
     "lng": -0.2404,
-    "qsRank": 692,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 1,
@@ -49382,7 +49382,7 @@
     "region": "ab",
     "lat": 52.4165,
     "lng": -4.066,
-    "qsRank": 693,
+    "qsRank": 801,
     "scores": {
       "nightlife": 4,
       "beach": 6,
@@ -49479,7 +49479,7 @@
     "region": "co",
     "lat": 52.4068,
     "lng": -1.5101,
-    "qsRank": 694,
+    "qsRank": 751,
     "scores": {
       "nightlife": 6,
       "beach": 1,
@@ -49576,7 +49576,7 @@
     "region": "gb",
     "lat": 51.4741,
     "lng": -0.036,
-    "qsRank": 695,
+    "qsRank": 801,
     "scores": {
       "nightlife": 9,
       "beach": 1,
@@ -49679,7 +49679,7 @@
     "region": "sh",
     "lat": 53.3783,
     "lng": -1.4671,
-    "qsRank": 696,
+    "qsRank": 801,
     "scores": {
       "nightlife": 7,
       "beach": 2,
@@ -49776,7 +49776,7 @@
     "region": "gb",
     "lat": 53.7857,
     "lng": -1.753,
-    "qsRank": 697,
+    "qsRank": 801,
     "scores": {
       "nightlife": 5,
       "beach": 1,
@@ -49879,7 +49879,7 @@
     "region": "ox",
     "lat": 51.7519,
     "lng": -1.2578,
-    "qsRank": 698,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 5,
       "beach": 0,
@@ -49976,7 +49976,7 @@
     "region": "de",
     "lat": 52.6286,
     "lng": -1.1357,
-    "qsRank": 699,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 6,
       "beach": 2,
@@ -50073,7 +50073,7 @@
     "region": "gb",
     "lat": 51.4271,
     "lng": -0.1755,
-    "qsRank": 700,
+    "qsRank": 801,
     "scores": {
       "nightlife": 8,
       "beach": 1,
@@ -50176,7 +50176,7 @@
     "region": "gb",
     "lat": 50.8218,
     "lng": -0.137,
-    "qsRank": 701,
+    "qsRank": 1001,
     "scores": {
       "nightlife": 8,
       "beach": 7,
@@ -50902,7 +50902,7 @@
     "region": "na",
     "lat": 45.3875,
     "lng": -75.696,
-    "qsRank": 805,
+    "qsRank": 601,
     "scores": {
       "nightlife": 6,
       "beach": 2,
