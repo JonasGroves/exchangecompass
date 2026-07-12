@@ -4766,19 +4766,19 @@
       "Study in London"
     ],
     "overview": "The London School of Economics and Political Science, commonly known as the London School of Economics (LSE), is a public research university in London, England, and a member institution of the University of London. The school specialises in pure and applied social sciences.",
-    "cityDesc": "London offers a very affordable exchange experience in London.",
+    "cityDesc": "London is one of the world's great cities – an unparalleled global hub of finance, culture, politics, and diversity. LSE sits in central London, steps from the Thames, the Inns of Court, and Covent Garden. The city has extraordinary museums, restaurants, nightlife, and career opportunities, but costs are among the highest in the world for students.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "World-class career networking – LSE in central London is unbeatable for internships"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Very high cost of living – one of the most expensive student cities globally"
       },
       {
-        "label": "Unique cultural experience studying in London",
-        "type": "neu"
+        "type": "neu",
+        "label": "Intense academic culture with a politically engaged, globally diverse student body"
       }
     ],
     "vibes": [
@@ -7498,19 +7498,19 @@
       "International Exchange"
     ],
     "overview": "The University of Durham, which operates under the trading name of Durham University, is a collegiate public research university in Durham, England, founded by an Act of Parliament in 1832 and incorporated by royal charter in 1837. It was the first recognised university to open in England for more than 600 years, after Oxford and Cambridge, and is thus identified by historians as the third-oldest university in England.",
-    "cityDesc": "Durham offers a very affordable exchange experience in Durham.",
+    "cityDesc": "Durham is a small, strikingly beautiful cathedral city in northeast England, built around a dramatic peninsula carved by the River Wear. The Norman cathedral and castle (both UNESCO World Heritage Sites) dominate the skyline. It's intimate, safe, and very scenic, though limited in size – Newcastle is 20 minutes by train for city life.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "One of the UK's most beautiful small cities – cathedral, castle, river views"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Very small – Newcastle needed for real nightlife and urban amenities"
       },
       {
-        "label": "Unique cultural experience studying in Durham",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong collegiate system gives it a Cambridge-like community feel"
       }
     ],
     "vibes": [
@@ -21579,26 +21579,26 @@
       "some": 80,
       "lots": 190
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Heriot-Watt Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "Scotland",
+      "Edinburgh"
     ],
     "overview": "Heriot-Watt University (Scottish Gaelic: Oilthigh Heriot-Watt) is a public research university based in Edinburgh, Scotland. It was established in 1821 as the School of Arts of Edinburgh, the world's first mechanics' institute, and was subsequently granted university status by royal charter in 1966.",
-    "cityDesc": "Edinburgh offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Edinburgh is one of Europe's most beautiful and historic cities, with a dramatic medieval Old Town, Georgian New Town, and the iconic castle perched on volcanic rock. The city has a world-class festival scene (Fringe, Hogmanay), excellent whisky bars, and easy access to Scottish Highlands and coast. Heriot-Watt's main campus is set in leafy parkland on the western edge of the city.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "One of Europe's most beautiful cities – castle, Old Town, Fringe Festival"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Rainy and cold – typical Scottish weather year-round"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Campus is on the city outskirts – bus or car needed to reach the centre"
       }
     ],
     "vibes": [
@@ -26750,24 +26750,24 @@
     },
     "costSource": "Brunel accommodation office 2024; Numbeo Uxbridge 2024",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "London"
     ],
     "overview": "Brunel University of London (BUL) is a public research university located in the Uxbridge area of London, England. It is named after Isambard Kingdom Brunel, a Victorian engineer and pioneer of the Industrial Revolution.",
-    "cityDesc": "Uxbridge is a town in West London with easy Tube access to central London via the Piccadilly and Metropolitan lines. It has a lively student community centred around Brunel, with affordable local shops and restaurants.",
+    "cityDesc": "Brunel is in Uxbridge, in west London – accessible by the Elizabeth and Piccadilly underground lines, putting central London about 40 minutes away. The campus is self-contained with good facilities. Students get the benefit of London proximity without the central London cost premium.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "London access on the Underground – 40 min to central London"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Uxbridge itself is quiet suburban – all city life requires the Tube"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Diverse, international student body reflecting west London's character"
       }
     ],
     "vibes": [
@@ -34254,26 +34254,26 @@
       "some": 80,
       "lots": 200
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Cornell University Student Budget 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Ivy League",
+      "Research University"
     ],
     "overview": "Cornell University is a private Ivy League research university based in Ithaca, New York, United States. The university was co-founded by American philanthropist Ezra Cornell and historian and educator Andrew Dickson White in 1865.",
-    "cityDesc": "Ithaca offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Ithaca is a small college town in the Finger Lakes region of upstate New York, known for its stunning gorges, waterfalls, and outdoor recreation. The town revolves around Cornell and Ithaca College, giving it a vibrant student culture. Winters are very cold and snowy, but fall foliage and spring wildflowers make up for it.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Stunning natural scenery – gorges, waterfalls, Finger Lakes"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Cold winters – heavy snow and very low temperatures"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Classic Ivy League experience in a small college town"
       }
     ],
     "vibes": [
@@ -34839,26 +34839,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Penn State Office of Student Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Big Ten",
+      "Research University"
     ],
     "overview": "The Pennsylvania State University (Penn State or PSU) is a public state-related land-grant research university with campuses and facilities throughout Pennsylvania, United States. Founded in 1855 as the Farmers' High School of Pennsylvania, Penn State was named the state's first land-grant university eight years later.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "State College is a quintessential American college town in central Pennsylvania, built almost entirely around Penn State. Downtown is lively with bars, restaurants, and student culture. Surrounded by rolling Appalachian hills, it offers hiking and outdoor activities, though you'll need a car to explore beyond campus.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "True college town experience – everything centres around the university"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Isolated location – need a car to get anywhere beyond campus"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Big Ten sports culture – football Saturdays are an experience"
       }
     ],
     "vibes": [
@@ -35272,26 +35272,26 @@
       "some": 90,
       "lots": 220
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Rutgers University Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Near NYC"
     ],
     "overview": "Rutgers University–New Brunswick is the largest campus of Rutgers University, a public land-grant research university consisting of three major campuses in New Jersey. It is located primarily in New Brunswick and Piscataway.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "New Brunswick is a mid-sized New Jersey city 45 minutes from NYC by train, with a diverse population and growing restaurant scene. Rutgers gives the city a lively student energy, and easy access to New York City is a major draw for exchange students.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Easy NYC access – 45 min by train"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Spread-out campus across multiple towns – buses needed"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Diverse, multicultural student body and city"
       }
     ],
     "vibes": [
@@ -35369,26 +35369,26 @@
       "some": 90,
       "lots": 220
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UMD Office of Student Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Big Ten",
+      "Near Washington D.C."
     ],
     "overview": "The University of Maryland, College Park (University of Maryland, UMD, or simply Maryland) is a public land-grant research university in College Park, Maryland, United States, near Washington, D. C.",
-    "cityDesc": "Maryland offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "College Park sits just 15 minutes from Washington D.C. by metro, making it one of the most strategically located campuses in the US. Students have easy access to Smithsonian museums, government internships, and the capital's cultural scene, while campus itself is large and lively.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "D.C. access by metro – museums, politics, internships"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "College Park itself is a quiet suburb – city life requires commuting"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Big Ten sports atmosphere, especially football and basketball"
       }
     ],
     "vibes": [
@@ -35961,26 +35961,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Texas A&M Student Financial Aid Office 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Texas"
     ],
     "overview": "Texas A&M University (Texas A&M, A&M, TA&M, or TAMU) is a public land-grant research university in College Station, Texas, United States. It was founded in 1876 and became the flagship institution of the Texas A&M University System in 1948.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "College Station is a classic Texas college town defined almost entirely by Texas A&M and its fierce Aggie traditions. The city is flat and car-dependent, but the campus is enormous and the community spirit is unlike anywhere else in the US. Houston is 90 minutes away for city escapes.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Unique Aggie traditions and intense school spirit"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Very car-dependent – limited without a vehicle"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Hot Texas climate with mild winters"
       }
     ],
     "vibes": [
@@ -36058,26 +36058,26 @@
       "some": 90,
       "lots": 220
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "CMU Student Financial Services 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Tech Hub"
     ],
     "overview": "Carnegie Mellon University (CMU) is a private research university in Pittsburgh, Pennsylvania, United States. The institution was established in 1900 by Andrew Carnegie as the Carnegie Technical Schools.",
-    "cityDesc": "Pittsburgh offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Pittsburgh is a former steel city that has reinvented itself as a hub for tech, robotics, and healthcare, with Carnegie Mellon and the University of Pittsburgh at its centre. The city has great food, affordable rent by US standards, and a surprisingly vibrant arts and music scene. Cold winters, but the rivers and hills give it real character.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Tech and startup scene – one of the US's best emerging tech cities"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Cold, grey winters – significant snowfall"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Affordable for a major US city with a growing food and arts scene"
       }
     ],
     "vibes": [
@@ -36155,26 +36155,26 @@
       "some": 80,
       "lots": 200
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "WashU Student Financial Services 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Midwest"
     ],
     "overview": "Washington University in St. Louis (WashU) is a private research university in St. Louis, Missouri.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "St. Louis is a major Midwest city on the banks of the Mississippi River, known for the Gateway Arch, a thriving arts and culture scene, and affordable cost of living. Forest Park – one of the US's largest urban parks – is right next to campus. The city is car-friendly and the food scene is underrated.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Affordable by US city standards with great arts and food scene"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Car-dependent city – limited public transport"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Midwestern friendliness and a surprisingly rich cultural scene"
       }
     ],
     "vibes": [
@@ -36931,26 +36931,26 @@
       "some": 90,
       "lots": 210
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Brown University Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Ivy League",
+      "New England"
     ],
     "overview": "Brown University is a private Ivy League research university in the College Hill neighborhood of Providence, Rhode Island, United States. The university is the seventh-oldest institution of higher education in the United States, founded in 1764 as the College in the English Colony of Rhode Island and Providence Plantations.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Providence is a creative, artsy New England city with one of the best food scenes in the US per capita. Home to Brown and RISD (the leading art school), it has a distinctly bohemian character. Boston is under an hour away by train, and the Rhode Island coastline is beautiful in summer.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Outstanding food scene – one of the best in New England"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Small city – limited nightlife compared to Boston or NYC"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong arts culture from RISD's influence on the city"
       }
     ],
     "vibes": [
@@ -37648,26 +37648,26 @@
       "some": 100,
       "lots": 250
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Tufts University Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Boston Area"
     ],
     "overview": "Tufts University is a private research university in Medford and Somerville, Massachusetts, United States, with additional facilities in Boston and Grafton, as well as Talloires, France. It was founded in 1852 as Tufts College by Christian universalists who sought to provide a nonsectarian institution of higher learning.",
-    "cityDesc": "Medford offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Medford and Somerville are lively inner suburbs immediately north of Boston, giving Tufts students easy access to one of the US's best college cities. The Red Line and bus connect campus to downtown Boston in under 30 minutes. The area is dense, walkable, and full of restaurants and cafés.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Boston at your doorstep – great city access"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "High cost of living in the Boston metro area"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Compact, walkable campus in a dense urban neighbourhood"
       }
     ],
     "vibes": [
@@ -37842,26 +37842,26 @@
       "some": 70,
       "lots": 170
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UMass Amherst Financial Aid Office 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "New England"
     ],
     "overview": "The University of Massachusetts Amherst (UMass Amherst) is a public land-grant research university in Amherst, Massachusetts, United States. It is the flagship campus of the University of Massachusetts system and was founded in 1863 as the Massachusetts Agricultural College.",
-    "cityDesc": "Amherst offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Amherst is a classic New England college town in western Massachusetts, part of the Five College Consortium with Amherst, Hampshire, Mount Holyoke, and Smith colleges nearby. The Pioneer Valley has stunning fall foliage and outdoor activities. Cold winters, but an intellectually vibrant student community.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Five College Consortium – access to classes and events at 5 universities"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Cold New England winters with significant snowfall"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Classic college town atmosphere with strong outdoor recreation"
       }
     ],
     "vibes": [
@@ -38424,26 +38424,26 @@
       "some": 80,
       "lots": 190
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Case Western Student Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Midwest"
     ],
     "overview": "Case Western Reserve University (CWRU) is a private research university in Cleveland, Ohio, United States. It was federated in 1967 by a merger between Western Reserve University, founded in 1826 by the Presbyterian Church, and the Case Institute of Technology, founded in 1880.",
-    "cityDesc": "Cleveland offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Cleveland is a Rust Belt city on Lake Erie that has undergone significant revitalisation, with a booming food and arts scene centred around the Ohio City and Tremont neighbourhoods. Case Western sits in University Circle, surrounded by world-class museums including the Cleveland Museum of Art. Winters are cold and snowy.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "University Circle – museums, orchestra, and arts all walkable"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Cold, snowy winters with lake-effect snow from Lake Erie"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Affordable for a US city with a surprisingly rich food and arts scene"
       }
     ],
     "vibes": [
@@ -38618,26 +38618,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "FSU Office of Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Florida"
     ],
     "overview": "Florida State University (FSU or Florida State) is a public research university in Tallahassee, Florida, United States. It is a senior member of the State University System of Florida and a preeminent university in the state.",
-    "cityDesc": "Tallahassee offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Tallahassee is Florida's state capital and a classic Southern college town dominated by FSU and FAMU. It's more laid-back than Miami or Orlando, with a warm climate, Gulf beaches 45 minutes away, and a strong bar and live music scene driven by the student population.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Warm Florida climate and Gulf beaches 45 min away"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Car-dependent city – hard to get around without a vehicle"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Classic Southern college town with strong school spirit and Greek life"
       }
     ],
     "vibes": [
@@ -38715,26 +38715,26 @@
       "some": 70,
       "lots": 170
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UConn Student Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "New England"
     ],
     "overview": "The University of Connecticut (UConn) is a public land-grant research university system with its main campus in Storrs, Connecticut, United States. It was founded in 1881 as the Storrs Agricultural School, named after two benefactors.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Storrs is a small rural college town in eastern Connecticut, quite isolated without a car. The campus is large and self-contained. Hartford is 30 minutes west and Boston is 1.5 hours away. The surrounding Connecticut countryside is beautiful, especially during fall foliage season.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Beautiful New England setting with great fall colours"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Isolated rural location – a car is essential"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Self-contained campus with everything you need on-site"
       }
     ],
     "vibes": [
@@ -38909,26 +38909,26 @@
       "some": 70,
       "lots": 170
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Dartmouth Financial Aid Office 2024–25",
     "tags": [
-      "Creative Arts Hub",
-      "Budget-Friendly Destination",
-      "Study in Unknown"
+      "Study in USA",
+      "Ivy League",
+      "New England"
     ],
     "overview": "Dartmouth College is a private Ivy League research university in Hanover, New Hampshire, United States. Established in 1769 by Eleazar Wheelock, Dartmouth is one of the nine colonial colleges chartered before the American Revolution.",
-    "cityDesc": "Hanover offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Hanover is a tiny, picturesque New England village in the Upper Valley of New Hampshire, almost entirely built around Dartmouth. It's one of the most isolated Ivy League campuses, but the natural beauty is extraordinary – ski mountains, forests, and the Connecticut River. Winters are very harsh.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Stunning New England scenery – skiing, hiking, river access"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Extremely isolated – a car is almost essential to explore beyond campus"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Tight-knit Ivy League community in a small village setting"
       }
     ],
     "vibes": [
@@ -39006,26 +39006,26 @@
       "some": 80,
       "lots": 180
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UB Office of Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "New York State"
     ],
     "overview": "The State University of New York at Buffalo (commonly referred to as the University at Buffalo (UB), UBuffalo, UBuff, or sometimes SUNY Buffalo) is a public research university in Buffalo and Amherst, New York, United States. The university was founded in 1846 as a private medical college and merged with the State University of New York system in 1962.",
-    "cityDesc": "Buffalo offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Buffalo is a mid-sized city in western New York on the US-Canada border, known for chicken wings, intense winters, and a gritty post-industrial character that's slowly gentrifying. Niagara Falls is just 30 minutes away. The city is affordable and has a passionate sports culture.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Very affordable by US standards – low rent and cost of living"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Extremely cold winters with heavy lake-effect snow"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Niagara Falls 30 min away – easy day trip to Canada"
       }
     ],
     "vibes": [
@@ -39200,26 +39200,26 @@
       "some": 80,
       "lots": 190
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "USF Financial Aid Office 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Florida"
     ],
     "overview": "The University of South Florida (USF) is a public research university with its main campus located in Tampa, Florida, United States, and other campuses in St. Petersburg and Sarasota.",
-    "cityDesc": "Tampa offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Tampa is a fast-growing Florida city with a thriving food scene, beautiful beaches nearby (Clearwater and St. Pete are 45 minutes away), and a warm sunny climate year-round. The Ybor City neighbourhood has great nightlife. USF's campus is large and suburban.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Warm sunny climate with Gulf beaches 45 min away"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Car-dependent city – suburban campus hard to navigate without a vehicle"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Fast-growing city with a booming food and culture scene"
       }
     ],
     "vibes": [
@@ -39297,26 +39297,26 @@
       "some": 80,
       "lots": 180
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UC Student Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Midwest"
     ],
     "overview": "The University of Cincinnati (UC or Cincinnati, informally Cincy) is a public research university in Cincinnati, Ohio, United States. It was founded in 1819 and had an enrollment of over 53,000 students in 2024, making it the second-largest university in Ohio.",
-    "cityDesc": "Cincinnati offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Cincinnati is a mid-sized Ohio city on the banks of the Ohio River with a surprisingly good food scene and vibrant arts district (Over-the-Rhine). It's affordable by US standards and has a strong beer and music culture. The university is embedded in the city, giving it an urban campus feel.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Affordable Midwest city with a strong food and arts scene"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Cold winters and limited public transport"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Urban campus in a walkable neighbourhood close to the city centre"
       }
     ],
     "vibes": [
@@ -39394,26 +39394,26 @@
       "some": 70,
       "lots": 150
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "LSU Office of Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Louisiana"
     ],
     "overview": "Louisiana State University and Agricultural and Mechanical College, commonly referred to as Louisiana State University (LSU), is an American public land-grant research university in Baton Rouge, Louisiana, United States. The university was founded in 1860 near Pineville, Louisiana, under the name Louisiana State Seminary of Learning & Military Academy.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Baton Rouge is Louisiana's state capital, a mid-sized Southern city on the Mississippi River with a rich Cajun and Creole cultural heritage. New Orleans is just 80 miles away. LSU dominates the city's culture, especially during football season. The food scene is excellent – Louisiana cooking is world-class.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "World-class Louisiana food – Cajun and Creole cuisine"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Hot and humid climate, with hurricane season June–November"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Intense Tiger football culture – game days transform the whole city"
       }
     ],
     "vibes": [
@@ -39491,26 +39491,26 @@
       "some": 27,
       "lots": 63
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Temple University Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Philadelphia"
     ],
     "overview": "Temple University (Temple or TU) is a public state-related research university in Philadelphia, Pennsylvania, United States. It was founded in 1884 by the Baptist minister Russell Conwell and his congregation at the Grace Baptist Church of Philadelphia, then called Baptist Temple.",
-    "cityDesc": "Philadelphia offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Philadelphia is one of the US's great cities – rich in history, with excellent food, vibrant neighbourhoods like Fishtown and South Philly, and easy Amtrak access to NYC and D.C. Temple's North Philly campus is in an urban neighbourhood; students quickly learn the city's gritty, proud character.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Great food scene – cheesesteaks, Italian Market, Reading Terminal"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "North Philly campus area has higher crime – stay aware of surroundings"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Easy Amtrak access to NYC (1hr) and D.C. (1.5hr)"
       }
     ],
     "vibes": [
@@ -39588,26 +39588,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "IU Student Financial Assistance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Big Ten",
+      "Midwest"
     ],
     "overview": "Indiana University Bloomington (IU Bloomington, Indiana University, IU, IUB, or Indiana) is a public research university in Bloomington, Indiana, United States. It is the flagship campus of Indiana University and is its largest campus, with over 48,000 students.",
-    "cityDesc": "Bloomington offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Bloomington is a quintessential Midwest college town in southern Indiana, known for its music scene, limestone hills, and passionate basketball culture. The campus is one of the most beautiful in the US. Indianapolis is 50 miles north. Affordable, friendly, and more cosmopolitan than its size suggests.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Beautiful campus and affordable Midwest living"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Isolated – need a car to explore beyond Bloomington"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong music and arts scene for a small college town"
       }
     ],
     "vibes": [
@@ -39685,26 +39685,26 @@
       "some": 60,
       "lots": 150
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UNM Financial Aid Office 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Southwest"
     ],
     "overview": "The University of New Mexico (UNM; Spanish: Universidad de Nuevo México) is a public research university in Albuquerque, New Mexico, United States. Founded in 1889 by the New Mexico Territorial Legislature, it is the state's second oldest university, a flagship university in the state, and the largest by enrollment, with 22,630 students in 2023.",
-    "cityDesc": "Albuquerque offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Albuquerque is New Mexico's largest city, set dramatically against the Sandia Mountains at 5,300 feet elevation. The city has a strong Native American and Hispanic cultural heritage, unique adobe architecture, and excellent green chile food. Santa Fe is an easy day trip, and skiing is 30 minutes away in winter.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Stunning desert landscape – mountains, red rocks, blue skies"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "High altitude (5,300ft) takes adjustment; city has elevated crime in some areas"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Rich Native American and Hispanic culture – unique US experience"
       }
     ],
     "vibes": [
@@ -39976,26 +39976,26 @@
       "some": 90,
       "lots": 210
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Stony Brook Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "New York"
     ],
     "overview": "The State University of New York at Stony Brook, commonly referred to as Stony Brook University (SBU), is a public research university in Stony Brook, New York, United States, on Long Island. Along with the University at Buffalo, it is one of the State University of New York system's two flagship institutions.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Stony Brook sits on Long Island's North Shore, 60 miles east of Manhattan in a suburban setting. The surrounding area has beautiful beaches (the Hamptons are further east), vineyards, and charming coastal towns. NYC is reachable by LIRR train. The campus itself is large but fairly self-contained.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Long Island beaches nearby and NYC accessible by train"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Suburban campus – car very helpful for exploring beyond the university"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong research university atmosphere with diverse student population"
       }
     ],
     "vibes": [
@@ -40073,26 +40073,26 @@
       "some": 110,
       "lots": 260
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Northeastern Financial Aid Office 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Boston"
     ],
     "overview": "Northeastern University (abbreviated as NU) is a private research university with its main campus in Boston, Massachusetts, United States. It was founded by the Boston Young Men's Christian Association in 1898 as an all-male institute before being incorporated as Northeastern College in 1916, gaining university status in 1922.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Boston is one of the best college cities in the world – a compact, walkable city packed with history, excellent food, and a student culture shaped by over 50 universities. Northeastern's campus is right in the heart of the city near Fenway Park. Expensive, but the access to culture, internships, and other students is unmatched.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Best college city in the US – over 50 universities in one metro"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "High cost of living – one of the most expensive US cities"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Central urban campus walkable to Fenway, Back Bay, and South End"
       }
     ],
     "vibes": [
@@ -40364,26 +40364,26 @@
       "some": 80,
       "lots": 190
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UD Financial Aid Office 2024–25",
     "tags": [
-      "Law & Governance",
-      "Budget-Friendly Destination",
-      "Study in Unknown"
+      "Study in USA",
+      "Research University",
+      "Mid-Atlantic"
     ],
     "overview": "The University of Delaware (UD, UDel, or Delaware) is a privately governed, state-assisted land-grant research university in Newark, Delaware, United States. UD offers 4 associate programs, 163 bachelor's programs, 136 master's programs, and 64 doctoral programs across its ten colleges and schools.",
-    "cityDesc": "Newark offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Newark (pronounced NEW-ark) is a small Delaware college town that essentially exists around the University of Delaware. Philadelphia is 45 minutes north and D.C. is 2 hours south – both easily reached by Amtrak. The town is compact and walkable with a lively Main Street restaurant and bar scene.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Between Philly and D.C. – great for weekend trips"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Small college town – limited options without leaving for nearby cities"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Lively Main Street with good bars and restaurants"
       }
     ],
     "vibes": [
@@ -40655,26 +40655,26 @@
       "some": 27,
       "lots": 63
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UH Scholarships and Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Texas"
     ],
     "overview": "The University of Houston is a public research university in Houston, Texas, United States. It was established in 1927 as Houston Junior College, a coeducational institution and one of multiple junior colleges formed in the first decades of the 20th century.",
-    "cityDesc": "Houston offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Houston is the fourth-largest US city, a sprawling energy capital with a surprisingly diverse and excellent food scene reflecting its incredibly international population. Summers are brutally hot and humid. The city is very car-dependent, but the Museum District, Montrose, and Midtown neighbourhoods are vibrant.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "One of the most diverse cities in the US – incredible food variety"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Extreme summer heat and humidity – and a car is essential"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Flat, sprawling car city but with pockets of real urban energy"
       }
     ],
     "vibes": [
@@ -40752,26 +40752,26 @@
       "some": 40,
       "lots": 90
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "BYU Financial Aid Office 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "LDS University",
+      "Utah"
     ],
     "overview": "Brigham Young University (BYU) is a private research university in Provo, Utah, United States. It was founded in 1875 by religious leader Brigham Young and is the flagship university of the Church Educational System (CES) of the Church of Jesus Christ of Latter-day Saints (LDS Church).",
-    "cityDesc": "Provo offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Provo is a mid-sized Utah city at the foot of the Wasatch Mountains, about 45 minutes south of Salt Lake City. The natural scenery is spectacular – skiing, hiking, and national parks are all within easy reach. BYU is a religious university with a strict honour code; alcohol is not permitted on campus.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Spectacular mountain scenery – world-class skiing and hiking nearby"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Strict LDS honour code – no alcohol, coffee, or tobacco on campus"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Very safe, family-oriented community with low cost of living"
       }
     ],
     "vibes": [
@@ -40849,26 +40849,26 @@
       "some": 60,
       "lots": 140
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "OU Financial Aid Services 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Oklahoma"
     ],
     "overview": "The University of Oklahoma (OU) is a public research university in Norman, Oklahoma, United States. Founded in 1890, it had existed in Oklahoma Territory near Indian Territory for 17 years before the two territories became the state of Oklahoma.",
-    "cityDesc": "Norman offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Norman is a mid-sized Oklahoma college town 20 minutes south of Oklahoma City. The area is very car-dependent and flat, but the university campus is attractive and the community has a strong sense of school pride. OKC has been undergoing urban renewal and is worth exploring. Winters are mild; summers are very hot.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Affordable cost of living – one of the cheapest US university towns"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Very car-dependent with limited public transport"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong Sooner football culture and community identity"
       }
     ],
     "vibes": [
@@ -40946,26 +40946,26 @@
       "some": 90,
       "lots": 220
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "GMU Office of Student Financial Aid 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Near Washington D.C."
     ],
     "overview": "George Mason University (GMU) is a public research university in Fairfax County, Virginia, United States. Located in Northern Virginia near Washington, D.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Fairfax is a Northern Virginia suburb 20 miles outside Washington D.C., in one of the most politically and economically significant metro areas in the US. The Metro Silver Line connects campus to D.C. in about 30 minutes, giving students access to the capital's museums, internships, and political scene.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "D.C. access by Metro – ideal for government and policy internships"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Suburban campus – high cost of living in the D.C. metro area"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Highly diverse student body reflecting the international character of Northern Virginia"
       }
     ],
     "vibes": [
@@ -41043,26 +41043,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "IUPUI Student Financial Services 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in USA",
+      "Research University",
+      "Indiana"
     ],
     "overview": "Indiana University Indianapolis (IU Indianapolis or IU Indy) is an urban public research university in Indianapolis, Indiana, United States, and is a core campus of the Indiana University system. It was founded on July 1, 2024, after its predecessor institution, Indiana University–Purdue University Indianapolis (IUPUI), split into IU Indianapolis and Purdue University in Indianapolis.",
-    "cityDesc": "Indianapolis offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Indianapolis is Indiana's capital and largest city, known for motorsport (Indianapolis 500), a growing food scene, and affordable Midwest living. The city has invested heavily in its downtown core. IUPUI sits in the heart of the city, giving students direct access to urban amenities, sports venues, and a growing tech sector.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "True urban campus – downtown Indianapolis at your doorstep"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Car-dependent city with limited public transport"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Affordable Midwest city with a growing food and sports culture"
       }
     ],
     "vibes": [
@@ -45859,26 +45859,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Swansea University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "Wales",
+      "Coastal"
     ],
     "overview": "Swansea University (Welsh: Prifysgol Abertawe) is a public research university located in Swansea, Wales. It was established as University College of Swansea in 1920, as the fourth college of the University of Wales.",
-    "cityDesc": "Swansea offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Swansea is a coastal Welsh city on the edge of the stunning Gower Peninsula – one of the UK's most beautiful stretches of coastline. The city has a friendly, relaxed character and is one of the more affordable UK university cities. Dylan Thomas was born here, and there's a growing arts scene.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Gower Peninsula beaches – some of the UK's best coastline on your doorstep"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Welsh language on signage – though everyone speaks English"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Affordable and laid-back coastal city with friendly locals"
       }
     ],
     "vibes": [
@@ -46259,26 +46259,26 @@
       "some": 70,
       "lots": 160
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Ulster University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "Northern Ireland",
+      "Belfast"
     ],
     "overview": "Ulster University (Irish: Ollscoil Uladh; Ulster Scots: Ulstèr Universitie or Ulstèr Varsitie), legally the University of Ulster, is a multi-campus public research university located in Northern Ireland. It is often referred to informally and unofficially as Ulster, or by the abbreviation UU.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Belfast has been transformed from a city defined by conflict into one of the UK's most exciting and friendly destinations. The Titanic Quarter, Cathedral Quarter, and vibrant pub scene make it a compelling place to study. Northern Ireland's coastline (Giants Causeway, Causeway Coast) is spectacular and easy to reach.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Friendly locals and great pub culture – one of the UK's most welcoming cities"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Some areas retain divided community tensions – worth being aware"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Giants Causeway and dramatic Antrim coastline on your doorstep"
       }
     ],
     "vibes": [
@@ -46862,26 +46862,26 @@
       "some": 60,
       "lots": 140
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Bangor University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "Wales",
+      "Outdoors"
     ],
     "overview": "Bangor University (Welsh: Prifysgol Bangor) is a public research university in Bangor, Gwynedd, Wales. It was established in 1884 as the University College of North Wales (UCNW; Welsh: Coleg Prifysgol Gogledd Cymru), and received a Royal Charter in 1885.",
-    "cityDesc": "Bangor offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Bangor is a small Welsh city on the Menai Strait, with Snowdonia National Park virtually on its doorstep – making it one of the best universities in the UK for outdoor activities like hiking, climbing, and mountain biking. The city is very small but the natural surroundings are extraordinary.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Snowdonia on your doorstep – world-class hiking and climbing"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Very small city – limited nightlife and urban amenities"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Welsh-speaking community – a genuinely unique cultural experience"
       }
     ],
     "vibes": [
@@ -47668,26 +47668,26 @@
       "some": 85,
       "lots": 200
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "MMU Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Manchester"
     ],
     "overview": "Manchester Metropolitan University is a public university in Manchester, England. The university's predecessor, Manchester Polytechnic, gained university status in 1992.",
-    "cityDesc": "Manchester offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Manchester is one of the UK's best cities for students – vibrant, multicultural, with world-class music (birthplace of Oasis, The Smiths, Joy Division), football culture, and a thriving food and nightlife scene. MMU sits in the city centre alongside the University of Manchester, giving students access to one of the UK's biggest student populations.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "World-class music and nightlife – one of the UK's best student cities"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Rainy – Manchester is one of the wettest UK cities"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Football city – Old Trafford and Etihad both easily accessible"
       }
     ],
     "vibes": [
@@ -48075,26 +48075,26 @@
       "some": 75,
       "lots": 175
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Northumbria University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Newcastle"
     ],
     "overview": "The University of Northumbria at Newcastle, which operates as Northumbria University, is a public research university located in Newcastle upon Tyne, North East of England. It has been a university since 1992, but has its origins in the Rutherford College, founded in 1877.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Newcastle is a proud northern English city on the River Tyne, known for its legendary nightlife (the Bigg Market and Quayside), friendly Geordie locals, and the stunning Northumberland countryside nearby. It's one of the UK's most affordable major cities and has a huge, passionate student population.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Famous nightlife – Newcastle's Bigg Market is legendary"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Cold northern climate with frequent wind and rain"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Geordies are famously friendly – welcoming city for international students"
       }
     ],
     "vibes": [
@@ -48522,26 +48522,26 @@
       "some": 65,
       "lots": 150
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Keele University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Staffordshire"
     ],
     "overview": "Keele University is a public research university in Keele, Staffordshire, England. Originally established in 1949 as the University College of North Staffordshire, it received university status through a Royal Charter in 1962, becoming the University of Keele.",
-    "cityDesc": "Keele offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Keele University sits on its own self-contained campus estate in rural Staffordshire, between Manchester and Birmingham. It's one of the UK's largest campus universities in terms of land area. The campus has its own shops, pubs, and facilities, but the nearest cities require a car or bus.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Beautiful self-contained campus – woodland, lakes, and open grounds"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Rural location – a car is very helpful to reach nearby cities"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong community feel – small campus means you know everyone"
       }
     ],
     "vibes": [
@@ -48922,26 +48922,26 @@
       "some": 80,
       "lots": 190
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Aston University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Birmingham"
     ],
     "overview": "Aston University is a public university situated in the city centre of Birmingham, England. Aston began as the Birmingham Municipal Technical School in 1895, evolving into the UK's first college of advanced technology in 1956.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Birmingham is the UK's second-largest city, incredibly diverse and undergoing rapid regeneration. It hosted the 2022 Commonwealth Games and has a booming food scene (especially the Balti Triangle and Digbeth). Aston sits in the city centre near the Bullring and Jewellery Quarter.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Most diverse UK city outside London – incredible international food scene"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Some areas can feel run-down; traffic and congestion are major issues"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Central location – most of the city is walkable or accessible by metro"
       }
     ],
     "vibes": [
@@ -49019,26 +49019,26 @@
       "some": 80,
       "lots": 185
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "NTU Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Nottingham"
     ],
     "overview": "Nottingham Trent University (NTU) is a public research university located in Nottingham, England, which lies along the River Trent. Its origins date back to the establishment of the Nottingham Government School of Design in 1843, one of the earliest institutions of its kind in the United Kingdom.",
-    "cityDesc": "Nottingham offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Nottingham is a lively East Midlands city with the UK's highest ratio of students to residents. The city centre is packed with bars, restaurants, and live music venues. Robin Hood heritage adds character, and the surrounding countryside is accessible. More affordable than London or Manchester.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "One of the UK's most student-friendly cities – huge social scene"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "City centre can get rowdy – some areas worth being cautious at night"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Affordable for a UK city – good balance of value and social life"
       }
     ],
     "vibes": [
@@ -49116,26 +49116,26 @@
       "some": 80,
       "lots": 185
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "LJMU Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Liverpool"
     ],
     "overview": "Liverpool John Moores University (abbreviated LJMU) is a public research university in the city of Liverpool, United Kingdom. The university can trace its origins to the Liverpool Mechanics' School of Arts, established in 1823.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Liverpool is one of the UK's most culturally rich cities – birthplace of The Beatles, home to two Premier League clubs, a UNESCO World Heritage waterfront, and a ferociously proud local identity. It's one of the most affordable major UK cities and has a massive student population that shapes the city's character.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Incredible music heritage and nightlife – Mathew Street, Albert Dock"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Some areas outside the centre have higher crime rates"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Scousers are famously warm and funny – very welcoming to international students"
       }
     ],
     "vibes": [
@@ -49213,26 +49213,26 @@
       "some": 85,
       "lots": 200
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "UWE Bristol Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Bristol"
     ],
     "overview": "The University of the West of England (UWE), also known as UWE Bristol, is a public research university, located in and around Bristol, England, UK. With over 38,000 students and 4,500 staff, it is the largest provider of higher education in the South West of England.",
-    "cityDesc": "Unknown offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Bristol is one of the UK's most creative and liveable cities, with a thriving arts scene (street art, music, independent shops), excellent food, and the Clifton Gorge and Suspension Bridge as iconic landmarks. It's more expensive than northern cities but cheaper than London, and the culture punches well above its size.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Creative and independent city – music, art, and food all excellent"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Hilly city – be prepared for some serious gradients"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong sustainability culture – cycling and green living embraced here"
       }
     ],
     "vibes": [
@@ -49413,26 +49413,26 @@
       "some": 60,
       "lots": 140
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Aberystwyth University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "Wales",
+      "Coastal"
     ],
     "overview": "Aberystwyth University (Welsh: Prifysgol Aberystwyth) is a public research university in Aberystwyth, Wales. Aberystwyth was a founding member institution of the former federal University of Wales.",
-    "cityDesc": "Aberystwyth offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Aberystwyth is a small Welsh coastal town on Cardigan Bay – remote, beautiful, and entirely centred on the university. The seafront promenade, rugged Welsh countryside, and tight-knit community make it a unique and intimate student experience, but you will need to travel for big-city amenities.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Stunning coastal and countryside setting – remote but beautiful"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Very small and isolated – limited amenities and nightlife"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Strong Welsh identity and language culture"
       }
     ],
     "vibes": [
@@ -49510,26 +49510,26 @@
       "some": 80,
       "lots": 185
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Coventry University Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "West Midlands"
     ],
     "overview": "Coventry University is a public research university in Coventry, England. The origins of Coventry University can be linked to the Coventry School of Design in 1843.",
-    "cityDesc": "Coventry offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Coventry is a mid-sized West Midlands city that was heavily rebuilt after WWII bombing. It's home to a large and diverse student population, with Birmingham just 30 minutes away by train. The city has improved significantly in recent years with investment in its student quarter and cultural venues.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Affordable Midlands city with easy access to Birmingham"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "City centre lacks character compared to Birmingham or Bristol"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Very international student body – strong multicultural community"
       }
     ],
     "vibes": [
@@ -49710,26 +49710,26 @@
       "some": 75,
       "lots": 175
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Sheffield Hallam Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Sheffield"
     ],
     "overview": "Sheffield Hallam University (SHU) is a public research university in Sheffield, South Yorkshire, England. The university is based on two sites; the City Campus is located in the city centre near Sheffield railway station, while the Collegiate Crescent Campus is about two miles away in the Broomhall Estate off Ecclesall Road in south-west Sheffield.",
-    "cityDesc": "Sheffield offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Sheffield is a proud northern English city known for steel heritage, remarkable music history (Arctic Monkeys, Pulp, The Human League), and being one of the UK's greenest cities – one-third of its area is in the Peak District National Park. It's affordable, friendly, and arguably underrated among UK student cities.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Peak District on the doorstep – stunning hiking and outdoor access"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Hillier than most UK cities – pack comfortable shoes"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Unpretentious, friendly northern city with a great music legacy"
       }
     ],
     "vibes": [
@@ -49910,26 +49910,26 @@
       "some": 90,
       "lots": 215
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "Oxford Brookes Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Oxford"
     ],
     "overview": "Oxford Brookes University (OBU; formerly known as Oxford Polytechnic) is a public university in Oxford, England. It is a new university, having received university status through the Further and Higher Education Act 1992.",
-    "cityDesc": "Oxford offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Oxford is one of the most beautiful and historic cities in the world, with stunning medieval architecture, world-famous university culture, and a lively market town feel. Brookes students benefit from Oxford's extraordinary setting, museums, and punting on the Thames, while the city remains more affordable than London.",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Stunning medieval city – architecture, museums, and punting on the Thames"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Expensive for a non-London city; gets crowded with tourists in summer"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "Distinctive character from being a city with two universities side by side"
       }
     ],
     "vibes": [
@@ -50007,26 +50007,26 @@
       "some": 75,
       "lots": 175
     },
-    "costSource": "Estimated from national averages for Unknown 2025",
+    "costSource": "De Montfort Student Finance 2024–25",
     "tags": [
-      "Budget-Friendly Destination",
-      "Study in Unknown",
-      "International Exchange"
+      "Study in UK",
+      "England",
+      "Leicester"
     ],
     "overview": "De Montfort University Leicester (DMU) is a public university in Leicester, England. The university traces its origins to the Leicester School of Art, founded in 1870, and gained university status in 1992 under the Further and Higher Education Act.",
-    "cityDesc": "Leicester offers a very affordable exchange experience in Unknown.",
+    "cityDesc": "Leicester is a diverse Midlands city with a strong South Asian cultural heritage, making it one of the UK's most interesting food cities. It's affordable, compact, and easy to navigate. The city has a growing arts and music scene and is well-connected by train to London (1hr) and Birmingham (40min).",
     "perceptions": [
       {
-        "label": "Very affordable cost of living – budget stretches far",
-        "type": "pos"
+        "type": "pos",
+        "label": "Outstanding South Asian food scene – some of the best curry in the UK"
       },
       {
-        "label": "Language barrier – limited English outside campus",
-        "type": "cau"
+        "type": "cau",
+        "label": "Smaller city with less nightlife than Nottingham or Birmingham nearby"
       },
       {
-        "label": "Unique cultural experience studying in Unknown",
-        "type": "neu"
+        "type": "neu",
+        "label": "One of the UK's most ethnically diverse cities – genuinely multicultural"
       }
     ],
     "vibes": [
