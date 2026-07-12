@@ -1669,7 +1669,7 @@ function _featureRawValue(u, feature) {
     case 'english':    return u.englishProficiency;
     case 'transit':    return u.citySize === 'large' ? 10 : u.citySize === 'medium' ? 6 : 3;
     case 'lowcost':    return u.budgetTier === 'low' ? 10 : u.budgetTier === 'med' ? 5 : 1;
-    case 'academics':  return u.qsRank <= 20 ? 10 : u.qsRank <= 60 ? 8 : u.qsRank <= 150 ? 6 : u.qsRank <= 400 ? 4 : 2;
+    case 'academics':  { const r = u.qsRank ?? Infinity; return r <= 20 ? 10 : r <= 60 ? 8 : r <= 150 ? 6 : r <= 400 ? 4 : 2; }
     default:           return 5;
   }
 }
@@ -2179,7 +2179,7 @@ const WIKI_TITLES = {
   'unibuc-bucharest':       'University_of_Bucharest',
   'belgrade':               'University_of_Belgrade',
   'sofia-uni':              'Sofia_University',
-  'ulusan':                 'Vilnius_University',
+  'vu-vilnius':             'Vilnius_University',
   'vu-vilnius':             'Vytautas_Magnus_University',
   'ut-tartu':               'University_of_Tartu',
   'lu-riga':                'University_of_Latvia',
@@ -2845,7 +2845,7 @@ function filterCards(q) {
   if (matches.length >= 1) {
     result = applySort(matches.slice(0, 10).map(x => x.u));
   } else {
-    result = applySort(scored.slice(0, 5).map(x => x.u));
+    result = [];
   }
   renderCards(result);
 }
@@ -2858,7 +2858,7 @@ async function openModal(id) {
   if (!u) return;
   const mc = document.getElementById('modal-content');
   const low = (u.costs?.res_base ?? 0) + (u.costs?.food ?? 0) + (u.travelAdj?.low ?? 0) + (u.partyAdj?.none ?? 0);
-  const high = (u.costs?.shared_base ?? 0) + (u.costs?.food ?? 0) + (u.travelAdj?.med ?? 0) + (u.partyAdj?.some ?? 0);
+  const high = (u.costs?.solo_base ?? 0) + (u.costs?.food ?? 0) + (u.travelAdj?.med ?? 0) + (u.partyAdj?.some ?? 0);
 
   // Show a lightweight loading state immediately, then fill in once reviews load
   const websiteUrl = u.website || `https://www.google.com/search?q=${encodeURIComponent(u.name + ' official website')}`;
@@ -2996,7 +2996,7 @@ async function openModal(id) {
       <div class="modal-section-title" style="margin-top:12px;">Common perceptions</div>
       <div class="perception-list">${(u.perceptions || []).map(p=>`<span class="perception-tag ${p.type}">${p.label}</span>`).join('')}</div>
     </div>
-    ${unlockedContent}
+    ${unlocked ? unlockedContent : lockedContent}
     ${reviewsSection}
     ${(u.timeline && u.timeline.length) ? `
     <div class="modal-section-title" style="margin-top:28px;">Exchange timeline <span style="font-weight:400;font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:11px;color:var(--muted);margin-left:6px;">Based on official academic calendar</span></div>
@@ -3201,8 +3201,8 @@ async function renderStudentReviews() {
 
   container.innerHTML = sorted.map(({ id, reviews, avg }) => {
     const uni = unis.find(u => u.id === id);
-    const filled = Math.round(avg / 2);
-    const stars = '★'.repeat(filled) + '☆'.repeat(5 - filled);
+    const filled = Math.round(avg);
+    const stars = '★'.repeat(filled) + '☆'.repeat(10 - filled);
     const lockLine = unlocked
       ? `<div style="font-size:12px;color:var(--accent);margin-top:10px;border-top:1px solid var(--border);padding-top:10px;">Tap to read full reviews →</div>`
       : `<div style="font-size:12px;color:var(--muted);margin-top:10px;border-top:1px solid var(--border);padding-top:10px;">🔒 Submit your own review to read individual reviews</div>`;
@@ -3678,7 +3678,7 @@ function openComparePanel() {
           <tr><td>Shared apt/house</td>${numCell(us.map(u=>u.costs?.shared_base??0), fmt, false)}</tr>
           <tr><td>Food</td>${numCell(us.map(u=>u.costs?.food??0), fmt, false)}</tr>
           <tr><td>Est. total (low end)</td>${numCell(us.map(u=>(u.costs?.res_base??0)+(u.costs?.food??0)+(u.travelAdj?.low??0)+(u.partyAdj?.none??0)), fmt, false)}</tr>
-          <tr><td>Est. total (mid range)</td>${numCell(us.map(u=>(u.costs?.shared_base??0)+(u.costs?.food??0)+(u.travelAdj?.med??0)+(u.partyAdj?.some??0)), fmt, false)}</tr>
+          <tr><td>Est. total (high end)</td>${numCell(us.map(u=>(u.costs?.solo_base??0)+(u.costs?.food??0)+(u.travelAdj?.med??0)+(u.partyAdj?.some??0)), fmt, false)}</tr>
 
           <tr class="cmp-section-row"><td>Scores</td>${us.map(()=>'<td></td>').join('')}</tr>
           ${scoreRows.map(([label, vals]) => {
