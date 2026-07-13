@@ -3514,6 +3514,9 @@ fetch('./universities.json?v=' + Date.now())
     initGeolocation();
     saveFavourites();
     refreshReviewCount();
+    // Render cards immediately so the grid isn't blank while reviews load
+    filterCards(document.getElementById('search-input').value);
+    // Load review counts in the background, then re-render with counts
     loadAllCardCounts().then(() => {
       filterCards(document.getElementById('search-input').value);
       renderStudentReviews();
