@@ -3012,7 +3012,15 @@ async function openModal(id) {
       <div class="timeline-entry">
         <div class="timeline-month">${t.month}</div>
         <div style="flex:1">${t.events.map(e=>`<div class="timeline-event">· ${e}</div>`).join('')}</div>
-      </div>`).join('')}` : ''}`;
+      </div>`).join('')}` : ''}
+    <div style="margin-top:28px;background:linear-gradient(135deg,#f0eeff 0%,#e8f4ff 100%);border:1.5px solid #d4ccff;border-radius:14px;padding:18px 20px;">
+      <div style="font-size:13px;font-weight:700;color:#1a1a2e;margin-bottom:4px;">🛡️ Heading to ${u.country}? Get travel insurance.</div>
+      <div style="font-size:12px;color:#555;margin-bottom:14px;">SafetyWing covers medical emergencies, trip interruption, and more — designed for students and travellers abroad.</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://safetywing.com/nomad-insurance?referenceID=26569845&campaign=exchangecompass&utm_campaign=exchangecompass&utm_source=26569845&utm_medium=Ambassador" target="_blank" rel="noopener" style="background:#5b4fff;color:#fff;border-radius:8px;padding:8px 16px;font-size:12px;font-weight:700;text-decoration:none;display:inline-block;">Essential plan →</a>
+        <a href="https://safetywing.com/nomad-insurance?selectedPlan=NOMAD_INSURANCE_COMPLETE&referenceID=26569845&campaign=exchangecompass&utm_campaign=exchangecompass&utm_source=26569845&utm_medium=Ambassador" target="_blank" rel="noopener" style="background:#fff;color:#5b4fff;border:1.5px solid #5b4fff;border-radius:8px;padding:8px 16px;font-size:12px;font-weight:700;text-decoration:none;display:inline-block;">Complete plan →</a>
+      </div>
+    </div>`;
 }
 
 function escapeHtml(str) {
