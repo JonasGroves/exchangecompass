@@ -2868,14 +2868,11 @@ async function openModal(id) {
   const low = (u.costs?.res_base ?? 0) + (u.costs?.food ?? 0) + (u.travelAdj?.low ?? 0) + (u.partyAdj?.none ?? 0);
   const high = (u.costs?.solo_base ?? 0) + (u.costs?.food ?? 0) + (u.travelAdj?.med ?? 0) + (u.partyAdj?.some ?? 0);
 
-  // Show a lightweight loading state immediately, then fill in once reviews load
-  const websiteUrl = u.website || `https://www.google.com/search?q=${encodeURIComponent(u.name + ' official website')}`;
-  mc.innerHTML = `<div class="modal-header"><div><div class="modal-title">${u.name}</div><div class="modal-sub">${u.city}, ${u.country} · <a href="${websiteUrl}" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;font-size:13px;">🌐 Official website ↗</a></div></div>
-    <button class="modal-close" onclick="document.getElementById('uni-modal').classList.remove('open')">✕</button></div>
-    <div style="padding:40px 0;text-align:center;color:var(--muted);font-size:14px;">Loading reviews…</div>`;
   document.getElementById('uni-modal').classList.add('open');
+  const websiteUrl = u.website || `https://www.google.com/search?q=${encodeURIComponent(u.name + ' official website')}`;
 
-  const reviews = await getReviewsFor(u.id);
+  // Kick off reviews fetch but don't await yet — render profile first
+  const reviewsPromise = getReviewsFor(u.id);
 
   // Flight distance info if location known
   let flightInfo = '';
@@ -2916,51 +2913,7 @@ async function openModal(id) {
       <p class="source-note" style="margin-top:8px;">Source: ${u.costSource}</p>
     </div>`;
 
-  // Build reviews section
-  const reviewCards = reviews.slice().reverse().map(r => `
-    <div style="background:var(--bg);border-radius:14px;padding:18px 20px;margin-bottom:12px;">
-      <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;">
-        <span style="font-family:var(--mono);font-weight:600;color:var(--accent);">${r.rating}/10</span>
-        <span style="font-size:12px;color:var(--muted);">${r.year}${r.homeUni ? ' · from ' + escapeHtml(r.homeUni) : ''}</span>
-      </div>
-      ${r.text ? `<p style="font-size:14px;color:var(--ink2);line-height:1.6;margin-bottom:10px;">${escapeHtml(r.text)}</p>` : ''}
-      ${r.surprise ? `<p style="font-size:13px;color:var(--ink2);margin-bottom:6px;"><strong>Biggest surprise:</strong> ${escapeHtml(r.surprise)}</p>` : ''}
-      ${r.residence ? `<p style="font-size:13px;color:var(--ink2);margin-bottom:6px;"><strong>Best residence:</strong> ${escapeHtml(r.residence)}</p>` : ''}
-      ${(() => { const rc = r.rentAmt ?? r.rentUSD ?? null; const fc = r.foodAmt ?? r.foodUSD ?? null; if (!rc && !fc) return ''; const cur = (r.currency && FX[r.currency]) ? FX[r.currency] : FX['USD']; const code = r.currency || 'USD'; return `<p style="font-size:13px;color:var(--muted);">${rc ? `Rent: ${cur.symbol}${Math.round(rc).toLocaleString()}/mo ${code}` : ''}${rc && fc ? ' · ' : ''}${fc ? `Food: ${cur.symbol}${Math.round(fc).toLocaleString()}/mo ${code}` : ''}</p>`; })()}
-    </div>`).join('');
-
-  let reviewsSection;
-  if (reviews.length > 0) {
-    const avgRating = (reviews.reduce((s,r)=>s+r.rating,0) / reviews.length).toFixed(1);
-    const title = `<div class="modal-section-title" style="margin-top:28px;">Student reviews <span style="font-weight:400;font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted);margin-left:6px;">${reviews.length} review${reviews.length>1?'s':''} · avg ${avgRating}/10</span></div>`;
-    if (unlocked) {
-      reviewsSection = `${title}${reviewCards}
-        <div style="text-align:center;margin-top:16px;">
-          <button class="btn-secondary" onclick="document.getElementById('uni-modal').classList.remove('open');openSubmitModal('${u.id}')">Add your own review →</button>
-        </div>`;
-    } else {
-      reviewsSection = `${title}
-        <div class="locked-section">
-          <div class="locked-blur">${reviewCards}</div>
-          <div class="lock-overlay">
-            <div class="lock-icon">🔒</div>
-            <div class="lock-title">Read what students say</div>
-            <div class="lock-desc">Submit a review of any university to unlock student reviews across all profiles.</div>
-            <button class="btn-primary" onclick="document.getElementById('uni-modal').classList.remove('open');openSubmitModal('${u.id}')">Write a review to unlock →</button>
-          </div>
-        </div>`;
-    }
-  } else {
-    reviewsSection = `
-      <div class="modal-section-title" style="margin-top:28px;">Student reviews</div>
-      <div class="first-review-box">
-        <div class="fr-emoji">✍️</div>
-        <div class="fr-title">No reviews yet — yours would be the first</div>
-        <div class="fr-desc">Every student who reads this page will see your review. You'll be the one who makes this useful for the next person going to ${u.name.split(' ').slice(-2).join(' ')}.</div>
-        <button class="btn-primary" onclick="document.getElementById('uni-modal').classList.remove('open');openSubmitModal('${u.id}')">Be the first to review →</button>
-      </div>`;
-  }
-
+  // Render profile immediately — reviews load into placeholder after
   mc.innerHTML = `
     <div class="modal-header">
       <div>
@@ -3005,7 +2958,7 @@ async function openModal(id) {
       <div class="perception-list">${(u.perceptions || []).map(p=>`<span class="perception-tag ${p.type}">${p.label}</span>`).join('')}</div>
     </div>
     ${unlocked ? unlockedContent : lockedContent}
-    ${reviewsSection}
+    <div id="modal-reviews-slot"><div class="modal-section-title" style="margin-top:28px;">Student reviews</div><p style="color:var(--muted);font-size:13px;padding:8px 0;">Loading reviews…</p></div>
     ${(u.timeline && u.timeline.length) ? `
     <div class="modal-section-title" style="margin-top:28px;">Exchange timeline <span style="font-weight:400;font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:11px;color:var(--muted);margin-left:6px;">Based on official academic calendar</span></div>
     ${u.timeline.map(t=>`
@@ -3021,6 +2974,38 @@ async function openModal(id) {
         <a href="https://safetywing.com/nomad-insurance?selectedPlan=NOMAD_INSURANCE_COMPLETE&referenceID=26569845&campaign=exchangecompass&utm_campaign=exchangecompass&utm_source=26569845&utm_medium=Ambassador" target="_blank" rel="noopener" style="background:#fff;color:#5b4fff;border:1.5px solid #5b4fff;border-radius:8px;padding:8px 16px;font-size:12px;font-weight:700;text-decoration:none;display:inline-block;">Complete plan →</a>
       </div>
     </div>`;
+
+  // Now await reviews and patch into placeholder
+  const reviews = await reviewsPromise;
+  if (currentModalId !== id) return;
+  const slot = document.getElementById('modal-reviews-slot');
+  if (!slot) return;
+
+  const reviewCards = reviews.slice().reverse().map(r => `
+    <div style="background:var(--bg);border-radius:14px;padding:18px 20px;margin-bottom:12px;">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;">
+        <span style="font-family:var(--mono);font-weight:600;color:var(--accent);">${r.rating}/10</span>
+        <span style="font-size:12px;color:var(--muted);">${r.year}${r.homeUni ? ' · from ' + escapeHtml(r.homeUni) : ''}</span>
+      </div>
+      ${r.text ? `<p style="font-size:14px;color:var(--ink2);line-height:1.6;margin-bottom:10px;">${escapeHtml(r.text)}</p>` : ''}
+      ${r.surprise ? `<p style="font-size:13px;color:var(--ink2);margin-bottom:6px;"><strong>Biggest surprise:</strong> ${escapeHtml(r.surprise)}</p>` : ''}
+      ${r.residence ? `<p style="font-size:13px;color:var(--ink2);margin-bottom:6px;"><strong>Best residence:</strong> ${escapeHtml(r.residence)}</p>` : ''}
+      ${(() => { const rc = r.rentAmt ?? r.rentUSD ?? null; const fc = r.foodAmt ?? r.foodUSD ?? null; if (!rc && !fc) return ''; const cur = (r.currency && FX[r.currency]) ? FX[r.currency] : FX['USD']; const code = r.currency || 'USD'; return `<p style="font-size:13px;color:var(--muted);">${rc ? `Rent: ${cur.symbol}${Math.round(rc).toLocaleString()}/mo ${code}` : ''}${rc && fc ? ' · ' : ''}${fc ? `Food: ${cur.symbol}${Math.round(fc).toLocaleString()}/mo ${code}` : ''}</p>`; })()}
+    </div>`).join('');
+
+  let reviewsSection;
+  if (reviews.length > 0) {
+    const avgRating = (reviews.reduce((s,r)=>s+r.rating,0) / reviews.length).toFixed(1);
+    const title = `<div class="modal-section-title" style="margin-top:28px;">Student reviews <span style="font-weight:400;font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted);margin-left:6px;">${reviews.length} review${reviews.length>1?'s':''} · avg ${avgRating}/10</span></div>`;
+    if (unlocked) {
+      reviewsSection = `${title}${reviewCards}<div style="text-align:center;margin-top:16px;"><button class="btn-secondary" onclick="document.getElementById('uni-modal').classList.remove('open');openSubmitModal('${u.id}')">Add your own review →</button></div>`;
+    } else {
+      reviewsSection = `${title}<div class="locked-section"><div class="locked-blur">${reviewCards}</div><div class="lock-overlay"><div class="lock-icon">🔒</div><div class="lock-title">Read what students say</div><div class="lock-desc">Submit a review of any university to unlock student reviews across all profiles.</div><button class="btn-primary" onclick="document.getElementById('uni-modal').classList.remove('open');openSubmitModal('${u.id}')">Write a review to unlock →</button></div></div>`;
+    }
+  } else {
+    reviewsSection = `<div class="modal-section-title" style="margin-top:28px;">Student reviews</div><div class="first-review-box"><div class="fr-emoji">✍️</div><div class="fr-title">No reviews yet — yours would be the first</div><div class="fr-desc">Every student who reads this page will see your review.</div><button class="btn-primary" onclick="document.getElementById('uni-modal').classList.remove('open');openSubmitModal('${u.id}')">Be the first to review →</button></div>`;
+  }
+  slot.outerHTML = reviewsSection;
 }
 
 function escapeHtml(str) {
