@@ -2955,7 +2955,7 @@ async function openModal(id) {
       <p style="margin-bottom:6px;">🎓 Classes: ${u.engOnly ? 'English-taught programs available for exchange students' : 'Primarily taught in the local language — check program-specific availability'}</p>
       <p style="margin-bottom:0;">🗣️ Around town: ${englishCityLabel(u.englishProficiency)}</p>
       <div class="modal-section-title" style="margin-top:12px;">Common perceptions</div>
-      <div class="perception-list">${(u.perceptions || []).map(p=>`<span class="perception-tag ${p.type}">${p.label}</span>`).join('')}</div>
+      <div class="perception-list">${(Array.isArray(u.perceptions)?u.perceptions:[...(u.perceptions?.pros||[]).map(l=>({type:'pro',label:l})),...(u.perceptions?.cons||[]).map(l=>({type:'con',label:l}))]).map(p=>`<span class="perception-tag ${p.type}">${p.label}</span>`).join('')}</div>
     </div>
     ${unlocked ? unlockedContent : lockedContent}
     <div id="modal-reviews-slot"><div class="modal-section-title" style="margin-top:28px;">Student reviews</div><p style="color:var(--muted);font-size:13px;padding:8px 0;">Loading reviews…</p></div>
