@@ -434,6 +434,28 @@
   }
 </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1248483056214250" crossorigin="anonymous"></script>
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+    import { getFirestore, collection, addDoc, getDocs, query, where, orderBy, getCountFromServer } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+    const firebaseConfig = {
+      apiKey: "AIzaSyBJ7yA4Nhzil4ZC4urltgrcqWo02XKCXDM",
+      authDomain: "exchangecompass-28e4d.firebaseapp.com",
+      projectId: "exchangecompass-28e4d",
+      storageBucket: "exchangecompass-28e4d.firebasestorage.app",
+      messagingSenderId: "507197646938",
+      appId: "1:507197646938:web:512f919ca69ad79a9d9063"
+    };
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+    window._db = db;
+    window._fsCollection = collection;
+    window._fsAddDoc = addDoc;
+    window._fsGetDocs = getDocs;
+    window._fsQuery = query;
+    window._fsWhere = where;
+    window._fsOrderBy = orderBy;
+    window._fsGetCount = getCountFromServer;
+  </script>
 </head>
 <body>
 
@@ -1794,12 +1816,30 @@ let cardReviewCounts = {};
 let cardReviewAvgs = {}; // average rating per university, only set when reviews exist
 
 async function loadAllCardCounts() {
+  if (window._db) {
+    try {
+      const col = window._fsCollection(window._db, 'reviews');
+      const snap = await window._fsGetDocs(col);
+      const grouped = {};
+      snap.docs.forEach(d => {
+        const r = d.data();
+        if (!r.exchangeId) return;
+        if (!grouped[r.exchangeId]) grouped[r.exchangeId] = [];
+        grouped[r.exchangeId].push(r);
+      });
+      Object.entries(grouped).forEach(([id, reviews]) => {
+        cardReviewCounts[id] = reviews.length;
+        const rated = reviews.filter(r => r.rating > 0);
+        if (rated.length > 0) cardReviewAvgs[id] = rated.reduce((s, r) => s + r.rating, 0) / rated.length;
+      });
+      return;
+    } catch(e) { console.warn('Firestore loadAllCardCounts failed, using localStorage', e); }
+  }
+  // localStorage fallback
   const entries = await Promise.all(unis.map(async u => {
     const reviews = await getReviewsFor(u.id);
     const rated = reviews.filter(r => r.rating > 0);
-    if (rated.length > 0) {
-      cardReviewAvgs[u.id] = rated.reduce((s, r) => s + r.rating, 0) / rated.length;
-    }
+    if (rated.length > 0) cardReviewAvgs[u.id] = rated.reduce((s, r) => s + r.rating, 0) / rated.length;
     return [u.id, reviews.length];
   }));
   cardReviewCounts = Object.fromEntries(entries);
@@ -3145,18 +3185,32 @@ async function submitReview() {
   }
 }
 
-// ── PERSISTENT SHARED REVIEW STORAGE ──────────────────────────────
+// ── PERSISTENT SHARED REVIEW STORAGE (Firestore) ──────────────────
 async function saveReview(review) {
-  const key = 'rme-reviews:' + review.exchangeId;
-  let existing = [];
-  try { existing = JSON.parse(localStorage.getItem(key) || '[]'); } catch(e) {}
-  existing.push(review);
-  localStorage.setItem(key, JSON.stringify(existing));
+  if (window._db) {
+    const col = window._fsCollection(window._db, 'reviews');
+    await window._fsAddDoc(col, review);
+  } else {
+    // fallback: localStorage
+    const key = 'rme-reviews:' + review.exchangeId;
+    let existing = [];
+    try { existing = JSON.parse(localStorage.getItem(key) || '[]'); } catch(e) {}
+    existing.push(review);
+    localStorage.setItem(key, JSON.stringify(existing));
+  }
   const total = parseInt(localStorage.getItem('rme-review-total') || '0', 10) + 1;
   localStorage.setItem('rme-review-total', String(total));
 }
 
 async function getReviewsFor(universityId) {
+  if (window._db) {
+    try {
+      const col = window._fsCollection(window._db, 'reviews');
+      const q = window._fsQuery(col, window._fsWhere('exchangeId', '==', universityId), window._fsOrderBy('submittedAt', 'asc'));
+      const snap = await window._fsGetDocs(q);
+      return snap.docs.map(d => d.data());
+    } catch(e) { console.warn('Firestore read failed, falling back to localStorage', e); }
+  }
   try { return JSON.parse(localStorage.getItem('rme-reviews:' + universityId) || '[]'); } catch(e) {}
   return [];
 }
@@ -3176,15 +3230,29 @@ async function renderStudentReviews() {
   const container = document.getElementById('reviews-list');
   if (!container) return;
 
-  // Collect all reviews from localStorage
+  // Collect all reviews from Firestore (already loaded) or localStorage
   const uniReviews = {};
-  for (const key of Object.keys(localStorage)) {
-    if (!key.startsWith('rme-reviews:')) continue;
-    const uniId = key.slice('rme-reviews:'.length);
+  if (window._db) {
     try {
-      const arr = JSON.parse(localStorage.getItem(key) || '[]');
-      if (arr.length) uniReviews[uniId] = arr;
-    } catch(e) {}
+      const col = window._fsCollection(window._db, 'reviews');
+      const snap = await window._fsGetDocs(col);
+      snap.docs.forEach(d => {
+        const r = d.data();
+        if (!r.exchangeId) return;
+        if (!uniReviews[r.exchangeId]) uniReviews[r.exchangeId] = [];
+        uniReviews[r.exchangeId].push(r);
+      });
+    } catch(e) { console.warn('Firestore renderStudentReviews failed', e); }
+  }
+  if (Object.keys(uniReviews).length === 0) {
+    for (const key of Object.keys(localStorage)) {
+      if (!key.startsWith('rme-reviews:')) continue;
+      const uniId = key.slice('rme-reviews:'.length);
+      try {
+        const arr = JSON.parse(localStorage.getItem(key) || '[]');
+        if (arr.length) uniReviews[uniId] = arr;
+      } catch(e) {}
+    }
   }
 
   const uniIds = Object.keys(uniReviews);
