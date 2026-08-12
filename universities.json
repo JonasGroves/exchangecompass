@@ -10,7 +10,7 @@
     "qsRank": 1,
     "scores": {
       "nightlife": 6,
-      "beach": 5,
+      "beach": 2,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -238,7 +238,7 @@
     "qsRank": 4,
     "scores": {
       "nightlife": 4,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 8,
@@ -692,7 +692,7 @@
     "qsRank": 7,
     "scores": {
       "nightlife": 7,
-      "beach": 1,
+      "beach": 0,
       "nature": 8,
       "culture": 8,
       "safety": 10,
@@ -1571,7 +1571,7 @@
     "qsRank": 17,
     "scores": {
       "nightlife": 7,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -2005,7 +2005,7 @@
     "qsRank": 21,
     "scores": {
       "nightlife": 7,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -2113,7 +2113,7 @@
     "qsRank": 22,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 3,
       "nature": 4,
       "culture": 9,
       "safety": 5,
@@ -2232,7 +2232,7 @@
     "qsRank": 25,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -2354,7 +2354,7 @@
     "qsRank": 26,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 8,
       "culture": 7,
       "safety": 9,
@@ -2571,7 +2571,7 @@
     "qsRank": 29,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -2636,7 +2636,7 @@
       "safety",
       "travel"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -2680,7 +2680,7 @@
     "qsRank": 30,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 8,
       "safety": 8,
@@ -2995,7 +2995,7 @@
     "qsRank": 33,
     "scores": {
       "nightlife": 9,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -3668,7 +3668,7 @@
     "qsRank": 40,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 2,
       "nature": 4,
       "culture": 7,
       "safety": 7,
@@ -3733,7 +3733,7 @@
       "nightlife",
       "travel"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Sep",
@@ -3886,7 +3886,7 @@
     "qsRank": 41,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -4106,7 +4106,7 @@
     "qsRank": 46,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 10,
       "safety": 10,
@@ -4622,7 +4622,7 @@
     "qsRank": 48,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 2,
       "nature": 4,
       "culture": 7,
       "safety": 7,
@@ -4687,7 +4687,7 @@
       "nightlife",
       "travel"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Sep",
@@ -5269,7 +5269,7 @@
     "qsRank": 57,
     "scores": {
       "nightlife": 9,
-      "beach": 4,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 7,
@@ -5490,7 +5490,7 @@
     "qsRank": 59,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 8,
       "safety": 8,
@@ -5913,7 +5913,7 @@
     "qsRank": 64,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 4,
       "culture": 10,
       "safety": 7,
@@ -6247,7 +6247,7 @@
     "qsRank": 69,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -6356,7 +6356,7 @@
     "qsRank": 70,
     "scores": {
       "nightlife": 7,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 7,
       "safety": 8,
@@ -6457,7 +6457,7 @@
     "qsRank": 71,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 8,
       "safety": 10,
@@ -6522,7 +6522,7 @@
       "academics",
       "safety"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -6786,7 +6786,7 @@
     "qsRank": 74,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -7560,7 +7560,7 @@
     "qsRank": 105,
     "scores": {
       "nightlife": 7,
-      "beach": 4,
+      "beach": 2,
       "nature": 7,
       "culture": 6,
       "safety": 6,
@@ -8935,7 +8935,7 @@
     "qsRank": 137,
     "scores": {
       "nightlife": 5,
-      "beach": 5,
+      "beach": 2,
       "nature": 6,
       "culture": 5,
       "safety": 10,
@@ -9000,7 +9000,7 @@
       "culture",
       "english"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -9477,7 +9477,7 @@
     "qsRank": 115,
     "scores": {
       "nightlife": 7,
-      "beach": 1,
+      "beach": 0,
       "nature": 8,
       "culture": 8,
       "safety": 10,
@@ -9584,7 +9584,7 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Politecnicomilano-logo.svg",
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -10606,7 +10606,7 @@
     "qsRank": 214,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -10812,7 +10812,7 @@
     "qsRank": 117,
     "scores": {
       "nightlife": 10,
-      "beach": 4,
+      "beach": 1,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -11471,7 +11471,7 @@
     "qsRank": 122,
     "scores": {
       "nightlife": 10,
-      "beach": 4,
+      "beach": 1,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -11798,7 +11798,7 @@
     "qsRank": 155,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 4,
       "culture": 8,
       "safety": 8,
@@ -12129,7 +12129,7 @@
     "qsRank": 171,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 3,
       "nature": 4,
       "culture": 10,
       "safety": 7,
@@ -12333,7 +12333,7 @@
     "qsRank": 172,
     "scores": {
       "nightlife": 7,
-      "beach": 4,
+      "beach": 2,
       "nature": 7,
       "culture": 6,
       "safety": 6,
@@ -12538,7 +12538,7 @@
     "qsRank": 163,
     "scores": {
       "nightlife": 6,
-      "beach": 5,
+      "beach": 2,
       "nature": 3,
       "culture": 5,
       "safety": 5,
@@ -12848,7 +12848,7 @@
     "qsRank": 65,
     "scores": {
       "nightlife": 8,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 6,
       "safety": 6,
@@ -13415,7 +13415,7 @@
     "qsRank": 142,
     "scores": {
       "nightlife": 5,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 6,
       "safety": 10,
@@ -13480,7 +13480,7 @@
       "food",
       "travel"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -13523,7 +13523,7 @@
     "qsRank": 156,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 8,
       "culture": 8,
       "safety": 9,
@@ -13967,7 +13967,7 @@
     "qsRank": 147,
     "scores": {
       "nightlife": 9,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -14279,7 +14279,7 @@
     "qsRank": 162,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -14350,7 +14350,7 @@
     "qsRank": 164,
     "scores": {
       "nightlife": 10,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 9,
       "safety": 7,
@@ -14825,7 +14825,7 @@
     "qsRank": 157,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 4,
       "culture": 8,
       "safety": 8,
@@ -15425,7 +15425,7 @@
       "academics",
       "safety"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -16071,7 +16071,7 @@
     "qsRank": 197,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -16138,7 +16138,7 @@
       "nature",
       "travel"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -16526,7 +16526,7 @@
     "qsRank": 188,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -16591,7 +16591,7 @@
       "academics",
       "travel"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -16635,7 +16635,7 @@
     "qsRank": 603,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 6,
       "culture": 7,
       "safety": 8,
@@ -16833,7 +16833,7 @@
     "qsRank": 191,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 5,
       "culture": 7,
       "safety": 7,
@@ -16940,7 +16940,7 @@
     "qsRank": 192,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 2,
       "nature": 4,
       "culture": 7,
       "safety": 7,
@@ -16992,7 +16992,7 @@
       "architectural",
       "Shanghai energy"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Mar"
@@ -17222,7 +17222,7 @@
     "qsRank": 275,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 5,
       "safety": 6,
@@ -17328,7 +17328,7 @@
     "qsRank": 254,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 4,
       "culture": 7,
       "safety": 5,
@@ -17437,7 +17437,7 @@
     "qsRank": 199,
     "scores": {
       "nightlife": 10,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 9,
       "safety": 7,
@@ -17955,7 +17955,7 @@
     "qsRank": 171,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 6,
       "safety": 6,
@@ -18863,7 +18863,7 @@
     "qsRank": 221,
     "scores": {
       "nightlife": 9,
-      "beach": 4,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 7,
@@ -19280,7 +19280,7 @@
     "qsRank": 225,
     "scores": {
       "nightlife": 6,
-      "beach": 3,
+      "beach": 0,
       "nature": 8,
       "culture": 7,
       "safety": 9,
@@ -19780,7 +19780,7 @@
     "qsRank": 204,
     "scores": {
       "nightlife": 8,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 6,
@@ -20385,7 +20385,7 @@
     "qsRank": 266,
     "scores": {
       "nightlife": 6,
-      "beach": 3,
+      "beach": 0,
       "nature": 4,
       "culture": 7,
       "safety": 8,
@@ -20565,7 +20565,7 @@
     "qsRank": 312,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 7,
       "safety": 7,
@@ -21088,7 +21088,7 @@
     "qsRank": 184,
     "scores": {
       "nightlife": 8,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 6,
       "safety": 6,
@@ -21376,7 +21376,7 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bocconi_University_Logo.svg",
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -21648,7 +21648,7 @@
     "qsRank": 257,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -22238,7 +22238,7 @@
     "qsRank": 443,
     "scores": {
       "nightlife": 7,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 6,
       "safety": 3,
@@ -22417,7 +22417,7 @@
     "qsRank": 272,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 9,
       "safety": 7,
@@ -22946,7 +22946,7 @@
     "qsRank": 279,
     "scores": {
       "nightlife": 8,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 6,
@@ -23296,7 +23296,7 @@
     "qsRank": 286,
     "scores": {
       "nightlife": 10,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 9,
       "safety": 7,
@@ -23602,7 +23602,7 @@
     "qsRank": 288,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -24310,7 +24310,7 @@
     "qsRank": 243,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 6,
       "culture": 6,
       "safety": 8,
@@ -25236,7 +25236,7 @@
     "qsRank": 381,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 10,
       "culture": 7,
       "safety": 9,
@@ -26028,7 +26028,7 @@
     "qsRank": 329,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -26649,7 +26649,7 @@
     "qsRank": 339,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -26701,7 +26701,7 @@
       "Tokyo energy",
       "academic"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Apr"
@@ -27148,7 +27148,7 @@
     "qsRank": 294,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 4,
       "culture": 10,
       "safety": 7,
@@ -27329,7 +27329,7 @@
     "qsRank": 353,
     "scores": {
       "nightlife": 7,
-      "beach": 7,
+      "beach": 4,
       "nature": 5,
       "culture": 7,
       "safety": 7,
@@ -27437,7 +27437,7 @@
     "qsRank": 604,
     "scores": {
       "nightlife": 4,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 5,
       "safety": 4,
@@ -27982,7 +27982,7 @@
     "qsRank": 425,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -28053,7 +28053,7 @@
     "qsRank": 368,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 2,
       "nature": 4,
       "culture": 7,
       "safety": 7,
@@ -28105,7 +28105,7 @@
       "welcoming",
       "language-focused"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Mar"
@@ -28516,7 +28516,7 @@
     "qsRank": 375,
     "scores": {
       "nightlife": 6,
-      "beach": 4,
+      "beach": 0,
       "nature": 6,
       "culture": 10,
       "safety": 8,
@@ -28733,7 +28733,7 @@
     "qsRank": 377,
     "scores": {
       "nightlife": 5,
-      "beach": 5,
+      "beach": 3,
       "nature": 6,
       "culture": 7,
       "safety": 10,
@@ -28794,7 +28794,7 @@
       "safety",
       "academics"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": [
       {
         "month": "Apr",
@@ -29202,7 +29202,7 @@
     "qsRank": 383,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 4,
       "culture": 10,
       "safety": 7,
@@ -29302,7 +29302,7 @@
     "qsRank": 384,
     "scores": {
       "nightlife": 5,
-      "beach": 1,
+      "beach": 0,
       "nature": 9,
       "culture": 6,
       "safety": 9,
@@ -29481,7 +29481,7 @@
     "qsRank": 386,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 7,
       "safety": 7,
@@ -30074,7 +30074,7 @@
     "qsRank": 404,
     "scores": {
       "nightlife": 7,
-      "beach": 4,
+      "beach": 1,
       "nature": 5,
       "culture": 7,
       "safety": 7,
@@ -30569,7 +30569,7 @@
     "qsRank": 601,
     "scores": {
       "nightlife": 9,
-      "beach": 2,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -31088,7 +31088,7 @@
     "qsRank": 421,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -31140,7 +31140,7 @@
       "liberal arts",
       "peaceful campus"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Apr"
@@ -31622,7 +31622,7 @@
     "qsRank": 432,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -31810,7 +31810,7 @@
     "qsRank": 434,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 10,
       "safety": 10,
@@ -31878,7 +31878,7 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/IE_University_logo.svg",
     "scores": {
       "nightlife": 10,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 9,
       "safety": 7,
@@ -31957,7 +31957,7 @@
       "culture": 7,
       "safety": 6,
       "foodScene": 7,
-      "cityLife": 10
+      "cityLife": 5
     },
     "citySize": "large",
     "climate": "cold",
@@ -32157,7 +32157,7 @@
     "qsRank": 444,
     "scores": {
       "nightlife": 8,
-      "beach": 3,
+      "beach": 0,
       "nature": 5,
       "culture": 8,
       "safety": 7,
@@ -33119,7 +33119,7 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Loyolauniversitylogo.png",
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 3,
       "nature": 4,
       "culture": 9,
       "safety": 5,
@@ -33548,7 +33548,7 @@
     "qsRank": 513,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -33619,7 +33619,7 @@
     "qsRank": 514,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 10,
       "safety": 10,
@@ -33761,7 +33761,7 @@
     "qsRank": 516,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -33813,7 +33813,7 @@
       "liberal arts",
       "welcoming"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Apr"
@@ -33832,7 +33832,7 @@
     "qsRank": 518,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -34714,7 +34714,7 @@
     "qsRank": 171,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 6,
       "culture": 7,
       "safety": 6,
@@ -35076,7 +35076,7 @@
     "qsRank": 527,
     "scores": {
       "nightlife": 9,
-      "beach": 3,
+      "beach": 1,
       "nature": 5,
       "culture": 8,
       "safety": 8,
@@ -35739,7 +35739,7 @@
     "qsRank": 348,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 7,
       "safety": 6,
@@ -36030,7 +36030,7 @@
     "qsRank": 53,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 5,
       "culture": 7,
       "safety": 6,
@@ -36127,10 +36127,10 @@
     "qsRank": 195,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 7,
-      "safety": 7,
+      "safety": 4,
       "foodScene": 6,
       "cityLife": 6
     },
@@ -36709,7 +36709,7 @@
     "qsRank": 97,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 4,
       "culture": 6,
       "safety": 5,
@@ -37123,7 +37123,7 @@
       "Kansai culture",
       "social"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Apr"
@@ -37142,7 +37142,7 @@
     "qsRank": 554,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 4,
       "culture": 9,
       "safety": 10,
@@ -37194,7 +37194,7 @@
       "traditional",
       "vibrant"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Apr"
@@ -37265,7 +37265,7 @@
       "hot springs",
       "diverse"
     ],
-    "englishProficiency": 4,
+    "englishProficiency": 3,
     "timeline": {
       "autumn": "Sep",
       "spring": "Apr"
@@ -38008,7 +38008,7 @@
     "qsRank": 601,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 3,
       "nature": 4,
       "culture": 9,
       "safety": 5,
@@ -39269,7 +39269,7 @@
     "qsRank": 651,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 4,
       "culture": 6,
       "safety": 6,
@@ -40627,7 +40627,7 @@
     "qsRank": 801,
     "scores": {
       "nightlife": 6,
-      "beach": 5,
+      "beach": 2,
       "nature": 3,
       "culture": 5,
       "safety": 5,
@@ -41015,7 +41015,7 @@
     "qsRank": 801,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 4,
       "culture": 6,
       "safety": 6,
@@ -41392,7 +41392,7 @@
     "qsRank": 1001,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 3,
       "nature": 4,
       "culture": 9,
       "safety": 5,
@@ -41572,7 +41572,7 @@
     "qsRank": 612,
     "scores": {
       "nightlife": 8,
-      "beach": 6,
+      "beach": 3,
       "nature": 4,
       "culture": 10,
       "safety": 7,
@@ -43225,7 +43225,7 @@
     "qsRank": 154,
     "scores": {
       "nightlife": 9,
-      "beach": 4,
+      "beach": 1,
       "nature": 7,
       "culture": 8,
       "safety": 8,
@@ -48215,7 +48215,7 @@
     "qsRank": 681,
     "scores": {
       "nightlife": 6,
-      "beach": 1,
+      "beach": 0,
       "nature": 6,
       "culture": 7,
       "safety": 9,
@@ -48394,7 +48394,7 @@
     "qsRank": 551,
     "scores": {
       "nightlife": 8,
-      "beach": 5,
+      "beach": 2,
       "nature": 5,
       "culture": 7,
       "safety": 7,
@@ -48691,7 +48691,7 @@
     "qsRank": 801,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 8,
       "safety": 8,
@@ -50492,7 +50492,7 @@
     "qsRank": 705,
     "scores": {
       "nightlife": 7,
-      "beach": 2,
+      "beach": 0,
       "nature": 8,
       "culture": 7,
       "safety": 9,
@@ -50905,7 +50905,7 @@
     "qsRank": 601,
     "scores": {
       "nightlife": 6,
-      "beach": 2,
+      "beach": 0,
       "nature": 6,
       "culture": 7,
       "safety": 8,
@@ -51541,7 +51541,7 @@
     "qsRank": 811,
     "scores": {
       "nightlife": 8,
-      "beach": 2,
+      "beach": 0,
       "nature": 4,
       "culture": 6,
       "safety": 6,
@@ -52289,7 +52289,7 @@
     "qsRank": 818,
     "scores": {
       "nightlife": 7,
-      "beach": 4,
+      "beach": 1,
       "nature": 6,
       "culture": 7,
       "safety": 8,
@@ -53322,7 +53322,7 @@
     "qsRank": 1005,
     "scores": {
       "nightlife": 5,
-      "beach": 2,
+      "beach": 0,
       "nature": 7,
       "culture": 7,
       "safety": 5,
@@ -53424,7 +53424,7 @@
     "qsRank": 1006,
     "scores": {
       "nightlife": 7,
-      "beach": 3,
+      "beach": 0,
       "nature": 6,
       "culture": 6,
       "safety": 7,
