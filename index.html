@@ -596,6 +596,9 @@
     <div id="show-more-wrap" style="display:none;justify-content:center;padding:32px 0 8px;">
       <button onclick="showMoreCards()" style="background:var(--white);border:1.5px solid var(--border);border-radius:10px;padding:12px 28px;font-size:14px;font-weight:600;color:var(--ink2);cursor:pointer;transition:border-color 0.15s,color 0.15s;display:flex;align-items:center;gap:8px;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--ink2)'">Show all <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="flex-shrink:0;"><path d="M3 6l5 5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
     </div>
+    <div id="collapse-wrap" style="display:none;justify-content:center;padding:32px 0 8px;">
+      <button onclick="collapseCards()" style="background:var(--white);border:1.5px solid var(--border);border-radius:10px;padding:12px 28px;font-size:14px;font-weight:600;color:var(--ink2);cursor:pointer;transition:border-color 0.15s,color 0.15s;display:flex;align-items:center;gap:8px;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--ink2)'">Collapse <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="flex-shrink:0;"><path d="M3 10l5-5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    </div>
   </div>
 </section>
 </div>
@@ -2694,16 +2697,25 @@ function renderVisibleCards() {
   }).join('');
   fetchUniPhotos(visible);
   const wrap = document.getElementById('show-more-wrap');
+  const collapseWrap = document.getElementById('collapse-wrap');
   if (visibleCount < list.length) {
     wrap.style.display = 'flex';
+    collapseWrap.style.display = 'none';
   } else {
     wrap.style.display = 'none';
+    collapseWrap.style.display = list.length > PAGE_SIZE ? 'flex' : 'none';
   }
 }
 
 function showMoreCards() {
   visibleCount = currentList.length;
   renderVisibleCards();
+}
+
+function collapseCards() {
+  visibleCount = PAGE_SIZE;
+  renderVisibleCards();
+  document.getElementById('uni-grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ── FAVOURITES ────────────────────────────────────────────────────
