@@ -593,6 +593,9 @@
         <div style="font-size:14px;">Loading universities…</div>
       </div>
     </div>
+    <div id="show-more-wrap" style="display:none;justify-content:center;padding:32px 0 8px;">
+      <button onclick="showMoreCards()" style="background:var(--white);border:1.5px solid var(--border);border-radius:10px;padding:12px 28px;font-size:14px;font-weight:600;color:var(--ink2);cursor:pointer;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--ink2)'">Show <span id="show-more-count"></span> more universities</button>
+    </div>
   </div>
 </section>
 </div>
@@ -825,7 +828,7 @@
 <footer>
   <div class="footer-logo">Exchange<span>Compass</span></div>
   <p>Built for students, by students. Not affiliated with any university.</p>
-  <p style="margin-top:8px;"><span class="footer-link" onclick="openSubmitModal()">Submit a review</span> · <span class="footer-link" style="margin-left:16px;" onclick="openFooterModal('privacy')">Privacy</span> · <span class="footer-link" style="margin-left:16px;" onclick="openFooterModal('about')">About</span> · <a href="/privacy.html" style="color:var(--muted);margin-left:16px;text-decoration:none;" class="footer-link">Privacy Policy</a> · <a href="/about.html" style="color:var(--muted);margin-left:16px;text-decoration:none;" class="footer-link">Full About</a></p>
+  <p style="margin-top:8px;"><span class="footer-link" onclick="openSubmitModal()">Submit a review</span> · <a href="/privacy.html" style="color:var(--muted);margin-left:16px;text-decoration:none;" class="footer-link">Privacy Policy</a> · <a href="/about.html" style="color:var(--muted);margin-left:16px;text-decoration:none;" class="footer-link">About</a></p>
   <div style="margin-top:20px;padding-top:20px;border-top:1px solid var(--border);">
     <p style="font-size:13px;color:var(--muted);margin:0;">Questions, corrections, or feedback? <a href="mailto:uniexchangecompass@gmail.com" style="color:var(--accent);text-decoration:none;font-weight:600;">uniexchangecompass@gmail.com</a></p>
   </div>
@@ -2633,7 +2636,18 @@ async function fetchUniPhotos(list) {
   }
 }
 
+const PAGE_SIZE = 24;
+let visibleCount = PAGE_SIZE;
+let currentList = [];
+
 function renderCards(list) {
+  currentList = list;
+  visibleCount = PAGE_SIZE;
+  renderVisibleCards();
+}
+
+function renderVisibleCards() {
+  const list = currentList;
   if (list.length === 0) {
     let msg, sub;
     if (currentRegion === 'saved') {
@@ -2649,9 +2663,11 @@ function renderCards(list) {
         <div style="font-size:16px;font-weight:600;color:var(--ink2);margin-bottom:6px;">${msg}</div>
         <div style="font-size:14px;">${sub}</div>
       </div>`;
+    document.getElementById('show-more-wrap').style.display = 'none';
     return;
   }
-  document.getElementById('uni-grid').innerHTML = list.map(u => {
+  const visible = list.slice(0, visibleCount);
+  document.getElementById('uni-grid').innerHTML = visible.map(u => {
     const count = cardReviewCounts[u.id] || 0;
     const avg = cardReviewAvgs[u.id];
     const reviewLabel = count > 0
@@ -2676,7 +2692,23 @@ function renderCards(list) {
       </div>
     </div>`;
   }).join('');
-  fetchUniPhotos(list);
+  fetchUniPhotos(visible);
+  const wrap = document.getElementById('show-more-wrap');
+  if (visibleCount < list.length) {
+    wrap.style.display = 'flex';
+    document.getElementById('show-more-count').textContent = Math.min(PAGE_SIZE, list.length - visibleCount);
+  } else {
+    wrap.style.display = 'none';
+  }
+}
+
+function showMoreCards() {
+  visibleCount += PAGE_SIZE;
+  renderVisibleCards();
+  // scroll to the first new card (smooth)
+  const cards = document.querySelectorAll('.uni-card');
+  const target = cards[visibleCount - PAGE_SIZE];
+  if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ── FAVOURITES ────────────────────────────────────────────────────
