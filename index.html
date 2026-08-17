@@ -436,7 +436,7 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1248483056214250" crossorigin="anonymous"></script>
   <script type="module">
     import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
-    import { getFirestore, collection, addDoc, getDocs, query, where, orderBy, getCountFromServer } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+    import { getFirestore, collection, addDoc, getDocs, query, where, orderBy, getCountFromServer, deleteDoc, doc } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
     const firebaseConfig = {
       apiKey: "AIzaSyBJ7yA4Nhzil4ZC4urltgrcqWo02XKCXDM",
       authDomain: "exchangecompass-28e4d.firebaseapp.com",
@@ -455,6 +455,8 @@
     window._fsWhere = where;
     window._fsOrderBy = orderBy;
     window._fsGetCount = getCountFromServer;
+    window._fsDeleteDoc = deleteDoc;
+    window._fsDoc = doc;
   </script>
 </head>
 <body>
@@ -798,10 +800,27 @@
     <div class="section-eyebrow">Community</div>
     <h2 class="section-title">Student reviews</h2>
     <p class="section-sub">Ratings submitted by students. Average scores are visible to everyone — submit your own review to unlock full individual reviews.</p>
+    <div style="margin-bottom:16px;text-align:right;">
+      <button onclick="openMySubmissionsModal()" style="background:none;border:1.5px solid var(--border);border-radius:8px;padding:8px 16px;font-size:13px;font-weight:600;color:var(--ink2);cursor:pointer;">My submissions</button>
+    </div>
     <div id="reviews-list"><div style="text-align:center;padding:60px 0;color:var(--muted);">Loading reviews…</div></div>
   </div>
 </section>
 </div>
+
+<!-- My Submissions Modal -->
+<div id="my-submissions-modal" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,0.5);align-items:center;justify-content:center;" onclick="if(event.target===this)this.classList.remove('open')">
+  <div style="background:var(--white);border-radius:16px;padding:32px;width:min(520px,95vw);max-height:80vh;overflow-y:auto;position:relative;box-shadow:0 24px 80px rgba(0,0,0,0.2);">
+    <button onclick="document.getElementById('my-submissions-modal').classList.remove('open')" style="position:absolute;top:16px;right:16px;background:none;border:none;font-size:22px;color:var(--muted);cursor:pointer;">×</button>
+    <h3 style="font-family:var(--serif);font-size:24px;color:var(--ink);margin-bottom:6px;">My submissions</h3>
+    <p style="font-size:13px;color:var(--muted);margin-bottom:20px;">Reviews you submitted from this device. You can permanently remove any of them here.</p>
+    <div id="my-submissions-list"></div>
+  </div>
+</div>
+
+<style>
+#my-submissions-modal.open { display:flex; }
+</style>
 
 <footer>
   <div class="footer-logo">Exchange<span>Compass</span></div>
@@ -3052,6 +3071,54 @@ async function openModal(id) {
   slot.outerHTML = reviewsSection;
 }
 
+async function deleteMyReview(docId, btn) {
+  if (!window._db) { alert('Deletion not available — Firebase not loaded.'); return; }
+  if (!confirm('Remove this review permanently? This cannot be undone.')) return;
+  btn.disabled = true;
+  btn.textContent = 'Removing…';
+  try {
+    await window._fsDeleteDoc(window._fsDoc(window._db, 'reviews', docId));
+    // Remove from localStorage record
+    try {
+      const mine = JSON.parse(localStorage.getItem('rme-my-submissions') || '[]');
+      localStorage.setItem('rme-my-submissions', JSON.stringify(mine.filter(m => m.docId !== docId)));
+    } catch(e) {}
+    btn.closest('.my-submission-card').remove();
+    const remaining = document.querySelectorAll('.my-submission-card');
+    if (!remaining.length) {
+      document.getElementById('my-submissions-list').innerHTML = '<p style="color:var(--muted);font-size:14px;">No submissions on this device.</p>';
+    }
+  } catch(e) {
+    console.error(e);
+    btn.disabled = false;
+    btn.textContent = 'Remove';
+    alert('Could not delete the review. Please try again.');
+  }
+}
+
+function openMySubmissionsModal() {
+  const mine = (() => { try { return JSON.parse(localStorage.getItem('rme-my-submissions') || '[]'); } catch(e) { return []; } })();
+  const modal = document.getElementById('my-submissions-modal');
+  const list = document.getElementById('my-submissions-list');
+  if (!mine.length) {
+    list.innerHTML = '<p style="color:var(--muted);font-size:14px;">No submissions found on this device.</p>';
+  } else {
+    list.innerHTML = mine.map(m => {
+      const uni = unis.find(u => u.id === m.exchangeId);
+      const name = uni ? uni.name : m.exchangeId;
+      const date = m.submittedAt ? new Date(m.submittedAt).toLocaleDateString() : 'Unknown date';
+      return `<div class="my-submission-card" style="background:var(--bg);border:1.5px solid var(--border);border-radius:12px;padding:16px 20px;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;gap:12px;">
+        <div>
+          <div style="font-weight:600;font-size:14px;color:var(--ink);">${name}</div>
+          <div style="font-size:12px;color:var(--muted);margin-top:2px;">Submitted ${date}</div>
+        </div>
+        <button onclick="deleteMyReview('${m.docId}', this)" style="background:none;border:1.5px solid #e55;color:#e55;border-radius:8px;padding:6px 14px;font-size:13px;font-weight:600;cursor:pointer;">Remove</button>
+      </div>`;
+    }).join('');
+  }
+  modal.classList.add('open');
+}
+
 function escapeHtml(str) {
   if (!str) return '';
   const div = document.createElement('div');
@@ -3193,7 +3260,13 @@ async function submitReview() {
 async function saveReview(review) {
   if (window._db) {
     const col = window._fsCollection(window._db, 'reviews');
-    await window._fsAddDoc(col, review);
+    const ref = await window._fsAddDoc(col, review);
+    // Store doc ID so this user can delete their own review later
+    try {
+      const mine = JSON.parse(localStorage.getItem('rme-my-submissions') || '[]');
+      mine.push({ docId: ref.id, exchangeId: review.exchangeId, submittedAt: review.submittedAt });
+      localStorage.setItem('rme-my-submissions', JSON.stringify(mine));
+    } catch(e) {}
   } else {
     // fallback: localStorage
     const key = 'rme-reviews:' + review.exchangeId;
