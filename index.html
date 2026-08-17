@@ -594,7 +594,7 @@
       </div>
     </div>
     <div id="show-more-wrap" style="display:none;justify-content:center;padding:32px 0 8px;">
-      <button onclick="showMoreCards()" style="background:var(--white);border:1.5px solid var(--border);border-radius:10px;padding:12px 28px;font-size:14px;font-weight:600;color:var(--ink2);cursor:pointer;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--ink2)'">Show <span id="show-more-count"></span> more universities</button>
+      <button onclick="showMoreCards()" style="background:var(--white);border:1.5px solid var(--border);border-radius:10px;padding:12px 28px;font-size:14px;font-weight:600;color:var(--ink2);cursor:pointer;transition:border-color 0.15s,color 0.15s;display:flex;align-items:center;gap:8px;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--ink2)'">Show all <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="flex-shrink:0;"><path d="M3 6l5 5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
     </div>
   </div>
 </section>
@@ -828,7 +828,7 @@
 <footer>
   <div class="footer-logo">Exchange<span>Compass</span></div>
   <p>Built for students, by students. Not affiliated with any university.</p>
-  <p style="margin-top:8px;"><span class="footer-link" onclick="openSubmitModal()">Submit a review</span> · <a href="/privacy.html" style="color:var(--muted);margin-left:16px;text-decoration:none;" class="footer-link">Privacy Policy</a> · <a href="/about.html" style="color:var(--muted);margin-left:16px;text-decoration:none;" class="footer-link">About</a></p>
+  <p style="margin-top:8px;"><span class="footer-link" onclick="openSubmitModal()">Submit a review</span> · <a href="/privacy.html" class="footer-link" style="margin-left:16px;text-decoration:none;">Privacy Policy</a> · <a href="/about.html" class="footer-link" style="margin-left:16px;text-decoration:none;">About</a></p>
   <div style="margin-top:20px;padding-top:20px;border-top:1px solid var(--border);">
     <p style="font-size:13px;color:var(--muted);margin:0;">Questions, corrections, or feedback? <a href="mailto:uniexchangecompass@gmail.com" style="color:var(--accent);text-decoration:none;font-weight:600;">uniexchangecompass@gmail.com</a></p>
   </div>
@@ -2696,19 +2696,14 @@ function renderVisibleCards() {
   const wrap = document.getElementById('show-more-wrap');
   if (visibleCount < list.length) {
     wrap.style.display = 'flex';
-    document.getElementById('show-more-count').textContent = Math.min(PAGE_SIZE, list.length - visibleCount);
   } else {
     wrap.style.display = 'none';
   }
 }
 
 function showMoreCards() {
-  visibleCount += PAGE_SIZE;
+  visibleCount = currentList.length;
   renderVisibleCards();
-  // scroll to the first new card (smooth)
-  const cards = document.querySelectorAll('.uni-card');
-  const target = cards[visibleCount - PAGE_SIZE];
-  if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ── FAVOURITES ────────────────────────────────────────────────────
